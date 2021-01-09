@@ -17,6 +17,8 @@ knitr::opts_chunk$set(
 
 R Package with the Brazilian National Soccer League (Brasileirão) matches from 2003 to 2020.
 
+<a href="https://raw.githubusercontent.com/williamorim/brasileirao/master/data-raw/csv/matches.csv" download="matches.csv">Click here</a> to download all data in CSV.
+
 ## Installation
 
 You can install this package from [GitHub](https://github.com/) with:

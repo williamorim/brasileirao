@@ -9,4 +9,6 @@ matches_2020 <- purrr::map_dfr(1:28, scraper_ge_2020)
 
 matches <- dplyr::bind_rows(matches_2003_2019, matches_2020)
 
+readr::write_csv(matches, "data-raw/csv/matches.csv")
+
 usethis::use_data(matches, overwrite = TRUE)
