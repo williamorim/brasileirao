@@ -1,0 +1,56 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# brasileirao
+
+R Package with the Brazilian National Soccer League (Brasileirão) matches from 2003 to 2020.
+
+## Installation
+
+You can install this package from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("williamorim/brasileirao")
+```
+
+## Example
+
+Data from the 2020 season:
+
+```{r example}
+library(brasileirao)
+
+matches %>% 
+  dplyr::filter(season == 2020)
+```
+
+## Sources
+
+- Data from 2003 to 2019: [http://www.chancedegol.com.br/](http://www.chancedegol.com.br/)
+
+- Data from 2020: [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
+
+## Warranty
+
+The data in this package was not validated by any means and has no warranty.
+
+If you find any bug or wrong information, please [open a issue](https://github.com/williamorim/brasileirao/issues).
+
+## Next steps
+
+- Update the data every Monday and Thursday at 11:59 pm using GitHub Actions.
+
+
