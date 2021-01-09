@@ -22,8 +22,7 @@ Data from the 2020 season:
 ``` r
 library(brasileirao)
 
-matches %>% 
-  dplyr::filter(season == 2020)
+dplyr::filter(matches, season == 2020)
 #> # A tibble: 276 x 5
 #>    season date       home        score away         
 #>     <dbl> <date>     <chr>       <chr> <chr>        
@@ -51,6 +50,9 @@ matches %>%
 
 The data in this package was not validated by any means and has no
 warranty.
+
+If you find any bug or wrong information, please [open a
+issue](https://github.com/williamorim/brasileirao/issues).
 
 ## Next steps
 

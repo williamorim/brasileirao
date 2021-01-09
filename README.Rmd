@@ -33,8 +33,7 @@ Data from the 2020 season:
 ```{r example}
 library(brasileirao)
 
-matches %>% 
-  dplyr::filter(season == 2020)
+dplyr::filter(matches, season == 2020)
 ```
 
 ## Sources
