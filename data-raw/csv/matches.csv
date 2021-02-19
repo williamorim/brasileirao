@@ -6901,6 +6901,7 @@ season,date,home,score,away
 2020,2020-09-30,Botafogo,1x2,Bahia
 2020,2020-09-30,Corinthians,0x0,Atlético-GO
 2020,2020-12-03,Goiás,0x3,São Paulo
+2020,2021-01-26,Palmeiras,1x1,Vasco
 2020,2020-08-12,Bragantino,1x1,Botafogo
 2020,2020-08-12,Atlético-MG,3x2,Corinthians
 2020,2020-08-12,Athletico-PR,2x1,Goiás
@@ -7120,6 +7121,7 @@ season,date,home,score,away
 2020,2020-11-28,Atlético-GO,0x0,Internacional
 2020,2020-11-30,Vasco,1x4,Ceará
 2020,2020-11-30,Fluminense,0x0,Bragantino
+2020,2021-01-28,Grêmio,2x4,Flamengo
 2020,2020-12-02,Fortaleza,0x0,Corinthians
 2020,2020-12-05,Botafogo,0x1,Flamengo
 2020,2020-12-05,Santos,2x2,Palmeiras
@@ -7168,3 +7170,84 @@ season,date,home,score,away
 2020,2021-01-06,Bragantino,4x2,São Paulo
 2020,2021-01-07,Ceará,0x2,Internacional
 2020,2021-01-07,Atlético-GO,0x0,Vasco
+2020,2021-01-18,Palmeiras,4x0,Corinthians
+2020,2021-01-26,Atlético-MG,2x0,Santos
+2020,2021-01-09,Sport,0x1,Palmeiras
+2020,2021-01-09,Coritiba,0x0,Athletico-PR
+2020,2021-01-09,Fortaleza,0x0,Grêmio
+2020,2021-01-10,Flamengo,0x2,Ceará
+2020,2021-01-10,São Paulo,0x1,Santos
+2020,2021-01-10,Internacional,1x0,Goiás
+2020,2021-01-10,Atlético-GO,1x1,Bahia
+2020,2021-01-10,Vasco,3x0,Botafogo
+2020,2021-01-11,Bragantino,2x2,Atlético-MG
+2020,2021-01-13,Corinthians,5x0,Fluminense
+2020,2021-01-15,Palmeiras,1x1,Grêmio
+2020,2021-01-16,Fluminense,1x0,Sport
+2020,2021-01-16,Vasco,0x1,Coritiba
+2020,2021-01-17,Santos,2x1,Botafogo
+2020,2021-01-17,Athletico-PR,1x1,São Paulo
+2020,2021-01-17,Atlético-MG,3x1,Atlético-GO
+2020,2021-01-17,Internacional,4x2,Fortaleza
+2020,2021-01-17,Ceará,1x2,Bragantino
+2020,2021-01-18,Goiás,0x3,Flamengo
+2020,2021-01-28,Bahia,2x1,Corinthians
+2020,2021-01-20,Botafogo,1x3,Atlético-GO
+2020,2021-01-20,Bahia,1x0,Athletico-PR
+2020,2021-01-20,Grêmio,1x1,Atlético-MG
+2020,2021-01-20,Coritiba,3x3,Fluminense
+2020,2021-01-20,São Paulo,1x5,Internacional
+2020,2021-01-20,Bragantino,4x1,Vasco
+2020,2021-01-21,Flamengo,2x0,Palmeiras
+2020,2021-01-21,Fortaleza,2x0,Santos
+2020,2021-01-21,Goiás,0x4,Ceará
+2020,2021-01-21,Corinthians,3x0,Sport
+2020,2021-01-23,São Paulo,1x1,Coritiba
+2020,2021-01-23,Vasco,3x2,Atlético-MG
+2020,2021-01-24,Internacional,2x1,Grêmio
+2020,2021-01-24,Athletico-PR,2x1,Flamengo
+2020,2021-01-24,Ceará,2x1,Palmeiras
+2020,2021-01-24,Santos,3x4,Goiás
+2020,2021-01-24,Sport,2x0,Bahia
+2020,2021-01-24,Atlético-GO,2x0,Fortaleza
+2020,2021-01-24,Fluminense,2x0,Botafogo
+2020,2021-01-25,Corinthians,0x2,Bragantino
+2020,2021-01-31,Vasco,0x0,Bahia
+2020,2021-01-31,Coritiba,1x1,Grêmio
+2020,2021-01-31,Ceará,0x2,Athletico-PR
+2020,2021-01-31,Atlético-GO,2x1,São Paulo
+2020,2021-01-31,Atlético-MG,2x0,Fortaleza
+2020,2021-01-31,Internacional,2x1,Bragantino
+2020,2021-01-31,Fluminense,3x0,Goiás
+2020,2021-02-01,Sport,0x3,Flamengo
+2020,2021-02-02,Palmeiras,1x1,Botafogo
+2020,2021-02-17,Santos,1x0,Corinthians
+2020,2021-02-03,Grêmio,3x3,Santos
+2020,2021-02-03,Bragantino,2x0,Atlético-GO
+2020,2021-02-03,Corinthians,2x1,Ceará
+2020,2021-02-03,Bahia,0x1,Fluminense
+2020,2021-02-03,Goiás,1x0,Atlético-MG
+2020,2021-02-04,Fortaleza,3x1,Coritiba
+2020,2021-02-04,Flamengo,2x0,Vasco
+2020,2021-02-04,Athletico-PR,0x0,Internacional
+2020,2021-02-05,Botafogo,0x1,Sport
+2020,2021-02-06,Bahia,3x3,Goiás
+2020,2021-02-06,Atlético-GO,1x1,Santos
+2020,2021-02-07,Bragantino,1x1,Flamengo
+2020,2021-02-08,Botafogo,2x5,Grêmio
+2020,2021-02-10,Internacional,1x2,Sport
+2020,2021-02-10,Fortaleza,3x0,Vasco
+2020,2021-02-10,São Paulo,1x1,Ceará
+2020,2021-02-10,Fluminense,0x0,Atlético-MG
+2020,2021-02-10,Corinthians,3x3,Athletico-PR
+2020,2021-02-17,Coritiba,1x0,Palmeiras
+2020,2021-02-13,Goiás,2x0,Botafogo
+2020,2021-02-13,Santos,2x0,Coritiba
+2020,2021-02-13,Atlético-MG,1x1,Bahia
+2020,2021-02-14,Flamengo,2x1,Corinthians
+2020,2021-02-14,Vasco,0x2,Internacional
+2020,2021-02-14,Palmeiras,3x0,Fortaleza
+2020,2021-02-14,Athletico-PR,2x1,Atlético-GO
+2020,2021-02-14,Grêmio,1x2,São Paulo
+2020,2021-02-15,Ceará,1x3,Fluminense
+2020,2021-02-15,Sport,0x0,Bragantino

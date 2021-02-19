@@ -109,8 +109,11 @@ scraper_ge_2020 <- function(round) {
     janitor::clean_names() %>%
     tibble::as_tibble()
   tab %>%
-    dplyr::filter(!is.na(placar_oficial_mandante)) %>%
     dplyr::mutate(
+      dplyr::across(
+        dplyr::starts_with("placar_oficial"),
+        ~ tidyr::replace_na(.x, "")
+      ),
       season = 2020,
       date = as.Date(data_realizacao),
       home = equipes$mandante$nome_popular,
