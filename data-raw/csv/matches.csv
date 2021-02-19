@@ -7231,6 +7231,7 @@ season,date,home,score,away
 2020,2021-02-04,Flamengo,2x0,Vasco
 2020,2021-02-04,Athletico-PR,0x0,Internacional
 2020,2021-02-05,Botafogo,0x1,Sport
+2020,2021-02-19,São Paulo,x,Palmeiras
 2020,2021-02-06,Bahia,3x3,Goiás
 2020,2021-02-06,Atlético-GO,1x1,Santos
 2020,2021-02-07,Bragantino,1x1,Flamengo
@@ -7251,3 +7252,23 @@ season,date,home,score,away
 2020,2021-02-14,Grêmio,1x2,São Paulo
 2020,2021-02-15,Ceará,1x3,Fluminense
 2020,2021-02-15,Sport,0x0,Bragantino
+2020,2021-02-20,Coritiba,x,Ceará
+2020,2021-02-20,Fortaleza,x,Bahia
+2020,2021-02-21,Flamengo,x,Internacional
+2020,2021-02-21,Corinthians,x,Vasco
+2020,2021-02-21,Sport,x,Atlético-MG
+2020,2021-02-21,Santos,x,Fluminense
+2020,2021-02-21,Grêmio,x,Athletico-PR
+2020,2021-02-21,Goiás,x,Bragantino
+2020,2021-02-22,Palmeiras,x,Atlético-GO
+2020,2021-02-22,Botafogo,x,São Paulo
+2020,2021-02-25,Fluminense,x,Fortaleza
+2020,2021-02-25,Vasco,x,Goiás
+2020,2021-02-25,São Paulo,x,Flamengo
+2020,2021-02-25,Bragantino,x,Grêmio
+2020,2021-02-25,Atlético-MG,x,Palmeiras
+2020,2021-02-25,Internacional,x,Corinthians
+2020,2021-02-25,Bahia,x,Santos
+2020,2021-02-25,Athletico-PR,x,Sport
+2020,2021-02-25,Ceará,x,Botafogo
+2020,2021-02-25,Atlético-GO,x,Coritiba
