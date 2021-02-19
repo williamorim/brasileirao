@@ -1,5 +1,8 @@
+^renv$
+^renv\.lock$
 ^brasileirao\.Rproj$
 ^\.Rproj\.user$
 ^data-raw$
 ^README\.Rmd$
 ^LICENSE\.md$
+^\.github$
