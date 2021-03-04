@@ -6,6 +6,8 @@
 R Package with the Brazilian National Soccer League (Brasileirão)
 matches from 2003 to 2020.
 
+For Portuguese speakers: pacote com os resultados das partidas da Série A do Brasileirão de 2003 a 2020. Veja [aqui um post sobre como usar](https://blog.curso-r.com/posts/2021-03-02-brasileirao/).
+
 <a href="https://raw.githubusercontent.com/williamorim/brasileirao/master/data-raw/csv/matches.csv" download="matches.csv">Click
 here</a> to download all data in CSV.
 
@@ -48,6 +50,8 @@ dplyr::filter(matches, season == 2020)
 
   - Data from 2020:
     [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
+    
+The data is updated every day, using a GitHub Actions workflow. The workflow is disabled in months between seasons.
 
 ## Warranty
 
@@ -59,5 +63,5 @@ issue](https://github.com/williamorim/brasileirao/issues).
 
 ## Next steps
 
-  - Update the data every Monday and Thursday at 11:59 pm using GitHub
-    Actions.
+  - Gather more data from Serie A
+  - Gather data from Serie B, C and D
