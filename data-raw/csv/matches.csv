@@ -1134,7 +1134,6 @@ season,date,home,score,away
 2005,2005-05-08,São Caetano,2x1,Fortaleza
 2005,2005-05-08,Atlético MG,0x1,Brasiliense
 2005,2005-05-08,Internacional,1x0,Flamengo
-2005,2005-05-08,Vasco,0x1,Botafogo
 2005,2005-05-08,Fluminense,2x1,Cruzeiro
 2005,2005-05-14,São Paulo,1x0,Coritiba
 2005,2005-05-14,Fortaleza,2x1,Ponte Preta
@@ -1203,7 +1202,6 @@ season,date,home,score,away
 2005,2005-06-26,Cruzeiro,3x3,Vasco
 2005,2005-06-26,Goiás,2x1,Coritiba
 2005,2005-07-02,Coritiba,3x1,Paysandu
-2005,2005-07-02,Ponte Preta,1x0,São Paulo
 2005,2005-07-02,Vasco,1x2,Goiás
 2005,2005-07-02,Fluminense,0x1,Paraná
 2005,2005-07-03,Santos,0x0,Juventude
@@ -1225,7 +1223,6 @@ season,date,home,score,away
 2005,2005-07-10,Cruzeiro,2x1,Atlético MG
 2005,2005-07-10,Goiás,3x4,Santos
 2005,2005-07-16,Ponte Preta,2x1,Figueirense
-2005,2005-07-16,Paysandu,1x2,Cruzeiro
 2005,2005-07-16,Goiás,1x3,Brasiliense
 2005,2005-07-16,Paraná,2x3,Corinthians
 2005,2005-07-16,Fluminense,0x1,São Caetano
@@ -1251,7 +1248,6 @@ season,date,home,score,away
 2005,2005-07-22,Goiás,2x1,Fortaleza
 2005,2005-07-22,Botafogo,1x1,Brasiliense
 2005,2005-07-24,Coritiba,3x2,Flamengo
-2005,2005-07-24,Juventude,1x4,Figueirense
 2005,2005-07-24,Ponte Preta,2x1,Fluminense
 2005,2005-07-24,Paysandu,1x2,Internacional
 2005,2005-07-24,Vasco,2x3,Corinthians
@@ -1272,7 +1268,6 @@ season,date,home,score,away
 2005,2005-07-30,Cruzeiro,3x0,Fortaleza
 2005,2005-07-30,Goiás,3x1,Atlético MG
 2005,2005-07-31,Coritiba,1x1,Brasiliense
-2005,2005-07-31,Santos,4x2,Corinthians
 2005,2005-07-31,Juventude,2x1,São Paulo
 2005,2005-07-31,Figueirense,1x1,Fluminense
 2005,2005-07-31,Ponte Preta,1x1,Internacional
@@ -1299,14 +1294,12 @@ season,date,home,score,away
 2005,2005-08-07,Paraná,1x1,Santos
 2005,2005-08-07,Ponte Preta,0x3,Coritiba
 2005,2005-08-07,Fortaleza,2x1,Flamengo
-2005,2005-08-07,Vasco,2x1,Figueirense
 2005,2005-08-07,Brasiliense,0x0,Internacional
 2005,2005-08-10,Coritiba,1x0,Atlético MG
 2005,2005-08-10,São Caetano,3x2,Atlético PR
 2005,2005-08-10,Internacional,0x0,Corinthians
 2005,2005-08-10,Figueirense,3x1,São Paulo
 2005,2005-08-10,Paysandu,0x2,Vasco
-2005,2005-08-10,Cruzeiro,4x1,Botafogo
 2005,2005-08-10,Palmeiras,2x1,Ponte Preta
 2005,2005-08-11,Santos,1x1,Brasiliense
 2005,2005-08-11,Fluminense,2x0,Fortaleza
@@ -1316,7 +1309,6 @@ season,date,home,score,away
 2005,2005-08-13,Palmeiras,3x2,Internacional
 2005,2005-08-13,Paysandu,2x1,Atlético PR
 2005,2005-08-14,São Paulo,3x2,Fortaleza
-2005,2005-08-14,Juventude,2x0,Fluminense
 2005,2005-08-14,Figueirense,2x2,Brasiliense
 2005,2005-08-14,Ponte Preta,3x5,Corinthians
 2005,2005-08-14,Vasco,2x1,Atlético MG
@@ -1328,7 +1320,6 @@ season,date,home,score,away
 2005,2005-08-20,Atlético PR,4x2,São Paulo
 2005,2005-08-21,Corinthians,1x1,Goiás
 2005,2005-08-21,Santos,4x3,Figueirense
-2005,2005-08-21,Internacional,3x2,Coritiba
 2005,2005-08-21,Paraná,0x0,Vasco
 2005,2005-08-21,Fortaleza,3x1,Botafogo
 2005,2005-08-21,Flamengo,2x1,Paysandu
@@ -1364,11 +1355,9 @@ season,date,home,score,away
 2005,2005-09-07,Fortaleza,5x2,São Caetano
 2005,2005-09-07,Juventude,2x0,Paraná
 2005,2005-09-07,Paysandu,2x2,Ponte Preta
-2005,2005-09-07,São Paulo,3x2,Corinthians
 2005,2005-09-08,Flamengo,1x1,Internacional
 2005,2005-09-08,Palmeiras,1x1,Coritiba
 2005,2005-09-10,São Caetano,1x2,Paysandu
-2005,2005-09-10,Fluminense,3x0,Brasiliense
 2005,2005-09-10,Goiás,1x0,Cruzeiro
 2005,2005-09-11,Atlético MG,0x2,Botafogo
 2005,2005-09-11,Corinthians,2x0,Atlético PR
@@ -6892,6 +6881,10 @@ season,date,home,score,away
 2019,2019-12-08,Avaí,0x0,Athletico PR
 2019,2019-12-08,Goiás,3x2,Grêmio
 2019,2019-12-08,CSA,1x2,São Paulo
+2019,2019-09-25,São Paulo,0x1,Goiás
+2019,2019-09-25,Ceará,0x0,Cruzeiro
+2019,2019-09-25,Bahia,2x0,Botafogo
+2019,2019-09-25,Flamengo,3x1,Internacional
 2020,2020-08-08,Fortaleza,0x2,Athletico-PR
 2020,2020-08-08,Coritiba,0x1,Internacional
 2020,2020-08-08,Sport,3x2,Ceará
