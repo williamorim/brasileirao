@@ -13,3 +13,17 @@
 #' }
 #' @source \url{https://github.com/williamorim/brasileirao}
 "matches"
+
+
+#' Badge file from each team in the matches data framse
+#'
+#' A dataset containing the filename from each team in the matches data frame.
+#'
+#' @format A data frame with 2 variables:
+#' \describe{
+#'   \item{team}{The team name.}
+#'   \item{badge}{The badge filename that can be accessed with
+#'   \code{system.file("badges/", package = "brasileirao")}}
+#' }
+#' @source \url{https://github.com/williamorim/brasileirao}
+"badges"
