@@ -52,7 +52,7 @@ get_badge <- function(team) {
   team <- sub(" ", "-", team)
 
   files <- list.files(
-    system.file("badges", package = "brasileirao"),
+    system.file("badges", package = "brasileirao")
   )
 
   badge <- files[sub("[.].*", "", files) == team]
