@@ -3,7 +3,7 @@
 devtools::load_all()
 source("data-raw/scraping_matches.R")
 
-matches_2020 <- purrr::map_dfr(1:38, scraper_ge_2020)
+matches_2021 <- purrr::map_dfr(1:38, scraper_ge_2021)
 
 matches <- matches %>%
   dplyr::filter(season != 2020) %>%

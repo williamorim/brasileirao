@@ -7265,3 +7265,383 @@ season,date,home,score,away
 2020,2021-02-25,Athletico-PR,2x0,Sport
 2020,2021-02-25,Ceará,2x1,Botafogo
 2020,2021-02-25,Atlético-GO,3x1,Coritiba
+2021,2021-05-30,Flamengo,x,Palmeiras
+2021,2021-05-30,Corinthians,x,Atlético-GO
+2021,2021-05-30,São Paulo,x,Fluminense
+2021,2021-05-30,Atlético-MG,x,Fortaleza
+2021,2021-05-30,Internacional,x,Sport
+2021,2021-05-30,Ceará,x,Grêmio
+2021,2021-05-30,Bahia,x,Santos
+2021,2021-05-30,Chapecoense,x,Bragantino
+2021,2021-05-30,Athletico-PR,x,América-MG
+2021,2021-05-30,Cuiabá,x,Juventude
+2021,NA,Grêmio,x,Flamengo
+2021,NA,América-MG,x,Corinthians
+2021,NA,Fluminense,x,Cuiabá
+2021,NA,Palmeiras,x,Chapecoense
+2021,NA,Santos,x,Ceará
+2021,NA,Fortaleza,x,Internacional
+2021,NA,Sport,x,Atlético-MG
+2021,NA,Bragantino,x,Bahia
+2021,NA,Atlético-GO,x,São Paulo
+2021,NA,Juventude,x,Athletico-PR
+2021,NA,Flamengo,x,América-MG
+2021,NA,Palmeiras,x,Corinthians
+2021,NA,Santos,x,Juventude
+2021,NA,Atlético-MG,x,São Paulo
+2021,NA,Grêmio,x,Athletico-PR
+2021,NA,Bahia,x,Internacional
+2021,NA,Fortaleza,x,Sport
+2021,NA,Bragantino,x,Fluminense
+2021,NA,Chapecoense,x,Ceará
+2021,NA,Cuiabá,x,Atlético-GO
+2021,NA,Athletico-PR,x,Flamengo
+2021,NA,Fluminense,x,Santos
+2021,NA,Corinthians,x,Bragantino
+2021,NA,São Paulo,x,Chapecoense
+2021,NA,Internacional,x,Atlético-MG
+2021,NA,Juventude,x,Palmeiras
+2021,NA,Sport,x,Grêmio
+2021,NA,Ceará,x,Bahia
+2021,NA,América-MG,x,Cuiabá
+2021,NA,Atlético-GO,x,Fortaleza
+2021,NA,Flamengo,x,Bragantino
+2021,NA,Palmeiras,x,América-MG
+2021,NA,Santos,x,São Paulo
+2021,NA,Atlético-MG,x,Chapecoense
+2021,NA,Internacional,x,Ceará
+2021,NA,Fortaleza,x,Fluminense
+2021,NA,Bahia,x,Corinthians
+2021,NA,Athletico-PR,x,Atlético-GO
+2021,NA,Cuiabá,x,Grêmio
+2021,NA,Juventude,x,Sport
+2021,NA,Flamengo,x,Fortaleza
+2021,NA,Corinthians,x,Sport
+2021,NA,São Paulo,x,Cuiabá
+2021,NA,América-MG,x,Juventude
+2021,NA,Grêmio,x,Santos
+2021,NA,Ceará,x,Atlético-MG
+2021,NA,Bragantino,x,Palmeiras
+2021,NA,Bahia,x,Athletico-PR
+2021,NA,Chapecoense,x,Internacional
+2021,NA,Atlético-GO,x,Fluminense
+2021,NA,Fluminense,x,Corinthians
+2021,NA,Palmeiras,x,Bahia
+2021,NA,Santos,x,Atlético-MG
+2021,NA,América-MG,x,Internacional
+2021,NA,Grêmio,x,Fortaleza
+2021,NA,Ceará,x,São Paulo
+2021,NA,Juventude,x,Flamengo
+2021,NA,Sport,x,Cuiabá
+2021,NA,Athletico-PR,x,Chapecoense
+2021,NA,Atlético-GO,x,Bragantino
+2021,NA,Cuiabá,x,Flamengo
+2021,NA,Fluminense,x,Athletico-PR
+2021,NA,Corinthians,x,São Paulo
+2021,NA,Santos,x,Sport
+2021,NA,Atlético-MG,x,Atlético-GO
+2021,NA,Internacional,x,Palmeiras
+2021,NA,Fortaleza,x,Chapecoense
+2021,NA,Juventude,x,Grêmio
+2021,NA,Bahia,x,América-MG
+2021,NA,Bragantino,x,Ceará
+2021,NA,Flamengo,x,Fluminense
+2021,NA,Corinthians,x,Internacional
+2021,NA,São Paulo,x,Bragantino
+2021,NA,América-MG,x,Santos
+2021,NA,Sport,x,Palmeiras
+2021,NA,Grêmio,x,Atlético-GO
+2021,NA,Ceará,x,Juventude
+2021,NA,Athletico-PR,x,Fortaleza
+2021,NA,Cuiabá,x,Atlético-MG
+2021,NA,Chapecoense,x,Bahia
+2021,NA,Palmeiras,x,Grêmio
+2021,NA,Atlético-MG,x,Flamengo
+2021,NA,Fluminense,x,Ceará
+2021,NA,Santos,x,Athletico-PR
+2021,NA,Internacional,x,São Paulo
+2021,NA,Fortaleza,x,América-MG
+2021,NA,Bahia,x,Juventude
+2021,NA,Bragantino,x,Cuiabá
+2021,NA,Chapecoense,x,Corinthians
+2021,NA,Atlético-GO,x,Sport
+2021,NA,Flamengo,x,Chapecoense
+2021,NA,Palmeiras,x,Santos
+2021,NA,São Paulo,x,Bahia
+2021,NA,Grêmio,x,Internacional
+2021,NA,América-MG,x,Atlético-MG
+2021,NA,Fortaleza,x,Corinthians
+2021,NA,Sport,x,Fluminense
+2021,NA,Athletico-PR,x,Bragantino
+2021,NA,Juventude,x,Atlético-GO
+2021,NA,Cuiabá,x,Ceará
+2021,NA,Corinthians,x,Atlético-MG
+2021,NA,Fluminense,x,Grêmio
+2021,NA,Bahia,x,Flamengo
+2021,NA,São Paulo,x,Fortaleza
+2021,NA,América-MG,x,Sport
+2021,NA,Internacional,x,Juventude
+2021,NA,Ceará,x,Athletico-PR
+2021,NA,Bragantino,x,Santos
+2021,NA,Atlético-GO,x,Palmeiras
+2021,NA,Chapecoense,x,Cuiabá
+2021,NA,Palmeiras,x,Fluminense
+2021,NA,Santos,x,Atlético-GO
+2021,NA,Atlético-MG,x,Bahia
+2021,NA,Grêmio,x,América-MG
+2021,NA,Athletico-PR,x,Internacional
+2021,NA,Cuiabá,x,Corinthians
+2021,NA,Fortaleza,x,Bragantino
+2021,NA,Sport,x,Ceará
+2021,NA,Juventude,x,Chapecoense
+2021,NA,Flamengo,x,São Paulo
+2021,NA,Corinthians,x,Flamengo
+2021,NA,São Paulo,x,Palmeiras
+2021,NA,Fluminense,x,Juventude
+2021,NA,Atlético-MG,x,Athletico-PR
+2021,NA,Internacional,x,Cuiabá
+2021,NA,Ceará,x,Fortaleza
+2021,NA,Bahia,x,Sport
+2021,NA,Bragantino,x,Grêmio
+2021,NA,Chapecoense,x,Santos
+2021,NA,Atlético-GO,x,América-MG
+2021,NA,Flamengo,x,Internacional
+2021,NA,Santos,x,Corinthians
+2021,NA,Palmeiras,x,Fortaleza
+2021,NA,América-MG,x,Fluminense
+2021,NA,Grêmio,x,Chapecoense
+2021,NA,Ceará,x,Atlético-GO
+2021,NA,Sport,x,Bragantino
+2021,NA,Athletico-PR,x,São Paulo
+2021,NA,Juventude,x,Atlético-MG
+2021,NA,Cuiabá,x,Bahia
+2021,NA,Flamengo,x,Sport
+2021,NA,Corinthians,x,Ceará
+2021,NA,São Paulo,x,Grêmio
+2021,NA,Atlético-MG,x,Palmeiras
+2021,NA,Internacional,x,Fluminense
+2021,NA,Fortaleza,x,Santos
+2021,NA,Bahia,x,Atlético-GO
+2021,NA,Bragantino,x,Juventude
+2021,NA,Chapecoense,x,América-MG
+2021,NA,Cuiabá,x,Athletico-PR
+2021,NA,Fluminense,x,Atlético-MG
+2021,NA,Palmeiras,x,Cuiabá
+2021,NA,Santos,x,Internacional
+2021,NA,Ceará,x,Flamengo
+2021,NA,Grêmio,x,Bahia
+2021,NA,América-MG,x,Bragantino
+2021,NA,Sport,x,São Paulo
+2021,NA,Athletico-PR,x,Corinthians
+2021,NA,Juventude,x,Fortaleza
+2021,NA,Atlético-GO,x,Chapecoense
+2021,NA,Santos,x,Flamengo
+2021,NA,Fluminense,x,Bahia
+2021,NA,Palmeiras,x,Athletico-PR
+2021,NA,Grêmio,x,Corinthians
+2021,NA,América-MG,x,Ceará
+2021,NA,Fortaleza,x,Cuiabá
+2021,NA,Sport,x,Chapecoense
+2021,NA,Bragantino,x,Atlético-MG
+2021,NA,Juventude,x,São Paulo
+2021,NA,Atlético-GO,x,Internacional
+2021,NA,Flamengo,x,Atlético-GO
+2021,NA,Corinthians,x,Juventude
+2021,NA,São Paulo,x,América-MG
+2021,NA,Atlético-MG,x,Grêmio
+2021,NA,Internacional,x,Bragantino
+2021,NA,Ceará,x,Palmeiras
+2021,NA,Bahia,x,Fortaleza
+2021,NA,Athletico-PR,x,Sport
+2021,NA,Chapecoense,x,Fluminense
+2021,NA,Cuiabá,x,Santos
+2021,NA,Fluminense,x,São Paulo
+2021,NA,Palmeiras,x,Flamengo
+2021,NA,Santos,x,Bahia
+2021,NA,América-MG,x,Athletico-PR
+2021,NA,Grêmio,x,Ceará
+2021,NA,Fortaleza,x,Atlético-MG
+2021,NA,Sport,x,Internacional
+2021,NA,Bragantino,x,Chapecoense
+2021,NA,Juventude,x,Cuiabá
+2021,NA,Atlético-GO,x,Corinthians
+2021,NA,Flamengo,x,Grêmio
+2021,NA,Corinthians,x,América-MG
+2021,NA,São Paulo,x,Atlético-GO
+2021,NA,Atlético-MG,x,Sport
+2021,NA,Internacional,x,Fortaleza
+2021,NA,Ceará,x,Santos
+2021,NA,Bahia,x,Bragantino
+2021,NA,Athletico-PR,x,Juventude
+2021,NA,Chapecoense,x,Palmeiras
+2021,NA,Cuiabá,x,Fluminense
+2021,NA,Fluminense,x,Bragantino
+2021,NA,Corinthians,x,Palmeiras
+2021,NA,São Paulo,x,Atlético-MG
+2021,NA,América-MG,x,Flamengo
+2021,NA,Internacional,x,Bahia
+2021,NA,Ceará,x,Chapecoense
+2021,NA,Sport,x,Fortaleza
+2021,NA,Athletico-PR,x,Grêmio
+2021,NA,Juventude,x,Santos
+2021,NA,Atlético-GO,x,Cuiabá
+2021,NA,Flamengo,x,Athletico-PR
+2021,NA,Palmeiras,x,Juventude
+2021,NA,Santos,x,Fluminense
+2021,NA,Atlético-MG,x,Internacional
+2021,NA,Grêmio,x,Sport
+2021,NA,Fortaleza,x,Atlético-GO
+2021,NA,Bahia,x,Ceará
+2021,NA,Bragantino,x,Corinthians
+2021,NA,Chapecoense,x,São Paulo
+2021,NA,Cuiabá,x,América-MG
+2021,NA,Fluminense,x,Fortaleza
+2021,NA,Corinthians,x,Bahia
+2021,NA,São Paulo,x,Santos
+2021,NA,América-MG,x,Palmeiras
+2021,NA,Grêmio,x,Cuiabá
+2021,NA,Ceará,x,Internacional
+2021,NA,Sport,x,Juventude
+2021,NA,Bragantino,x,Flamengo
+2021,NA,Chapecoense,x,Atlético-MG
+2021,NA,Atlético-GO,x,Athletico-PR
+2021,NA,Fluminense,x,Atlético-GO
+2021,NA,Palmeiras,x,Bragantino
+2021,NA,Santos,x,Grêmio
+2021,NA,Atlético-MG,x,Ceará
+2021,NA,Internacional,x,Chapecoense
+2021,NA,Fortaleza,x,Flamengo
+2021,NA,Sport,x,Corinthians
+2021,NA,Athletico-PR,x,Bahia
+2021,NA,Juventude,x,América-MG
+2021,NA,Cuiabá,x,São Paulo
+2021,NA,Flamengo,x,Juventude
+2021,NA,Corinthians,x,Fluminense
+2021,NA,São Paulo,x,Ceará
+2021,NA,Atlético-MG,x,Santos
+2021,NA,Internacional,x,América-MG
+2021,NA,Fortaleza,x,Grêmio
+2021,NA,Bahia,x,Palmeiras
+2021,NA,Bragantino,x,Atlético-GO
+2021,NA,Chapecoense,x,Athletico-PR
+2021,NA,Cuiabá,x,Sport
+2021,NA,Flamengo,x,Cuiabá
+2021,NA,Palmeiras,x,Internacional
+2021,NA,São Paulo,x,Corinthians
+2021,NA,América-MG,x,Bahia
+2021,NA,Grêmio,x,Juventude
+2021,NA,Ceará,x,Bragantino
+2021,NA,Sport,x,Santos
+2021,NA,Athletico-PR,x,Fluminense
+2021,NA,Chapecoense,x,Fortaleza
+2021,NA,Atlético-GO,x,Atlético-MG
+2021,NA,Fluminense,x,Flamengo
+2021,NA,Palmeiras,x,Sport
+2021,NA,Santos,x,América-MG
+2021,NA,Atlético-MG,x,Cuiabá
+2021,NA,Internacional,x,Corinthians
+2021,NA,Fortaleza,x,Athletico-PR
+2021,NA,Bahia,x,Chapecoense
+2021,NA,Bragantino,x,São Paulo
+2021,NA,Juventude,x,Ceará
+2021,NA,Atlético-GO,x,Grêmio
+2021,NA,Flamengo,x,Atlético-MG
+2021,NA,Corinthians,x,Chapecoense
+2021,NA,São Paulo,x,Internacional
+2021,NA,América-MG,x,Fortaleza
+2021,NA,Grêmio,x,Palmeiras
+2021,NA,Ceará,x,Fluminense
+2021,NA,Sport,x,Atlético-GO
+2021,NA,Athletico-PR,x,Santos
+2021,NA,Juventude,x,Bahia
+2021,NA,Cuiabá,x,Bragantino
+2021,NA,Fluminense,x,Sport
+2021,NA,Corinthians,x,Fortaleza
+2021,NA,Santos,x,Palmeiras
+2021,NA,Atlético-MG,x,América-MG
+2021,NA,Internacional,x,Grêmio
+2021,NA,Ceará,x,Cuiabá
+2021,NA,Bahia,x,São Paulo
+2021,NA,Bragantino,x,Athletico-PR
+2021,NA,Chapecoense,x,Flamengo
+2021,NA,Atlético-GO,x,Juventude
+2021,NA,Flamengo,x,Bahia
+2021,NA,Palmeiras,x,Atlético-GO
+2021,NA,Santos,x,Bragantino
+2021,NA,Atlético-MG,x,Corinthians
+2021,NA,Grêmio,x,Fluminense
+2021,NA,Fortaleza,x,São Paulo
+2021,NA,Sport,x,América-MG
+2021,NA,Athletico-PR,x,Ceará
+2021,NA,Juventude,x,Internacional
+2021,NA,Cuiabá,x,Chapecoense
+2021,NA,Fluminense,x,Palmeiras
+2021,NA,Corinthians,x,Cuiabá
+2021,NA,São Paulo,x,Flamengo
+2021,NA,América-MG,x,Grêmio
+2021,NA,Internacional,x,Athletico-PR
+2021,NA,Ceará,x,Sport
+2021,NA,Bahia,x,Atlético-MG
+2021,NA,Bragantino,x,Fortaleza
+2021,NA,Chapecoense,x,Juventude
+2021,NA,Atlético-GO,x,Santos
+2021,NA,Flamengo,x,Corinthians
+2021,NA,Palmeiras,x,São Paulo
+2021,NA,Santos,x,Chapecoense
+2021,NA,América-MG,x,Atlético-GO
+2021,NA,Grêmio,x,Bragantino
+2021,NA,Fortaleza,x,Ceará
+2021,NA,Sport,x,Bahia
+2021,NA,Athletico-PR,x,Atlético-MG
+2021,NA,Juventude,x,Fluminense
+2021,NA,Cuiabá,x,Internacional
+2021,NA,Fluminense,x,América-MG
+2021,NA,Corinthians,x,Santos
+2021,NA,São Paulo,x,Athletico-PR
+2021,NA,Atlético-MG,x,Juventude
+2021,NA,Internacional,x,Flamengo
+2021,NA,Fortaleza,x,Palmeiras
+2021,NA,Bahia,x,Cuiabá
+2021,NA,Bragantino,x,Sport
+2021,NA,Chapecoense,x,Grêmio
+2021,NA,Atlético-GO,x,Ceará
+2021,NA,Fluminense,x,Internacional
+2021,NA,Palmeiras,x,Atlético-MG
+2021,NA,Santos,x,Fortaleza
+2021,NA,América-MG,x,Chapecoense
+2021,NA,Grêmio,x,São Paulo
+2021,NA,Ceará,x,Corinthians
+2021,NA,Sport,x,Flamengo
+2021,NA,Athletico-PR,x,Cuiabá
+2021,NA,Juventude,x,Bragantino
+2021,NA,Atlético-GO,x,Bahia
+2021,NA,Flamengo,x,Ceará
+2021,NA,Corinthians,x,Athletico-PR
+2021,NA,São Paulo,x,Sport
+2021,NA,Atlético-MG,x,Fluminense
+2021,NA,Internacional,x,Santos
+2021,NA,Fortaleza,x,Juventude
+2021,NA,Bahia,x,Grêmio
+2021,NA,Bragantino,x,América-MG
+2021,NA,Chapecoense,x,Atlético-GO
+2021,NA,Cuiabá,x,Palmeiras
+2021,NA,Flamengo,x,Santos
+2021,NA,Corinthians,x,Grêmio
+2021,NA,São Paulo,x,Juventude
+2021,NA,Atlético-MG,x,Bragantino
+2021,NA,Internacional,x,Atlético-GO
+2021,NA,Ceará,x,América-MG
+2021,NA,Bahia,x,Fluminense
+2021,NA,Athletico-PR,x,Palmeiras
+2021,NA,Chapecoense,x,Sport
+2021,NA,Cuiabá,x,Fortaleza
+2021,NA,Fluminense,x,Chapecoense
+2021,NA,Palmeiras,x,Ceará
+2021,NA,Santos,x,Cuiabá
+2021,NA,América-MG,x,São Paulo
+2021,NA,Grêmio,x,Atlético-MG
+2021,NA,Fortaleza,x,Bahia
+2021,NA,Sport,x,Athletico-PR
+2021,NA,Bragantino,x,Internacional
+2021,NA,Juventude,x,Corinthians
+2021,NA,Atlético-GO,x,Flamengo
