@@ -14,7 +14,6 @@
 #' @source \url{https://github.com/williamorim/brasileirao}
 "matches"
 
-
 #' Badge file from each team in the matches data framse
 #'
 #' A dataset containing the filename from each team in the matches data frame.
@@ -27,3 +26,19 @@
 #' }
 #' @source \url{https://github.com/williamorim/brasileirao}
 "badges"
+
+#' Teams of the \code{matches} dataset
+#'
+#' A dataset containing more information about each
+#' one of the teams in the \code{matches} dataset.
+#'
+#' @format A data frame with 5 variables:
+#' \describe{
+#'   \item{team}{Team name.}
+#'   \item{abbr}{Team name abbreviation.}
+#'   \item{state}{The state where the club is based.}
+#'   \item{color1}{The most frequent color in the team badge.}
+#'   \item{color2}{The second more frequent color in the team badge.}
+#' }
+#' @source \url{https://github.com/williamorim/brasileirao}
+"teams"

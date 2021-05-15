@@ -25,11 +25,12 @@ teams <- teams %>%
   dplyr::mutate(
     badge_path = purrr::map_chr(teams, get_badge),
     colors = purrr::map_chr(badge_path, get_colors)
-  ) %>% teams%>%
+  ) %>%
   tidyr::separate(
     colors,
     into = c("color1", "color2"),
     sep = "\\|"
-  )
+  ) %>%
+  dplyr::select(-badge_path)
 
 usethis::use_data(teams, overwrite = TRUE)
