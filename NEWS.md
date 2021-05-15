@@ -1,3 +1,7 @@
+# brasileirao 1.1.0
+
+* Added `teams` dataset with name abbreviation, state and badge colors. 
+
 # brasileirao 1.0.1
 
 * Added a `NEWS.md` file to track changes to the package.
