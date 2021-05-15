@@ -48,7 +48,7 @@ dplyr::filter(matches, season == 2020)
 
   - Data from 2003 to 2019: <http://www.chancedegol.com.br/>
 
-  - Data from 2020:
+  - Data from 2020 and 2021:
     [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
     
 The data is updated every day, using a GitHub Actions workflow. The workflow is disabled in months between seasons.
