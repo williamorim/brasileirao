@@ -7265,26 +7265,26 @@ season,date,home,score,away
 2020,2021-02-25,Athletico-PR,2x0,Sport
 2020,2021-02-25,Ceará,2x1,Botafogo
 2020,2021-02-25,Atlético-GO,3x1,Coritiba
-2021,2021-05-29,Chapecoense,x,Bragantino
-2021,2021-05-29,Bahia,x,Santos
-2021,2021-05-29,Cuiabá,x,Juventude
-2021,2021-05-29,São Paulo,x,Fluminense
-2021,2021-05-30,Atlético-MG,x,Fortaleza
-2021,2021-05-30,Flamengo,x,Palmeiras
-2021,2021-05-30,Ceará,x,Grêmio
-2021,2021-05-30,Athletico-PR,x,América-MG
-2021,2021-05-30,Corinthians,x,Atlético-GO
-2021,2021-05-30,Internacional,x,Sport
-2021,2021-06-05,Fluminense,x,Cuiabá
-2021,2021-06-05,Atlético-GO,x,São Paulo
-2021,2021-06-05,Grêmio,x,Flamengo
+2021,2021-05-29,Cuiabá,2x2,Juventude
+2021,2021-05-29,Bahia,3x0,Santos
+2021,2021-05-29,São Paulo,0x0,Fluminense
+2021,2021-05-30,Atlético-MG,1x2,Fortaleza
+2021,2021-05-30,Flamengo,1x0,Palmeiras
+2021,2021-05-30,Ceará,3x2,Grêmio
+2021,2021-05-30,Corinthians,0x1,Atlético-GO
+2021,2021-05-30,Chapecoense,0x3,Bragantino
+2021,2021-05-30,Athletico-PR,1x0,América-MG
+2021,2021-05-30,Internacional,2x2,Sport
 2021,2021-06-05,Santos,x,Ceará
+2021,2021-06-05,Atlético-GO,x,São Paulo
 2021,2021-06-05,Bragantino,x,Bahia
+2021,2021-06-06,Fluminense,x,Cuiabá
 2021,2021-06-06,América-MG,x,Corinthians
 2021,2021-06-06,Fortaleza,x,Internacional
 2021,2021-06-06,Palmeiras,x,Chapecoense
 2021,2021-06-06,Juventude,x,Athletico-PR
 2021,2021-06-06,Sport,x,Atlético-MG
+2021,NA,Grêmio,x,Flamengo
 2021,2021-06-12,Palmeiras,x,Corinthians
 2021,2021-06-12,Santos,x,Juventude
 2021,2021-06-13,Atlético-MG,x,São Paulo
@@ -7299,19 +7299,19 @@ season,date,home,score,away
 2021,2021-06-16,Internacional,x,Atlético-MG
 2021,2021-06-16,Corinthians,x,Bragantino
 2021,2021-06-16,Juventude,x,Palmeiras
-2021,2021-06-16,Athletico-PR,x,Flamengo
-2021,2021-06-16,Fluminense,x,Santos
 2021,2021-06-17,América-MG,x,Cuiabá
+2021,2021-06-17,Fluminense,x,Santos
 2021,2021-06-17,Ceará,x,Bahia
 2021,2021-06-17,Atlético-GO,x,Fortaleza
 2021,2021-06-17,Sport,x,Grêmio
-2021,2021-06-19,Santos,x,São Paulo
+2021,NA,Athletico-PR,x,Flamengo
 2021,2021-06-19,Flamengo,x,Bragantino
 2021,2021-06-20,Palmeiras,x,América-MG
 2021,2021-06-20,Internacional,x,Ceará
 2021,2021-06-20,Bahia,x,Corinthians
-2021,2021-06-20,Athletico-PR,x,Atlético-GO
+2021,2021-06-20,Santos,x,São Paulo
 2021,2021-06-20,Fortaleza,x,Fluminense
+2021,2021-06-20,Athletico-PR,x,Atlético-GO
 2021,2021-06-20,Cuiabá,x,Grêmio
 2021,2021-06-20,Juventude,x,Sport
 2021,2021-06-21,Atlético-MG,x,Chapecoense
