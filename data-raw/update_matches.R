@@ -1,4 +1,18 @@
-## code to prepare `update_matches` dataset goes here
+install.packages(
+  c("stringr",
+    "glue",
+    "httr",
+    "jsonlite",
+    "janitor",
+    "tibble",
+    "dplyr",
+    "readr",
+    "usethis",
+    "devtools",
+    "purrr"
+  ),
+  repos = "https://packagemanager.rstudio.com/all/__linux__/bionic/latest"
+)
 
 devtools::load_all()
 source("data-raw/scraping_matches.R")
