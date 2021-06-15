@@ -7299,11 +7299,11 @@ season,date,home,score,away
 2021,2021-06-16,Internacional,x,Atlético-MG
 2021,2021-06-16,Corinthians,x,Bragantino
 2021,2021-06-16,Juventude,x,Palmeiras
+2021,2021-06-17,Ceará,x,Bahia
 2021,2021-06-17,América-MG,x,Cuiabá
 2021,2021-06-17,Fluminense,x,Santos
-2021,2021-06-17,Ceará,x,Bahia
-2021,2021-06-17,Atlético-GO,x,Fortaleza
 2021,2021-06-17,Sport,x,Grêmio
+2021,2021-06-17,Atlético-GO,x,Fortaleza
 2021,NA,Athletico-PR,x,Flamengo
 2021,2021-06-19,Flamengo,x,Bragantino
 2021,2021-06-20,Palmeiras,x,América-MG
@@ -7316,23 +7316,23 @@ season,date,home,score,away
 2021,2021-06-20,Juventude,x,Sport
 2021,2021-06-21,Atlético-MG,x,Chapecoense
 2021,2021-06-23,Flamengo,x,Fortaleza
-2021,2021-06-23,Atlético-GO,x,Fluminense
-2021,2021-06-23,Grêmio,x,Santos
-2021,2021-06-23,Bragantino,x,Palmeiras
 2021,2021-06-23,São Paulo,x,Cuiabá
-2021,2021-06-23,Bahia,x,Athletico-PR
+2021,2021-06-23,Bragantino,x,Palmeiras
+2021,2021-06-23,Atlético-GO,x,Fluminense
 2021,2021-06-24,América-MG,x,Juventude
 2021,2021-06-24,Corinthians,x,Sport
 2021,2021-06-24,Ceará,x,Atlético-MG
 2021,2021-06-24,Chapecoense,x,Internacional
-2021,2021-06-26,Grêmio,x,Fortaleza
-2021,2021-06-26,Palmeiras,x,Bahia
+2021,2021-06-24,Grêmio,x,Santos
+2021,2021-06-24,Bahia,x,Athletico-PR
 2021,2021-06-27,Juventude,x,Flamengo
 2021,2021-06-27,Fluminense,x,Corinthians
-2021,2021-06-27,Santos,x,Atlético-MG
-2021,2021-06-27,Ceará,x,São Paulo
+2021,2021-06-27,Palmeiras,x,Bahia
+2021,2021-06-27,Grêmio,x,Fortaleza
 2021,2021-06-27,Athletico-PR,x,Chapecoense
+2021,2021-06-27,Santos,x,Atlético-MG
 2021,2021-06-27,América-MG,x,Internacional
+2021,2021-06-27,Ceará,x,São Paulo
 2021,2021-06-27,Sport,x,Cuiabá
 2021,2021-06-28,Atlético-GO,x,Bragantino
 2021,2021-06-30,Fortaleza,x,Chapecoense
