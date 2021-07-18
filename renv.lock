@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.0.3",
+    "Version": "4.1.0",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -275,13 +275,6 @@
       "Repository": "CRAN",
       "Hash": "89ea5998938d1ad55f035c8a86f96b74"
     },
-    "git2r": {
-      "Package": "git2r",
-      "Version": "0.27.1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "531a82d1beed1f545beb25f4f5945bf7"
-    },
     "glue": {
       "Package": "glue",
       "Version": "1.4.2",
@@ -361,7 +354,7 @@
     },
     "jsonlite": {
       "Package": "jsonlite",
-      "Version": "1.7.1",
+      "Version": "1.7.2",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "1ec84e070b88b37ed169f19def40d47c"
@@ -681,7 +674,7 @@
     },
     "stringi": {
       "Package": "stringi",
-      "Version": "1.5.3",
+      "Version": "1.6.1",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "a063ebea753c92910a4cca7b18bc1f05"
