@@ -7294,7 +7294,7 @@ season,date,home,score,away
 2021,2021-06-13,Fortaleza,1x0,Sport
 2021,2021-06-13,Bragantino,2x2,Fluminense
 2021,2021-06-13,Chapecoense,0x0,Ceará
-2021,2021-07-21,Cuiabá,x,Atlético GO
+2021,2021-07-21,Cuiabá,2x1,Atlético GO
 2021,2021-06-16,São Paulo,1x1,Chapecoense
 2021,2021-06-16,Internacional,0x1,Atlético MG
 2021,2021-06-16,Corinthians,1x2,Bragantino
@@ -7395,7 +7395,6 @@ season,date,home,score,away
 2021,2021-07-25,Sport,x,Ceará
 2021,2021-07-26,Juventude,x,Chapecoense
 2021,2021-07-26,Cuiabá,x,Corinthians
-2021,2021-07-31,Fluminense,x,Juventude
 2021,2021-07-31,São Paulo,x,Palmeiras
 2021,2021-07-31,Internacional,x,Cuiabá
 2021,2021-07-31,Bragantino,x,Grêmio
@@ -7405,6 +7404,7 @@ season,date,home,score,away
 2021,2021-08-01,Chapecoense,x,Santos
 2021,2021-08-01,Ceará,x,Fortaleza
 2021,2021-08-01,Atlético GO,x,América MG
+2021,NA,Fluminense,x,Juventude
 2021,2021-08-07,Santos,x,Corinthians
 2021,2021-08-07,Cuiabá,x,Bahia
 2021,2021-08-08,Grêmio,x,Chapecoense
