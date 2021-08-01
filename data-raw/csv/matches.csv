@@ -7395,9 +7395,9 @@ season,date,home,score,away
 2021,2021-07-25,Sport,0x0,Ceará
 2021,2021-07-26,Juventude,1x0,Chapecoense
 2021,2021-07-26,Cuiabá,1x2,Corinthians
-2021,2021-07-31,São Paulo,x,Palmeiras
-2021,2021-07-31,Internacional,x,Cuiabá
-2021,2021-07-31,Bragantino,x,Grêmio
+2021,2021-07-31,São Paulo,0x0,Palmeiras
+2021,2021-07-31,Internacional,0x0,Cuiabá
+2021,2021-07-31,Bragantino,1x0,Grêmio
 2021,2021-08-01,Corinthians,x,Flamengo
 2021,2021-08-01,Atlético MG,x,Athletico PR
 2021,2021-08-01,Bahia,x,Sport
