@@ -7447,7 +7447,6 @@ season,date,home,score,away
 2021,2021-08-30,Fortaleza,x,Cuiabá
 2021,2021-09-04,Bahia,x,Fortaleza
 2021,2021-09-04,Cuiabá,x,Santos
-2021,2021-09-05,Athletico PR,x,Sport
 2021,2021-09-07,Corinthians,x,Juventude
 2021,2021-09-07,Internacional,x,Bragantino
 2021,2021-09-07,Chapecoense,x,Fluminense
@@ -7455,6 +7454,7 @@ season,date,home,score,away
 2021,NA,São Paulo,x,América MG
 2021,NA,Atlético MG,x,Grêmio
 2021,NA,Ceará,x,Palmeiras
+2021,NA,Athletico PR,x,Sport
 2021,2021-09-11,América MG,x,Athletico PR
 2021,2021-09-11,Juventude,x,Cuiabá
 2021,2021-09-11,Bragantino,x,Chapecoense
