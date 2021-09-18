@@ -7304,7 +7304,7 @@ season,date,home,score,away
 2021,2021-06-17,Fluminense,1x0,Santos
 2021,2021-06-17,Sport,1x0,Grêmio
 2021,2021-06-17,Atlético GO,0x0,Fortaleza
-2021,NA,Athletico PR,x,Flamengo
+2021,2021-11-02,Athletico PR,x,Flamengo
 2021,2021-06-19,Flamengo,2x3,Bragantino
 2021,2021-06-20,Palmeiras,2x1,América MG
 2021,2021-06-20,Internacional,1x1,Ceará
@@ -7452,8 +7452,8 @@ season,date,home,score,away
 2021,2021-09-07,Chapecoense,1x2,Fluminense
 2021,2021-09-22,São Paulo,x,América MG
 2021,2021-10-21,Internacional,x,Bragantino
-2021,NA,Flamengo,x,Atlético GO
-2021,NA,Atlético MG,x,Grêmio
+2021,2021-11-03,Atlético MG,x,Grêmio
+2021,2021-11-05,Flamengo,x,Atlético GO
 2021,NA,Ceará,x,Palmeiras
 2021,2021-09-11,América MG,2x0,Athletico PR
 2021,2021-09-11,Juventude,1x2,Cuiabá
