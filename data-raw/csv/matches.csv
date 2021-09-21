@@ -7474,7 +7474,7 @@ season,date,home,score,away
 2021,2021-09-19,São Paulo,2x1,Atlético GO
 2021,2021-09-19,Corinthians,1x1,América MG
 2021,2021-09-19,Flamengo,0x1,Grêmio
-2021,2021-09-20,Cuiabá,x,Fluminense
+2021,2021-09-20,Cuiabá,2x2,Fluminense
 2021,2021-09-25,Ceará,x,Chapecoense
 2021,2021-09-25,Corinthians,x,Palmeiras
 2021,2021-09-25,São Paulo,x,Atlético MG
@@ -7505,13 +7505,13 @@ season,date,home,score,away
 2021,2021-10-06,América MG,x,Palmeiras
 2021,2021-10-06,Grêmio,x,Cuiabá
 2021,2021-10-07,São Paulo,x,Santos
+2021,2021-10-09,Fluminense,x,Atlético GO
+2021,2021-10-09,Atlético MG,x,Ceará
+2021,2021-10-09,Sport,x,Corinthians
 2021,2021-10-09,Internacional,x,Chapecoense
 2021,2021-10-09,Fortaleza,x,Flamengo
 2021,2021-10-09,Athletico PR,x,Bahia
 2021,2021-10-09,Palmeiras,x,Bragantino
-2021,2021-10-10,Fluminense,x,Atlético GO
-2021,2021-10-10,Atlético MG,x,Ceará
-2021,2021-10-10,Sport,x,Corinthians
 2021,2021-10-10,Santos,x,Grêmio
 2021,2021-10-10,Juventude,x,América MG
 2021,2021-10-10,Cuiabá,x,São Paulo
