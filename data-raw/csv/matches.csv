@@ -7485,10 +7485,10 @@ season,date,home,score,away
 2021,2021-09-26,Sport,0x1,Fortaleza
 2021,2021-09-26,Athletico PR,4x2,Grêmio
 2021,2021-09-26,Atlético GO,0x0,Cuiabá
-2021,2021-10-02,Fortaleza,x,Atlético GO
-2021,2021-10-02,Cuiabá,x,América MG
-2021,2021-10-02,Bragantino,x,Corinthians
-2021,2021-10-02,Atlético MG,x,Internacional
+2021,2021-10-02,Fortaleza,0x3,Atlético GO
+2021,2021-10-02,Cuiabá,0x2,América MG
+2021,2021-10-02,Bragantino,2x2,Corinthians
+2021,2021-10-02,Atlético MG,1x0,Internacional
 2021,2021-10-03,Flamengo,x,Athletico PR
 2021,2021-10-03,Chapecoense,x,São Paulo
 2021,2021-10-03,Palmeiras,x,Juventude
@@ -7515,26 +7515,26 @@ season,date,home,score,away
 2021,2021-10-10,Internacional,x,Chapecoense
 2021,2021-10-10,Santos,x,Grêmio
 2021,2021-10-11,Cuiabá,x,São Paulo
-2021,NA,Flamengo,x,Juventude
-2021,NA,Corinthians,x,Fluminense
-2021,NA,São Paulo,x,Ceará
-2021,NA,Atlético MG,x,Santos
-2021,NA,Internacional,x,América MG
-2021,NA,Fortaleza,x,Grêmio
-2021,NA,Bahia,x,Palmeiras
-2021,NA,Bragantino,x,Atlético GO
-2021,NA,Chapecoense,x,Athletico PR
-2021,NA,Cuiabá,x,Sport
-2021,NA,Flamengo,x,Cuiabá
-2021,NA,Palmeiras,x,Internacional
-2021,NA,São Paulo,x,Corinthians
-2021,NA,América MG,x,Bahia
-2021,NA,Grêmio,x,Juventude
-2021,NA,Ceará,x,Bragantino
-2021,NA,Sport,x,Santos
-2021,NA,Athletico PR,x,Fluminense
-2021,NA,Chapecoense,x,Fortaleza
-2021,NA,Atlético GO,x,Atlético MG
+2021,2021-10-12,Flamengo,x,Juventude
+2021,2021-10-12,Bahia,x,Palmeiras
+2021,2021-10-13,Atlético MG,x,Santos
+2021,2021-10-13,Internacional,x,América MG
+2021,2021-10-13,Chapecoense,x,Athletico PR
+2021,2021-10-13,Fortaleza,x,Grêmio
+2021,2021-10-13,Corinthians,x,Fluminense
+2021,2021-10-13,Bragantino,x,Atlético GO
+2021,2021-10-14,São Paulo,x,Ceará
+2021,2021-10-14,Cuiabá,x,Sport
+2021,2021-10-16,Chapecoense,x,Fortaleza
+2021,2021-10-16,Grêmio,x,Juventude
+2021,2021-10-16,América MG,x,Bahia
+2021,2021-10-17,Palmeiras,x,Internacional
+2021,2021-10-17,Athletico PR,x,Fluminense
+2021,2021-10-17,Ceará,x,Bragantino
+2021,2021-10-17,Atlético GO,x,Atlético MG
+2021,2021-10-17,Flamengo,x,Cuiabá
+2021,2021-10-17,Sport,x,Santos
+2021,2021-10-18,São Paulo,x,Corinthians
 2021,NA,Fluminense,x,Flamengo
 2021,NA,Palmeiras,x,Sport
 2021,NA,Santos,x,América MG
