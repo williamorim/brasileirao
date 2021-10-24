@@ -7535,10 +7535,10 @@ season,date,home,score,away
 2021,2021-10-17,Flamengo,0x0,Cuiabá
 2021,2021-10-17,Sport,0x0,Santos
 2021,2021-10-18,São Paulo,1x0,Corinthians
-2021,2021-10-23,Santos,x,América MG
-2021,2021-10-23,Juventude,x,Ceará
-2021,2021-10-23,Fluminense,x,Flamengo
-2021,2021-10-23,Fortaleza,x,Athletico PR
+2021,2021-10-23,Santos,0x2,América MG
+2021,2021-10-23,Juventude,0x0,Ceará
+2021,2021-10-23,Fluminense,3x1,Flamengo
+2021,2021-10-23,Fortaleza,3x0,Athletico PR
 2021,2021-10-24,Atlético MG,x,Cuiabá
 2021,2021-10-24,Internacional,x,Corinthians
 2021,2021-10-24,Bragantino,x,São Paulo
