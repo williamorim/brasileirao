@@ -7544,7 +7544,7 @@ season,date,home,score,away
 2021,2021-10-24,Bragantino,1x0,São Paulo
 2021,2021-10-24,Bahia,3x0,Chapecoense
 2021,2021-10-25,Atlético GO,2x0,Grêmio
-2021,2021-10-25,Palmeiras,1x1,Sport
+2021,2021-10-25,Palmeiras,2x1,Sport
 2021,2021-10-30,Athletico PR,x,Santos
 2021,2021-10-30,Flamengo,x,Atlético MG
 2021,2021-10-30,Juventude,x,Bahia
@@ -7555,56 +7555,56 @@ season,date,home,score,away
 2021,2021-10-31,Sport,x,Atlético GO
 2021,2021-11-01,Cuiabá,x,Bragantino
 2021,2021-11-01,Corinthians,x,Chapecoense
-2021,2021-11-06,Ceará,x,Cuiabá
-2021,2021-11-06,Internacional,x,Grêmio
 2021,2021-11-06,Corinthians,x,Fortaleza
+2021,2021-11-06,Internacional,x,Grêmio
+2021,2021-11-06,Fluminense,x,Sport
 2021,2021-11-07,Santos,x,Palmeiras
 2021,2021-11-07,Atlético MG,x,América MG
 2021,2021-11-07,Bragantino,x,Athletico PR
 2021,2021-11-07,Bahia,x,São Paulo
-2021,2021-11-07,Fluminense,x,Sport
-2021,2021-11-08,Atlético GO,x,Juventude
+2021,2021-11-07,Ceará,x,Cuiabá
 2021,2021-11-08,Chapecoense,x,Flamengo
-2021,NA,Flamengo,x,Bahia
-2021,NA,Palmeiras,x,Atlético GO
-2021,NA,Santos,x,Bragantino
-2021,NA,Atlético MG,x,Corinthians
-2021,NA,Grêmio,x,Fluminense
-2021,NA,Fortaleza,x,São Paulo
-2021,NA,Sport,x,América MG
-2021,NA,Athletico PR,x,Ceará
-2021,NA,Juventude,x,Internacional
-2021,NA,Cuiabá,x,Chapecoense
-2021,NA,Fluminense,x,Palmeiras
-2021,NA,Corinthians,x,Cuiabá
-2021,NA,São Paulo,x,Flamengo
-2021,NA,América MG,x,Grêmio
-2021,NA,Internacional,x,Athletico PR
-2021,NA,Ceará,x,Sport
-2021,NA,Bahia,x,Atlético MG
-2021,NA,Bragantino,x,Fortaleza
-2021,NA,Chapecoense,x,Juventude
-2021,NA,Atlético GO,x,Santos
-2021,NA,Flamengo,x,Corinthians
-2021,NA,Palmeiras,x,São Paulo
-2021,NA,Santos,x,Chapecoense
-2021,NA,América MG,x,Atlético GO
-2021,NA,Grêmio,x,Bragantino
-2021,NA,Fortaleza,x,Ceará
-2021,NA,Sport,x,Bahia
-2021,NA,Athletico PR,x,Atlético MG
-2021,NA,Juventude,x,Fluminense
-2021,NA,Cuiabá,x,Internacional
+2021,2021-11-23,Atlético GO,x,Juventude
+2021,2021-11-04,Cuiabá,x,Chapecoense
+2021,2021-11-09,Grêmio,x,Fluminense
+2021,2021-11-10,Athletico PR,x,Ceará
+2021,2021-11-10,Santos,x,Bragantino
+2021,2021-11-10,Atlético MG,x,Corinthians
+2021,2021-11-10,Palmeiras,x,Atlético GO
+2021,2021-11-10,Fortaleza,x,São Paulo
+2021,2021-11-10,Sport,x,América MG
+2021,2021-11-10,Juventude,x,Internacional
+2021,2021-11-11,Flamengo,x,Bahia
+2021,2021-11-13,Atlético GO,x,Santos
+2021,2021-11-13,América MG,x,Grêmio
+2021,2021-11-13,Internacional,x,Athletico PR
+2021,2021-11-13,Bragantino,x,Fortaleza
+2021,2021-11-13,Corinthians,x,Cuiabá
+2021,2021-11-14,São Paulo,x,Flamengo
+2021,2021-11-14,Fluminense,x,Palmeiras
+2021,2021-11-14,Ceará,x,Sport
+2021,2021-11-14,Chapecoense,x,Juventude
+2021,2021-12-02,Bahia,x,Atlético MG
+2021,2021-11-16,Grêmio,x,Bragantino
+2021,2021-11-16,Athletico PR,x,Atlético MG
+2021,2021-11-17,Santos,x,Chapecoense
+2021,2021-11-17,América MG,x,Atlético GO
+2021,2021-11-17,Cuiabá,x,Internacional
+2021,2021-11-17,Palmeiras,x,São Paulo
+2021,2021-11-17,Juventude,x,Fluminense
+2021,2021-11-17,Flamengo,x,Corinthians
+2021,2021-11-17,Fortaleza,x,Ceará
+2021,2021-11-18,Sport,x,Bahia
 2021,2021-10-28,Bragantino,x,Sport
-2021,2021-11-30,São Paulo,x,Athletico PR
-2021,NA,Fluminense,x,América MG
-2021,NA,Corinthians,x,Santos
-2021,NA,Atlético MG,x,Juventude
-2021,NA,Internacional,x,Flamengo
-2021,NA,Fortaleza,x,Palmeiras
-2021,NA,Bahia,x,Cuiabá
-2021,NA,Chapecoense,x,Grêmio
-2021,NA,Atlético GO,x,Ceará
+2021,2021-11-20,Atlético MG,x,Juventude
+2021,2021-11-20,Fortaleza,x,Palmeiras
+2021,2021-11-20,Chapecoense,x,Grêmio
+2021,2021-11-20,Atlético GO,x,Ceará
+2021,2021-11-20,Internacional,x,Flamengo
+2021,2021-11-21,Fluminense,x,América MG
+2021,2021-11-21,Corinthians,x,Santos
+2021,2021-11-21,Bahia,x,Cuiabá
+2021,2021-11-24,São Paulo,x,Athletico PR
 2021,NA,Fluminense,x,Internacional
 2021,NA,Palmeiras,x,Atlético MG
 2021,NA,Santos,x,Fortaleza
