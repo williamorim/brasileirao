@@ -7545,10 +7545,10 @@ season,date,home,score,away
 2021,2021-10-24,Bahia,3x0,Chapecoense
 2021,2021-10-25,Atlético GO,2x0,Grêmio
 2021,2021-10-25,Palmeiras,2x1,Sport
-2021,2021-10-30,Athletico PR,x,Santos
-2021,2021-10-30,Flamengo,x,Atlético MG
-2021,2021-10-30,Juventude,x,Bahia
-2021,2021-10-30,América MG,x,Fortaleza
+2021,2021-10-30,Athletico PR,0x1,Santos
+2021,2021-10-30,Flamengo,1x0,Atlético MG
+2021,2021-10-30,Juventude,0x0,Bahia
+2021,2021-10-30,América MG,2x1,Fortaleza
 2021,2021-10-31,Grêmio,x,Palmeiras
 2021,2021-10-31,Ceará,x,Fluminense
 2021,2021-10-31,São Paulo,x,Internacional
