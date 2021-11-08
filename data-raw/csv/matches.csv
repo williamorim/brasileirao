@@ -7558,11 +7558,11 @@ season,date,home,score,away
 2021,2021-11-06,Corinthians,1x0,Fortaleza
 2021,2021-11-06,Internacional,1x0,Grêmio
 2021,2021-11-06,Fluminense,1x0,Sport
-2021,2021-11-07,Santos,x,Palmeiras
-2021,2021-11-07,Atlético MG,x,América MG
-2021,2021-11-07,Bragantino,x,Athletico PR
-2021,2021-11-07,Bahia,x,São Paulo
-2021,2021-11-07,Ceará,x,Cuiabá
+2021,2021-11-07,Santos,0x2,Palmeiras
+2021,2021-11-07,Atlético MG,1x0,América MG
+2021,2021-11-07,Bragantino,0x2,Athletico PR
+2021,2021-11-07,Bahia,1x0,São Paulo
+2021,2021-11-07,Ceará,1x0,Cuiabá
 2021,2021-11-08,Chapecoense,x,Flamengo
 2021,2021-11-23,Atlético GO,x,Juventude
 2021,2021-11-04,Cuiabá,0x0,Chapecoense
