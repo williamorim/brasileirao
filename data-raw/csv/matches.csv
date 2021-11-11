@@ -7284,7 +7284,7 @@ season,date,home,score,away
 2021,2021-06-06,Palmeiras,3x1,Chapecoense
 2021,2021-06-06,Juventude,0x3,Athletico PR
 2021,2021-06-06,Sport,0x1,Atlético MG
-2021,NA,Grêmio,x,Flamengo
+2021,2021-11-23,Grêmio,x,Flamengo
 2021,2021-06-12,Palmeiras,1x1,Corinthians
 2021,2021-06-12,Santos,0x0,Juventude
 2021,2021-06-13,Flamengo,2x0,América MG
@@ -7567,13 +7567,13 @@ season,date,home,score,away
 2021,2021-11-23,Atlético GO,x,Juventude
 2021,2021-11-04,Cuiabá,0x0,Chapecoense
 2021,2021-11-09,Grêmio,1x0,Fluminense
-2021,2021-11-10,Athletico PR,x,Ceará
-2021,2021-11-10,Santos,x,Bragantino
-2021,2021-11-10,Atlético MG,x,Corinthians
-2021,2021-11-10,Palmeiras,x,Atlético GO
-2021,2021-11-10,Fortaleza,x,São Paulo
-2021,2021-11-10,Sport,x,América MG
-2021,2021-11-10,Juventude,x,Internacional
+2021,2021-11-10,Athletico PR,2x1,Ceará
+2021,2021-11-10,Santos,2x0,Bragantino
+2021,2021-11-10,Atlético MG,3x0,Corinthians
+2021,2021-11-10,Palmeiras,4x0,Atlético GO
+2021,2021-11-10,Fortaleza,1x0,São Paulo
+2021,2021-11-10,Sport,1x2,América MG
+2021,2021-11-10,Juventude,1x0,Internacional
 2021,2021-11-11,Flamengo,x,Bahia
 2021,2021-11-13,Atlético GO,x,Santos
 2021,2021-11-13,América MG,x,Grêmio
@@ -7605,43 +7605,43 @@ season,date,home,score,away
 2021,2021-11-21,Corinthians,x,Santos
 2021,2021-11-21,Bahia,x,Cuiabá
 2021,2021-11-24,São Paulo,x,Athletico PR
-2021,NA,Fluminense,x,Internacional
-2021,NA,Palmeiras,x,Atlético MG
-2021,NA,Santos,x,Fortaleza
-2021,NA,América MG,x,Chapecoense
-2021,NA,Grêmio,x,São Paulo
-2021,NA,Ceará,x,Corinthians
-2021,NA,Sport,x,Flamengo
-2021,NA,Athletico PR,x,Cuiabá
-2021,NA,Juventude,x,Bragantino
-2021,NA,Atlético GO,x,Bahia
-2021,NA,Flamengo,x,Ceará
-2021,NA,Corinthians,x,Athletico PR
-2021,NA,São Paulo,x,Sport
-2021,NA,Atlético MG,x,Fluminense
-2021,NA,Internacional,x,Santos
-2021,NA,Fortaleza,x,Juventude
-2021,NA,Bahia,x,Grêmio
-2021,NA,Bragantino,x,América MG
-2021,NA,Chapecoense,x,Atlético GO
-2021,NA,Cuiabá,x,Palmeiras
-2021,NA,Flamengo,x,Santos
-2021,NA,Corinthians,x,Grêmio
-2021,NA,São Paulo,x,Juventude
-2021,NA,Atlético MG,x,Bragantino
-2021,NA,Internacional,x,Atlético GO
-2021,NA,Ceará,x,América MG
-2021,NA,Bahia,x,Fluminense
-2021,NA,Athletico PR,x,Palmeiras
-2021,NA,Chapecoense,x,Sport
-2021,NA,Cuiabá,x,Fortaleza
-2021,NA,Fluminense,x,Chapecoense
-2021,NA,Palmeiras,x,Ceará
-2021,NA,Santos,x,Cuiabá
-2021,NA,América MG,x,São Paulo
-2021,NA,Grêmio,x,Atlético MG
-2021,NA,Fortaleza,x,Bahia
-2021,NA,Sport,x,Athletico PR
-2021,NA,Bragantino,x,Internacional
-2021,NA,Juventude,x,Corinthians
-2021,NA,Atlético GO,x,Flamengo
+2021,2021-11-23,Palmeiras,x,Atlético MG
+2021,2021-11-24,Fluminense,x,Internacional
+2021,2021-11-25,Santos,x,Fortaleza
+2021,2021-11-25,Ceará,x,Corinthians
+2021,2021-11-29,Atlético GO,x,Bahia
+2021,2021-11-30,Juventude,x,Bragantino
+2021,2021-12-01,América MG,x,Chapecoense
+2021,2021-12-02,Grêmio,x,São Paulo
+2021,2021-12-03,Athletico PR,x,Cuiabá
+2021,2021-12-03,Sport,x,Flamengo
+2021,2021-11-26,Bahia,x,Grêmio
+2021,2021-11-26,Chapecoense,x,Atlético GO
+2021,2021-11-27,Bragantino,x,América MG
+2021,2021-11-27,São Paulo,x,Sport
+2021,2021-11-28,Corinthians,x,Athletico PR
+2021,2021-11-28,Atlético MG,x,Fluminense
+2021,2021-11-28,Internacional,x,Santos
+2021,2021-11-30,Flamengo,x,Ceará
+2021,2021-11-30,Cuiabá,x,Palmeiras
+2021,2021-12-03,Fortaleza,x,Juventude
+2021,2021-12-05,Corinthians,x,Grêmio
+2021,2021-12-05,Atlético MG,x,Bragantino
+2021,2021-12-05,Bahia,x,Fluminense
+2021,2021-12-05,Internacional,x,Atlético GO
+2021,2021-12-05,Ceará,x,América MG
+2021,2021-12-06,São Paulo,x,Juventude
+2021,2021-12-06,Athletico PR,x,Palmeiras
+2021,2021-12-06,Flamengo,x,Santos
+2021,2021-12-06,Chapecoense,x,Sport
+2021,2021-12-06,Cuiabá,x,Fortaleza
+2021,2021-12-09,Fluminense,x,Chapecoense
+2021,2021-12-09,Palmeiras,x,Ceará
+2021,2021-12-09,Santos,x,Cuiabá
+2021,2021-12-09,América MG,x,São Paulo
+2021,2021-12-09,Grêmio,x,Atlético MG
+2021,2021-12-09,Fortaleza,x,Bahia
+2021,2021-12-09,Sport,x,Athletico PR
+2021,2021-12-09,Bragantino,x,Internacional
+2021,2021-12-09,Juventude,x,Corinthians
+2021,2021-12-09,Atlético GO,x,Flamengo
