@@ -7575,11 +7575,11 @@ season,date,home,score,away
 2021,2021-11-10,Sport,2x3,América MG
 2021,2021-11-10,Juventude,2x1,Internacional
 2021,2021-11-11,Flamengo,3x0,Bahia
-2021,2021-11-13,Atlético GO,x,Santos
-2021,2021-11-13,América MG,x,Grêmio
-2021,2021-11-13,Internacional,x,Athletico PR
-2021,2021-11-13,Bragantino,x,Fortaleza
-2021,2021-11-13,Corinthians,x,Cuiabá
+2021,2021-11-13,Atlético GO,0x0,Santos
+2021,2021-11-13,América MG,3x1,Grêmio
+2021,2021-11-13,Internacional,2x1,Athletico PR
+2021,2021-11-13,Bragantino,3x0,Fortaleza
+2021,2021-11-13,Corinthians,3x2,Cuiabá
 2021,2021-11-14,São Paulo,x,Flamengo
 2021,2021-11-14,Fluminense,x,Palmeiras
 2021,2021-11-14,Ceará,x,Sport
@@ -7589,11 +7589,11 @@ season,date,home,score,away
 2021,2021-11-16,Grêmio,x,Bragantino
 2021,2021-11-17,Santos,x,Chapecoense
 2021,2021-11-17,América MG,x,Atlético GO
+2021,2021-11-17,Fortaleza,x,Ceará
 2021,2021-11-17,Cuiabá,x,Internacional
 2021,2021-11-17,Palmeiras,x,São Paulo
 2021,2021-11-17,Juventude,x,Fluminense
 2021,2021-11-17,Flamengo,x,Corinthians
-2021,2021-11-17,Fortaleza,x,Ceará
 2021,2021-11-18,Sport,x,Bahia
 2021,2021-10-28,Bragantino,3x0,Sport
 2021,2021-11-20,Atlético MG,x,Juventude
