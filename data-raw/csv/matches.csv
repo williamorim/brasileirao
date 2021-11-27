@@ -7611,12 +7611,11 @@ season,date,home,score,away
 2021,2021-11-25,Ceará,2x1,Corinthians
 2021,2021-11-29,Atlético GO,x,Bahia
 2021,2021-11-30,Juventude,x,Bragantino
-2021,2021-12-01,América MG,x,Chapecoense
+2021,2021-11-30,América MG,x,Chapecoense
 2021,2021-12-02,Grêmio,x,São Paulo
 2021,2021-12-03,Athletico PR,x,Cuiabá
 2021,2021-12-03,Sport,x,Flamengo
-2021,2021-11-26,Bahia,x,Grêmio
-2021,2021-11-26,Chapecoense,x,Atlético GO
+2021,2021-11-26,Bahia,3x1,Grêmio
 2021,2021-11-27,Bragantino,x,América MG
 2021,2021-11-27,São Paulo,x,Sport
 2021,2021-11-28,Corinthians,x,Athletico PR
@@ -7625,14 +7624,15 @@ season,date,home,score,away
 2021,2021-11-30,Flamengo,x,Ceará
 2021,2021-11-30,Cuiabá,x,Palmeiras
 2021,2021-12-03,Fortaleza,x,Juventude
+2021,2021-12-03,Chapecoense,x,Atlético GO
 2021,2021-12-05,Corinthians,x,Grêmio
 2021,2021-12-05,Atlético MG,x,Bragantino
 2021,2021-12-05,Bahia,x,Fluminense
-2021,2021-12-05,Internacional,x,Atlético GO
 2021,2021-12-05,Ceará,x,América MG
 2021,2021-12-06,São Paulo,x,Juventude
 2021,2021-12-06,Athletico PR,x,Palmeiras
 2021,2021-12-06,Flamengo,x,Santos
+2021,2021-12-06,Internacional,x,Atlético GO
 2021,2021-12-06,Chapecoense,x,Sport
 2021,2021-12-06,Cuiabá,x,Fortaleza
 2021,2021-12-09,Fluminense,x,Chapecoense
