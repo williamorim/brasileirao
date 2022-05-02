@@ -7645,3 +7645,383 @@ season,date,home,score,away
 2021,2021-12-09,Bragantino,1x0,Internacional
 2021,2021-12-09,Juventude,1x0,Corinthians
 2021,2021-12-09,Atlético GO,2x0,Flamengo
+2022,2022-04-09,Fluminense,0x0,Santos
+2022,2022-04-09,Atlético GO,1x1,Flamengo
+2022,2022-04-09,Palmeiras,2x3,Ceará
+2022,2022-04-10,Coritiba,3x0,Goiás
+2022,2022-04-10,Atlético MG,2x0,Internacional
+2022,2022-04-10,Botafogo,1x3,Corinthians
+2022,2022-04-10,Fortaleza,0x1,Cuiabá
+2022,2022-04-10,São Paulo,4x0,Athletico PR
+2022,2022-04-10,Avaí,1x0,América MG
+2022,2022-04-11,Juventude,2x2,Bragantino
+2022,2022-04-16,Goiás,1x1,Palmeiras
+2022,2022-04-16,América MG,4x1,Juventude
+2022,2022-04-16,Corinthians,3x0,Avaí
+2022,2022-04-16,Cuiabá,0x1,Fluminense
+2022,2022-04-17,Santos,2x1,Coritiba
+2022,2022-04-17,Flamengo,3x1,São Paulo
+2022,2022-04-17,Bragantino,4x0,Atlético GO
+2022,2022-04-17,Internacional,2x1,Fortaleza
+2022,2022-04-17,Athletico PR,0x1,Atlético MG
+2022,2022-04-17,Ceará,1x3,Botafogo
+2022,2022-04-23,Bragantino,1x1,São Paulo
+2022,2022-04-23,Athletico PR,1x0,Flamengo
+2022,2022-04-23,Fluminense,0x1,Internacional
+2022,2022-04-23,Palmeiras,3x0,Corinthians
+2022,2022-04-23,Atlético MG,2x2,Coritiba
+2022,2022-04-24,Santos,3x0,América MG
+2022,2022-04-24,Juventude,0x1,Cuiabá
+2022,2022-04-24,Atlético GO,1x1,Botafogo
+2022,2022-04-25,Avaí,3x2,Goiás
+2022,2022-06-01,Fortaleza,x,Ceará
+2022,2022-04-20,Flamengo,0x0,Palmeiras
+2022,2022-04-30,América MG,1x0,Athletico PR
+2022,2022-04-30,Ceará,0x1,Bragantino
+2022,2022-04-30,Goiás,2x2,Atlético MG
+2022,2022-04-30,Cuiabá,1x1,Atlético GO
+2022,2022-05-01,Botafogo,1x1,Juventude
+2022,2022-05-01,Corinthians,1x0,Fortaleza
+2022,2022-05-01,Coritiba,3x2,Fluminense
+2022,2022-05-01,Internacional,0x0,Avaí
+2022,2022-05-02,São Paulo,x,Santos
+2022,2022-05-07,Atlético MG,x,América MG
+2022,2022-05-07,Athletico PR,x,Ceará
+2022,2022-05-08,Flamengo,x,Botafogo
+2022,2022-05-08,Palmeiras,x,Fluminense
+2022,2022-05-08,Atlético GO,x,Goiás
+2022,2022-05-08,Bragantino,x,Corinthians
+2022,2022-05-08,Santos,x,Cuiabá
+2022,2022-05-08,Juventude,x,Internacional
+2022,2022-05-08,Fortaleza,x,São Paulo
+2022,2022-05-09,Avaí,x,Coritiba
+2022,2022-05-14,Palmeiras,x,Bragantino
+2022,2022-05-14,Ceará,x,Flamengo
+2022,2022-05-14,Atlético MG,x,Atlético GO
+2022,2022-05-14,Internacional,x,Corinthians
+2022,2022-05-14,Fluminense,x,Athletico PR
+2022,2022-05-15,São Paulo,x,Cuiabá
+2022,2022-05-15,Coritiba,x,América MG
+2022,2022-05-15,Botafogo,x,Fortaleza
+2022,2022-05-15,Goiás,x,Santos
+2022,2022-05-16,Avaí,x,Juventude
+2022,2022-05-11,Bragantino,x,Atlético MG
+2022,2022-05-21,Flamengo,x,Goiás
+2022,2022-05-21,Atlético GO,x,Coritiba
+2022,2022-05-21,Santos,x,Ceará
+2022,2022-05-21,Juventude,x,Palmeiras
+2022,2022-05-21,América MG,x,Botafogo
+2022,2022-05-21,Cuiabá,x,Internacional
+2022,2022-05-22,Corinthians,x,São Paulo
+2022,2022-05-22,Fortaleza,x,Fluminense
+2022,2022-05-22,Athletico PR,x,Avaí
+2022,2022-05-28,Goiás,x,Bragantino
+2022,2022-05-28,São Paulo,x,Ceará
+2022,2022-05-28,Fortaleza,x,Juventude
+2022,2022-05-29,Santos,x,Palmeiras
+2022,2022-05-29,Coritiba,x,Botafogo
+2022,2022-05-29,Fluminense,x,Flamengo
+2022,2022-05-29,Corinthians,x,América MG
+2022,2022-05-29,Cuiabá,x,Athletico PR
+2022,2022-05-29,Atlético MG,x,Avaí
+2022,2022-05-30,Internacional,x,Atlético GO
+2022,2022-06-04,América MG,x,Cuiabá
+2022,2022-06-04,Ceará,x,Coritiba
+2022,2022-06-04,Avaí,x,São Paulo
+2022,2022-06-04,Athletico PR,x,Santos
+2022,2022-06-04,Atlético GO,x,Corinthians
+2022,2022-06-05,Juventude,x,Fluminense
+2022,2022-06-05,Flamengo,x,Fortaleza
+2022,2022-06-05,Palmeiras,x,Atlético MG
+2022,2022-06-05,Bragantino,x,Internacional
+2022,2022-06-06,Botafogo,x,Goiás
+2022,2022-06-07,Coritiba,x,São Paulo
+2022,2022-06-08,América MG,x,Ceará
+2022,2022-06-08,Juventude,x,Athletico PR
+2022,2022-06-08,Bragantino,x,Flamengo
+2022,2022-06-08,Atlético GO,x,Avaí
+2022,2022-06-08,Fluminense,x,Atlético MG
+2022,2022-06-08,Santos,x,Internacional
+2022,2022-06-09,Palmeiras,x,Botafogo
+2022,2022-06-09,Cuiabá,x,Corinthians
+2022,2022-06-09,Fortaleza,x,Goiás
+2022,2022-06-12,Atlético MG,x,Santos
+2022,2022-06-12,Fluminense,x,Atlético GO
+2022,2022-06-12,São Paulo,x,América MG
+2022,2022-06-12,Corinthians,x,Juventude
+2022,2022-06-12,Botafogo,x,Avaí
+2022,2022-06-12,Internacional,x,Flamengo
+2022,2022-06-12,Fortaleza,x,Athletico PR
+2022,2022-06-12,Goiás,x,Ceará
+2022,2022-06-12,Cuiabá,x,Bragantino
+2022,2022-06-12,Coritiba,x,Palmeiras
+2022,2022-06-15,América MG,x,Fluminense
+2022,2022-06-15,Flamengo,x,Cuiabá
+2022,2022-06-15,Bragantino,x,Coritiba
+2022,2022-06-15,Palmeiras,x,Atlético GO
+2022,2022-06-15,Botafogo,x,São Paulo
+2022,2022-06-15,Juventude,x,Santos
+2022,2022-06-15,Ceará,x,Atlético MG
+2022,2022-06-15,Goiás,x,Internacional
+2022,2022-06-15,Avaí,x,Fortaleza
+2022,2022-06-15,Athletico PR,x,Corinthians
+2022,2022-06-19,Atlético MG,x,Flamengo
+2022,2022-06-19,Fluminense,x,Avaí
+2022,2022-06-19,São Paulo,x,Palmeiras
+2022,2022-06-19,Corinthians,x,Goiás
+2022,2022-06-19,Santos,x,Bragantino
+2022,2022-06-19,Internacional,x,Botafogo
+2022,2022-06-19,Fortaleza,x,América MG
+2022,2022-06-19,Atlético GO,x,Juventude
+2022,2022-06-19,Cuiabá,x,Ceará
+2022,2022-06-19,Coritiba,x,Athletico PR
+2022,2022-06-26,Atlético MG,x,Fortaleza
+2022,2022-06-26,Flamengo,x,América MG
+2022,2022-06-26,São Paulo,x,Juventude
+2022,2022-06-26,Corinthians,x,Santos
+2022,2022-06-26,Botafogo,x,Fluminense
+2022,2022-06-26,Internacional,x,Coritiba
+2022,2022-06-26,Ceará,x,Atlético GO
+2022,2022-06-26,Goiás,x,Cuiabá
+2022,2022-06-26,Avaí,x,Palmeiras
+2022,2022-06-26,Athletico PR,x,Bragantino
+2022,2022-07-03,América MG,x,Goiás
+2022,2022-07-03,Fluminense,x,Corinthians
+2022,2022-07-03,Bragantino,x,Botafogo
+2022,2022-07-03,Palmeiras,x,Athletico PR
+2022,2022-07-03,Santos,x,Flamengo
+2022,2022-07-03,Juventude,x,Atlético MG
+2022,2022-07-03,Ceará,x,Internacional
+2022,2022-07-03,Atlético GO,x,São Paulo
+2022,2022-07-03,Avaí,x,Cuiabá
+2022,2022-07-03,Coritiba,x,Fortaleza
+2022,2022-07-10,Atlético MG,x,São Paulo
+2022,2022-07-10,Fluminense,x,Ceará
+2022,2022-07-10,Bragantino,x,Avaí
+2022,2022-07-10,Corinthians,x,Flamengo
+2022,2022-07-10,Santos,x,Atlético GO
+2022,2022-07-10,Internacional,x,América MG
+2022,2022-07-10,Fortaleza,x,Palmeiras
+2022,2022-07-10,Goiás,x,Athletico PR
+2022,2022-07-10,Cuiabá,x,Botafogo
+2022,2022-07-10,Coritiba,x,Juventude
+2022,2022-07-17,América MG,x,Bragantino
+2022,2022-07-17,Flamengo,x,Coritiba
+2022,2022-07-17,São Paulo,x,Fluminense
+2022,2022-07-17,Palmeiras,x,Cuiabá
+2022,2022-07-17,Botafogo,x,Atlético MG
+2022,2022-07-17,Juventude,x,Goiás
+2022,2022-07-17,Ceará,x,Corinthians
+2022,2022-07-17,Atlético GO,x,Fortaleza
+2022,2022-07-17,Avaí,x,Santos
+2022,2022-07-17,Athletico PR,x,Internacional
+2022,2022-07-20,América MG,x,Palmeiras
+2022,2022-07-20,Flamengo,x,Juventude
+2022,2022-07-20,Bragantino,x,Fortaleza
+2022,2022-07-20,Corinthians,x,Coritiba
+2022,2022-07-20,Santos,x,Botafogo
+2022,2022-07-20,Internacional,x,São Paulo
+2022,2022-07-20,Ceará,x,Avaí
+2022,2022-07-20,Goiás,x,Fluminense
+2022,2022-07-20,Cuiabá,x,Atlético MG
+2022,2022-07-20,Athletico PR,x,Atlético GO
+2022,2022-07-24,Atlético MG,x,Corinthians
+2022,2022-07-24,Fluminense,x,Bragantino
+2022,2022-07-24,São Paulo,x,Goiás
+2022,2022-07-24,Palmeiras,x,Internacional
+2022,2022-07-24,Botafogo,x,Athletico PR
+2022,2022-07-24,Juventude,x,Ceará
+2022,2022-07-24,Fortaleza,x,Santos
+2022,2022-07-24,Atlético GO,x,América MG
+2022,2022-07-24,Avaí,x,Flamengo
+2022,2022-07-24,Coritiba,x,Cuiabá
+2022,2022-07-31,América MG,x,Avaí
+2022,2022-07-31,Flamengo,x,Atlético GO
+2022,2022-07-31,Bragantino,x,Juventude
+2022,2022-07-31,Corinthians,x,Botafogo
+2022,2022-07-31,Santos,x,Fluminense
+2022,2022-07-31,Internacional,x,Atlético MG
+2022,2022-07-31,Ceará,x,Palmeiras
+2022,2022-07-31,Goiás,x,Coritiba
+2022,2022-07-31,Cuiabá,x,Fortaleza
+2022,2022-07-31,Athletico PR,x,São Paulo
+2022,2022-08-07,Atlético MG,x,Athletico PR
+2022,2022-08-07,Fluminense,x,Cuiabá
+2022,2022-08-07,São Paulo,x,Flamengo
+2022,2022-08-07,Palmeiras,x,Goiás
+2022,2022-08-07,Botafogo,x,Ceará
+2022,2022-08-07,Juventude,x,América MG
+2022,2022-08-07,Fortaleza,x,Internacional
+2022,2022-08-07,Atlético GO,x,Bragantino
+2022,2022-08-07,Avaí,x,Corinthians
+2022,2022-08-07,Coritiba,x,Santos
+2022,2022-08-14,América MG,x,Santos
+2022,2022-08-14,Flamengo,x,Athletico PR
+2022,2022-08-14,São Paulo,x,Bragantino
+2022,2022-08-14,Corinthians,x,Palmeiras
+2022,2022-08-14,Botafogo,x,Atlético GO
+2022,2022-08-14,Internacional,x,Fluminense
+2022,2022-08-14,Ceará,x,Fortaleza
+2022,2022-08-14,Goiás,x,Avaí
+2022,2022-08-14,Cuiabá,x,Juventude
+2022,2022-08-14,Coritiba,x,Atlético MG
+2022,2022-08-21,Atlético MG,x,Goiás
+2022,2022-08-21,Fluminense,x,Coritiba
+2022,2022-08-21,Bragantino,x,Ceará
+2022,2022-08-21,Palmeiras,x,Flamengo
+2022,2022-08-21,Santos,x,São Paulo
+2022,2022-08-21,Juventude,x,Botafogo
+2022,2022-08-21,Fortaleza,x,Corinthians
+2022,2022-08-21,Atlético GO,x,Cuiabá
+2022,2022-08-21,Avaí,x,Internacional
+2022,2022-08-21,Athletico PR,x,América MG
+2022,2022-08-28,América MG,x,Atlético MG
+2022,2022-08-28,Fluminense,x,Palmeiras
+2022,2022-08-28,São Paulo,x,Fortaleza
+2022,2022-08-28,Corinthians,x,Bragantino
+2022,2022-08-28,Botafogo,x,Flamengo
+2022,2022-08-28,Internacional,x,Juventude
+2022,2022-08-28,Ceará,x,Athletico PR
+2022,2022-08-28,Goiás,x,Atlético GO
+2022,2022-08-28,Cuiabá,x,Santos
+2022,2022-08-28,Coritiba,x,Avaí
+2022,2022-09-04,América MG,x,Coritiba
+2022,2022-09-04,Flamengo,x,Ceará
+2022,2022-09-04,Bragantino,x,Palmeiras
+2022,2022-09-04,Corinthians,x,Internacional
+2022,2022-09-04,Santos,x,Goiás
+2022,2022-09-04,Juventude,x,Avaí
+2022,2022-09-04,Fortaleza,x,Botafogo
+2022,2022-09-04,Atlético GO,x,Atlético MG
+2022,2022-09-04,Cuiabá,x,São Paulo
+2022,2022-09-04,Athletico PR,x,Fluminense
+2022,2022-09-11,Atlético MG,x,Bragantino
+2022,2022-09-11,Fluminense,x,Fortaleza
+2022,2022-09-11,São Paulo,x,Corinthians
+2022,2022-09-11,Palmeiras,x,Juventude
+2022,2022-09-11,Botafogo,x,América MG
+2022,2022-09-11,Internacional,x,Cuiabá
+2022,2022-09-11,Ceará,x,Santos
+2022,2022-09-11,Goiás,x,Flamengo
+2022,2022-09-11,Avaí,x,Athletico PR
+2022,2022-09-11,Coritiba,x,Atlético GO
+2022,2022-09-18,América MG,x,Corinthians
+2022,2022-09-18,Flamengo,x,Fluminense
+2022,2022-09-18,Bragantino,x,Goiás
+2022,2022-09-18,Palmeiras,x,Santos
+2022,2022-09-18,Botafogo,x,Coritiba
+2022,2022-09-18,Juventude,x,Fortaleza
+2022,2022-09-18,Ceará,x,São Paulo
+2022,2022-09-18,Atlético GO,x,Internacional
+2022,2022-09-18,Avaí,x,Atlético MG
+2022,2022-09-18,Athletico PR,x,Cuiabá
+2022,2022-09-28,Atlético MG,x,Palmeiras
+2022,2022-09-28,Fluminense,x,Juventude
+2022,2022-09-28,São Paulo,x,Avaí
+2022,2022-09-28,Corinthians,x,Atlético GO
+2022,2022-09-28,Santos,x,Athletico PR
+2022,2022-09-28,Internacional,x,Bragantino
+2022,2022-09-28,Fortaleza,x,Flamengo
+2022,2022-09-28,Goiás,x,Botafogo
+2022,2022-09-28,Cuiabá,x,América MG
+2022,2022-09-28,Coritiba,x,Ceará
+2022,2022-10-01,Atlético MG,x,Fluminense
+2022,2022-10-01,Flamengo,x,Bragantino
+2022,2022-10-01,São Paulo,x,Coritiba
+2022,2022-10-01,Corinthians,x,Cuiabá
+2022,2022-10-01,Botafogo,x,Palmeiras
+2022,2022-10-01,Internacional,x,Santos
+2022,2022-10-01,Ceará,x,América MG
+2022,2022-10-01,Goiás,x,Fortaleza
+2022,2022-10-01,Avaí,x,Atlético GO
+2022,2022-10-01,Athletico PR,x,Juventude
+2022,2022-10-05,América MG,x,São Paulo
+2022,2022-10-05,Flamengo,x,Internacional
+2022,2022-10-05,Bragantino,x,Cuiabá
+2022,2022-10-05,Palmeiras,x,Coritiba
+2022,2022-10-05,Santos,x,Atlético MG
+2022,2022-10-05,Juventude,x,Corinthians
+2022,2022-10-05,Ceará,x,Goiás
+2022,2022-10-05,Atlético GO,x,Fluminense
+2022,2022-10-05,Avaí,x,Botafogo
+2022,2022-10-05,Athletico PR,x,Fortaleza
+2022,2022-10-09,Atlético MG,x,Ceará
+2022,2022-10-09,Fluminense,x,América MG
+2022,2022-10-09,São Paulo,x,Botafogo
+2022,2022-10-09,Corinthians,x,Athletico PR
+2022,2022-10-09,Santos,x,Juventude
+2022,2022-10-09,Internacional,x,Goiás
+2022,2022-10-09,Fortaleza,x,Avaí
+2022,2022-10-09,Atlético GO,x,Palmeiras
+2022,2022-10-09,Cuiabá,x,Flamengo
+2022,2022-10-09,Coritiba,x,Bragantino
+2022,2022-10-16,América MG,x,Fortaleza
+2022,2022-10-16,Flamengo,x,Atlético MG
+2022,2022-10-16,Bragantino,x,Santos
+2022,2022-10-16,Palmeiras,x,São Paulo
+2022,2022-10-16,Botafogo,x,Internacional
+2022,2022-10-16,Juventude,x,Atlético GO
+2022,2022-10-16,Ceará,x,Cuiabá
+2022,2022-10-16,Goiás,x,Corinthians
+2022,2022-10-16,Avaí,x,Fluminense
+2022,2022-10-16,Athletico PR,x,Coritiba
+2022,2022-10-23,América MG,x,Flamengo
+2022,2022-10-23,Fluminense,x,Botafogo
+2022,2022-10-23,Bragantino,x,Athletico PR
+2022,2022-10-23,Palmeiras,x,Avaí
+2022,2022-10-23,Santos,x,Corinthians
+2022,2022-10-23,Juventude,x,São Paulo
+2022,2022-10-23,Fortaleza,x,Atlético MG
+2022,2022-10-23,Atlético GO,x,Ceará
+2022,2022-10-23,Cuiabá,x,Goiás
+2022,2022-10-23,Coritiba,x,Internacional
+2022,2022-10-26,Atlético MG,x,Juventude
+2022,2022-10-26,Flamengo,x,Santos
+2022,2022-10-26,São Paulo,x,Atlético GO
+2022,2022-10-26,Corinthians,x,Fluminense
+2022,2022-10-26,Botafogo,x,Bragantino
+2022,2022-10-26,Internacional,x,Ceará
+2022,2022-10-26,Fortaleza,x,Coritiba
+2022,2022-10-26,Goiás,x,América MG
+2022,2022-10-26,Cuiabá,x,Avaí
+2022,2022-10-26,Athletico PR,x,Palmeiras
+2022,2022-10-29,América MG,x,Internacional
+2022,2022-10-29,Flamengo,x,Corinthians
+2022,2022-10-29,São Paulo,x,Atlético MG
+2022,2022-10-29,Palmeiras,x,Fortaleza
+2022,2022-10-29,Botafogo,x,Cuiabá
+2022,2022-10-29,Juventude,x,Coritiba
+2022,2022-10-29,Ceará,x,Fluminense
+2022,2022-10-29,Atlético GO,x,Santos
+2022,2022-10-29,Avaí,x,Bragantino
+2022,2022-10-29,Athletico PR,x,Goiás
+2022,2022-11-06,Atlético MG,x,Botafogo
+2022,2022-11-06,Fluminense,x,São Paulo
+2022,2022-11-06,Bragantino,x,América MG
+2022,2022-11-06,Corinthians,x,Ceará
+2022,2022-11-06,Santos,x,Avaí
+2022,2022-11-06,Internacional,x,Athletico PR
+2022,2022-11-06,Fortaleza,x,Atlético GO
+2022,2022-11-06,Goiás,x,Juventude
+2022,2022-11-06,Cuiabá,x,Palmeiras
+2022,2022-11-06,Coritiba,x,Flamengo
+2022,2022-11-09,Atlético MG,x,Cuiabá
+2022,2022-11-09,Fluminense,x,Goiás
+2022,2022-11-09,São Paulo,x,Internacional
+2022,2022-11-09,Palmeiras,x,América MG
+2022,2022-11-09,Botafogo,x,Santos
+2022,2022-11-09,Juventude,x,Flamengo
+2022,2022-11-09,Fortaleza,x,Bragantino
+2022,2022-11-09,Atlético GO,x,Athletico PR
+2022,2022-11-09,Avaí,x,Ceará
+2022,2022-11-09,Coritiba,x,Corinthians
+2022,2022-11-13,América MG,x,Atlético GO
+2022,2022-11-13,Flamengo,x,Avaí
+2022,2022-11-13,Bragantino,x,Fluminense
+2022,2022-11-13,Corinthians,x,Atlético MG
+2022,2022-11-13,Santos,x,Fortaleza
+2022,2022-11-13,Internacional,x,Palmeiras
+2022,2022-11-13,Ceará,x,Juventude
+2022,2022-11-13,Goiás,x,São Paulo
+2022,2022-11-13,Cuiabá,x,Coritiba
+2022,2022-11-13,Athletico PR,x,Botafogo
