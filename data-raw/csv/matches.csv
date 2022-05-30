@@ -7718,12 +7718,12 @@ season,date,home,score,away
 2022,2022-05-28,Goiás,1x1,Bragantino
 2022,2022-05-28,São Paulo,2x2,Ceará
 2022,2022-05-28,Fortaleza,1x1,Juventude
-2022,2022-05-29,Santos,x,Palmeiras
-2022,2022-05-29,Coritiba,x,Botafogo
-2022,2022-05-29,Fluminense,x,Flamengo
-2022,2022-05-29,Corinthians,x,América MG
-2022,2022-05-29,Cuiabá,x,Athletico PR
-2022,2022-05-29,Atlético MG,x,Avaí
+2022,2022-05-29,Santos,0x1,Palmeiras
+2022,2022-05-29,Coritiba,1x0,Botafogo
+2022,2022-05-29,Fluminense,1x2,Flamengo
+2022,2022-05-29,Corinthians,1x1,América MG
+2022,2022-05-29,Cuiabá,0x1,Athletico PR
+2022,2022-05-29,Atlético MG,2x1,Avaí
 2022,2022-05-30,Internacional,x,Atlético GO
 2022,2022-06-04,América MG,x,Cuiabá
 2022,2022-06-04,Ceará,x,Coritiba
