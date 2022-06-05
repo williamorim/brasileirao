@@ -7725,11 +7725,11 @@ season,date,home,score,away
 2022,2022-05-29,Cuiabá,0x1,Athletico PR
 2022,2022-05-29,Atlético MG,2x1,Avaí
 2022,2022-05-30,Internacional,1x1,Atlético GO
-2022,2022-06-04,América MG,x,Cuiabá
-2022,2022-06-04,Ceará,x,Coritiba
-2022,2022-06-04,Avaí,x,São Paulo
-2022,2022-06-04,Athletico PR,x,Santos
-2022,2022-06-04,Atlético GO,x,Corinthians
+2022,2022-06-04,América MG,2x1,Cuiabá
+2022,2022-06-04,Ceará,1x1,Coritiba
+2022,2022-06-04,Avaí,1x1,São Paulo
+2022,2022-06-04,Athletico PR,2x2,Santos
+2022,2022-06-04,Atlético GO,0x1,Corinthians
 2022,2022-06-05,Juventude,x,Fluminense
 2022,2022-06-05,Flamengo,x,Fortaleza
 2022,2022-06-05,Palmeiras,x,Atlético MG
