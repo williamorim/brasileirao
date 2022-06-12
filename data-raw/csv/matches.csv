@@ -7745,11 +7745,11 @@ season,date,home,score,away
 2022,2022-06-09,Palmeiras,4x0,Botafogo
 2022,2022-06-09,Fortaleza,1x1,Goiás
 2022,2022-06-09,Coritiba,1x1,São Paulo
-2022,2022-06-11,Corinthians,x,Juventude
-2022,2022-06-11,Atlético MG,x,Santos
-2022,2022-06-11,Fluminense,x,Atlético GO
-2022,2022-06-11,Cuiabá,x,Bragantino
-2022,2022-06-11,Internacional,x,Flamengo
+2022,2022-06-11,Corinthians,2x0,Juventude
+2022,2022-06-11,Atlético MG,1x1,Santos
+2022,2022-06-11,Fluminense,0x2,Atlético GO
+2022,2022-06-11,Cuiabá,1x1,Bragantino
+2022,2022-06-11,Internacional,3x1,Flamengo
 2022,2022-06-12,São Paulo,x,América MG
 2022,2022-06-12,Goiás,x,Ceará
 2022,2022-06-12,Coritiba,x,Palmeiras
@@ -7759,13 +7759,12 @@ season,date,home,score,away
 2022,2022-06-15,Bragantino,x,Coritiba
 2022,2022-06-15,Ceará,x,Atlético MG
 2022,2022-06-15,Flamengo,x,Cuiabá
-2022,2022-06-15,Palmeiras,x,Atlético GO
 2022,2022-06-15,Goiás,x,Internacional
 2022,2022-06-15,América MG,x,Fluminense
 2022,2022-06-15,Athletico PR,x,Corinthians
 2022,2022-06-16,Botafogo,x,São Paulo
+2022,2022-06-16,Palmeiras,x,Atlético GO
 2022,2022-06-16,Avaí,x,Fortaleza
-2022,2022-06-18,Atlético GO,x,Juventude
 2022,2022-06-18,Cuiabá,x,Ceará
 2022,2022-06-18,Santos,x,Bragantino
 2022,2022-06-19,Atlético MG,x,Flamengo
@@ -7773,10 +7772,10 @@ season,date,home,score,away
 2022,2022-06-19,Coritiba,x,Athletico PR
 2022,2022-06-19,Internacional,x,Botafogo
 2022,2022-06-19,Fortaleza,x,América MG
+2022,2022-06-19,Atlético GO,x,Juventude
 2022,2022-06-19,Fluminense,x,Avaí
 2022,2022-06-20,São Paulo,x,Palmeiras
 2022,2022-06-24,Internacional,x,Coritiba
-2022,2022-06-25,Ceará,x,Atlético GO
 2022,2022-06-25,Athletico PR,x,Bragantino
 2022,2022-06-25,Flamengo,x,América MG
 2022,2022-06-25,Corinthians,x,Santos
@@ -7784,8 +7783,8 @@ season,date,home,score,away
 2022,2022-06-26,Botafogo,x,Fluminense
 2022,2022-06-26,Avaí,x,Palmeiras
 2022,2022-06-26,São Paulo,x,Juventude
+2022,2022-06-26,Ceará,x,Atlético GO
 2022,2022-06-26,Goiás,x,Cuiabá
-2022,2022-07-02,América MG,x,Goiás
 2022,2022-07-02,Fluminense,x,Corinthians
 2022,2022-07-02,Juventude,x,Atlético MG
 2022,2022-07-02,Santos,x,Flamengo
@@ -7793,6 +7792,7 @@ season,date,home,score,away
 2022,2022-07-02,Palmeiras,x,Athletico PR
 2022,2022-07-03,Avaí,x,Cuiabá
 2022,2022-07-03,Atlético GO,x,São Paulo
+2022,2022-07-03,América MG,x,Goiás
 2022,2022-07-03,Coritiba,x,Fortaleza
 2022,2022-07-04,Bragantino,x,Botafogo
 2022,2022-07-10,Atlético MG,x,São Paulo
