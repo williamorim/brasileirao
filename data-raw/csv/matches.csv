@@ -7780,11 +7780,11 @@ season,date,home,score,away
 2022,2022-06-25,Flamengo,3x0,América MG
 2022,2022-06-25,Corinthians,0x0,Santos
 2022,2022-06-25,Atlético MG,3x2,Fortaleza
-2022,2022-06-26,Botafogo,x,Fluminense
-2022,2022-06-26,Avaí,x,Palmeiras
-2022,2022-06-26,São Paulo,x,Juventude
-2022,2022-06-26,Ceará,x,Atlético GO
-2022,2022-06-26,Goiás,x,Cuiabá
+2022,2022-06-26,Botafogo,0x1,Fluminense
+2022,2022-06-26,Avaí,2x2,Palmeiras
+2022,2022-06-26,São Paulo,0x0,Juventude
+2022,2022-06-26,Ceará,1x1,Atlético GO
+2022,2022-06-26,Goiás,1x0,Cuiabá
 2022,2022-07-02,Fluminense,x,Corinthians
 2022,2022-07-02,Juventude,x,Atlético MG
 2022,2022-07-02,Santos,x,Flamengo
