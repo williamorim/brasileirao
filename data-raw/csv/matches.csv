@@ -7859,12 +7859,12 @@ season,date,home,score,away
 2022,2022-08-13,Corinthians,0x1,Palmeiras
 2022,2022-08-13,Cuiabá,1x0,Juventude
 2022,2022-08-13,Botafogo,0x0,Atlético GO
-2022,2022-08-14,Coritiba,x,Atlético MG
-2022,2022-08-14,Flamengo,x,Athletico PR
-2022,2022-08-14,São Paulo,x,Bragantino
-2022,2022-08-14,Ceará,x,Fortaleza
-2022,2022-08-14,América MG,x,Santos
-2022,2022-08-14,Internacional,x,Fluminense
+2022,2022-08-14,Coritiba,0x1,Atlético MG
+2022,2022-08-14,Flamengo,5x0,Athletico PR
+2022,2022-08-14,São Paulo,3x0,Bragantino
+2022,2022-08-14,Ceará,0x1,Fortaleza
+2022,2022-08-14,América MG,1x0,Santos
+2022,2022-08-14,Internacional,3x0,Fluminense
 2022,2022-08-20,Atlético MG,x,Goiás
 2022,2022-08-20,Fluminense,x,Coritiba
 2022,2022-08-21,Juventude,x,Botafogo
