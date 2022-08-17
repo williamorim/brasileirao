@@ -7895,76 +7895,76 @@ season,date,home,score,away
 2022,2022-09-04,Atlético GO,x,Atlético MG
 2022,2022-09-04,Cuiabá,x,São Paulo
 2022,2022-09-05,Santos,x,Goiás
-2022,2022-09-11,Atlético MG,x,Bragantino
-2022,2022-09-11,Fluminense,x,Fortaleza
-2022,2022-09-11,São Paulo,x,Corinthians
-2022,2022-09-11,Palmeiras,x,Juventude
+2022,2022-09-07,Atlético MG,x,Bragantino
+2022,2022-09-10,Ceará,x,Santos
+2022,2022-09-10,Fluminense,x,Fortaleza
+2022,2022-09-10,Palmeiras,x,Juventude
 2022,2022-09-11,Botafogo,x,América MG
-2022,2022-09-11,Internacional,x,Cuiabá
-2022,2022-09-11,Ceará,x,Santos
-2022,2022-09-11,Goiás,x,Flamengo
 2022,2022-09-11,Avaí,x,Athletico PR
+2022,2022-09-11,São Paulo,x,Corinthians
 2022,2022-09-11,Coritiba,x,Atlético GO
-2022,2022-09-18,América MG,x,Corinthians
-2022,2022-09-18,Flamengo,x,Fluminense
+2022,2022-09-11,Goiás,x,Flamengo
+2022,2022-09-12,Internacional,x,Cuiabá
+2022,2022-09-17,Botafogo,x,Coritiba
+2022,2022-09-17,Avaí,x,Atlético MG
+2022,2022-09-17,América MG,x,Corinthians
 2022,2022-09-18,Bragantino,x,Goiás
-2022,2022-09-18,Palmeiras,x,Santos
-2022,2022-09-18,Botafogo,x,Coritiba
-2022,2022-09-18,Juventude,x,Fortaleza
+2022,2022-09-18,Flamengo,x,Fluminense
 2022,2022-09-18,Ceará,x,São Paulo
-2022,2022-09-18,Atlético GO,x,Internacional
-2022,2022-09-18,Avaí,x,Atlético MG
+2022,2022-09-18,Juventude,x,Fortaleza
 2022,2022-09-18,Athletico PR,x,Cuiabá
-2022,2022-09-28,Atlético MG,x,Palmeiras
+2022,2022-09-18,Palmeiras,x,Santos
+2022,2022-09-19,Atlético GO,x,Internacional
+2022,2022-09-27,São Paulo,x,Avaí
+2022,2022-09-27,Santos,x,Athletico PR
 2022,2022-09-28,Fluminense,x,Juventude
-2022,2022-09-28,São Paulo,x,Avaí
 2022,2022-09-28,Corinthians,x,Atlético GO
-2022,2022-09-28,Santos,x,Athletico PR
 2022,2022-09-28,Internacional,x,Bragantino
 2022,2022-09-28,Fortaleza,x,Flamengo
-2022,2022-09-28,Goiás,x,Botafogo
 2022,2022-09-28,Cuiabá,x,América MG
+2022,2022-09-28,Atlético MG,x,Palmeiras
+2022,2022-09-28,Goiás,x,Botafogo
 2022,2022-09-28,Coritiba,x,Ceará
 2022,2022-10-01,Atlético MG,x,Fluminense
-2022,2022-10-01,Flamengo,x,Bragantino
-2022,2022-10-01,São Paulo,x,Coritiba
-2022,2022-10-01,Corinthians,x,Cuiabá
-2022,2022-10-01,Botafogo,x,Palmeiras
 2022,2022-10-01,Internacional,x,Santos
+2022,2022-10-01,Flamengo,x,Bragantino
 2022,2022-10-01,Ceará,x,América MG
 2022,2022-10-01,Goiás,x,Fortaleza
 2022,2022-10-01,Avaí,x,Atlético GO
+2022,2022-10-01,Corinthians,x,Cuiabá
 2022,2022-10-01,Athletico PR,x,Juventude
-2022,2022-10-05,América MG,x,São Paulo
-2022,2022-10-05,Flamengo,x,Internacional
+2022,2022-10-03,São Paulo,x,Coritiba
+2022,2022-10-03,Botafogo,x,Palmeiras
+2022,2022-10-04,Juventude,x,Corinthians
 2022,2022-10-05,Bragantino,x,Cuiabá
-2022,2022-10-05,Palmeiras,x,Coritiba
-2022,2022-10-05,Santos,x,Atlético MG
-2022,2022-10-05,Juventude,x,Corinthians
 2022,2022-10-05,Ceará,x,Goiás
 2022,2022-10-05,Atlético GO,x,Fluminense
-2022,2022-10-05,Avaí,x,Botafogo
 2022,2022-10-05,Athletico PR,x,Fortaleza
-2022,2022-10-09,Atlético MG,x,Ceará
-2022,2022-10-09,Fluminense,x,América MG
+2022,2022-10-05,Flamengo,x,Internacional
+2022,2022-10-05,Santos,x,Atlético MG
+2022,2022-10-06,Palmeiras,x,Coritiba
+2022,2022-10-06,Avaí,x,Botafogo
+2022,2022-10-06,América MG,x,São Paulo
+2022,2022-10-08,Santos,x,Juventude
+2022,2022-10-08,Cuiabá,x,Flamengo
+2022,2022-10-08,Corinthians,x,Athletico PR
 2022,2022-10-09,São Paulo,x,Botafogo
-2022,2022-10-09,Corinthians,x,Athletico PR
-2022,2022-10-09,Santos,x,Juventude
 2022,2022-10-09,Internacional,x,Goiás
+2022,2022-10-09,Fluminense,x,América MG
 2022,2022-10-09,Fortaleza,x,Avaí
 2022,2022-10-09,Atlético GO,x,Palmeiras
-2022,2022-10-09,Cuiabá,x,Flamengo
 2022,2022-10-09,Coritiba,x,Bragantino
-2022,2022-10-16,América MG,x,Fortaleza
-2022,2022-10-16,Flamengo,x,Atlético MG
-2022,2022-10-16,Bragantino,x,Santos
-2022,2022-10-16,Palmeiras,x,São Paulo
+2022,2022-10-10,Atlético MG,x,Ceará
+2022,2022-10-15,Ceará,x,Cuiabá
+2022,2022-10-15,Palmeiras,x,São Paulo
+2022,2022-10-15,América MG,x,Fortaleza
+2022,2022-10-15,Flamengo,x,Atlético MG
+2022,2022-10-16,Goiás,x,Corinthians
 2022,2022-10-16,Botafogo,x,Internacional
 2022,2022-10-16,Juventude,x,Atlético GO
-2022,2022-10-16,Ceará,x,Cuiabá
-2022,2022-10-16,Goiás,x,Corinthians
-2022,2022-10-16,Avaí,x,Fluminense
 2022,2022-10-16,Athletico PR,x,Coritiba
+2022,2022-10-16,Avaí,x,Fluminense
+2022,2022-10-17,Bragantino,x,Santos
 2022,2022-10-23,América MG,x,Flamengo
 2022,2022-10-23,Fluminense,x,Botafogo
 2022,2022-10-23,Bragantino,x,Athletico PR
