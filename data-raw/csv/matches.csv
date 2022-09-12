@@ -7900,11 +7900,11 @@ season,date,home,score,away
 2022,2022-09-10,Ceará,2x1,Santos
 2022,2022-09-10,Fluminense,2x1,Fortaleza
 2022,2022-09-10,Palmeiras,2x1,Juventude
-2022,2022-09-11,Botafogo,x,América MG
-2022,2022-09-11,Avaí,x,Athletico PR
-2022,2022-09-11,São Paulo,x,Corinthians
-2022,2022-09-11,Coritiba,x,Atlético GO
-2022,2022-09-11,Goiás,x,Flamengo
+2022,2022-09-11,Botafogo,0x0,América MG
+2022,2022-09-11,Avaí,1x1,Athletico PR
+2022,2022-09-11,São Paulo,1x1,Corinthians
+2022,2022-09-11,Coritiba,2x0,Atlético GO
+2022,2022-09-11,Goiás,1x1,Flamengo
 2022,2022-09-17,Avaí,x,Atlético MG
 2022,2022-09-17,Botafogo,x,Coritiba
 2022,2022-09-18,Bragantino,x,Goiás
