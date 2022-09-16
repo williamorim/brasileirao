@@ -15,9 +15,11 @@ knitr::opts_chunk$set(
 
 # brasileirao
 
-R Package with the Brazilian National Soccer League (Brasileirão) matches from 2003 to 2020.
+R Package with the Brazilian National Soccer League (Brasileirão) matches from 2003 to 2022.
 
-<a href="https://raw.githubusercontent.com/williamorim/brasileirao/master/data-raw/csv/matches.csv" download="matches.csv">Click here</a> to download all data in CSV.
+<a href="https://raw.githubusercontent.com/williamorim/brasileirao/master/data-raw/csv/matches.csv" download="matches.csv">Click here</a> to download the matches table in CSV.
+
+<a href="https://raw.githubusercontent.com/williamorim/brasileirao/master/data-raw/csv/stats.csv" download="matches.csv">Click here</a> to download the stats table in CSV.
 
 ## Installation
 
@@ -42,7 +44,7 @@ dplyr::filter(matches, season == 2020)
 
 - Data from 2003 to 2019: [http://www.chancedegol.com.br/](http://www.chancedegol.com.br/)
 
-- Data from 2020: [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
+- Data from 2020 to 2022: [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
 
 ## Warranty
 

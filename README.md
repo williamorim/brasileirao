@@ -4,12 +4,13 @@
 # brasileirao
 
 R Package with the Brazilian National Soccer League (Brasileirão)
-matches from 2003 to 2020.
-
-For Portuguese speakers: pacote com os resultados das partidas da Série A do Brasileirão de 2003 a 2020. Veja [aqui um post sobre como usar](https://blog.curso-r.com/posts/2021-03-02-brasileirao/).
+matches from 2003 to 2022.
 
 <a href="https://raw.githubusercontent.com/williamorim/brasileirao/master/data-raw/csv/matches.csv" download="matches.csv">Click
-here</a> to download all data in CSV.
+here</a> to download the matches table in CSV.
+
+<a href="https://raw.githubusercontent.com/williamorim/brasileirao/master/data-raw/csv/stats.csv" download="matches.csv">Click
+here</a> to download the stats table in CSV.
 
 ## Installation
 
@@ -28,30 +29,28 @@ Data from the 2020 season:
 library(brasileirao)
 
 dplyr::filter(matches, season == 2020)
-#> # A tibble: 276 x 5
-#>    season date       home        score away         
-#>     <dbl> <date>     <chr>       <chr> <chr>        
-#>  1   2020 2020-08-08 Fortaleza   0x2   Athletico-PR 
-#>  2   2020 2020-08-08 Coritiba    0x1   Internacional
-#>  3   2020 2020-08-08 Sport       3x2   Ceará        
-#>  4   2020 2020-08-09 Flamengo    0x1   Atlético-MG  
-#>  5   2020 2020-08-09 Santos      1x1   Bragantino   
-#>  6   2020 2020-08-09 Grêmio      1x0   Fluminense   
-#>  7   2020 2020-09-30 Botafogo    1x2   Bahia        
-#>  8   2020 2020-09-30 Corinthians 0x0   Atlético-GO  
-#>  9   2020 2020-12-03 Goiás       0x3   São Paulo    
-#> 10   2020 2020-08-12 Bragantino  1x1   Botafogo     
-#> # ... with 266 more rows
+#> # A tibble: 380 × 6
+#>    id_match season date       home        score away         
+#>       <int>  <dbl> <date>     <chr>       <chr> <chr>        
+#>  1     6887   2020 2020-08-08 Fortaleza   0x2   Athletico PR 
+#>  2     6888   2020 2020-08-08 Coritiba    0x1   Internacional
+#>  3     6889   2020 2020-08-08 Sport       3x2   Ceará        
+#>  4     6890   2020 2020-08-09 Flamengo    0x1   Atlético MG  
+#>  5     6891   2020 2020-08-09 Santos      1x1   Bragantino   
+#>  6     6892   2020 2020-08-09 Grêmio      1x0   Fluminense   
+#>  7     6893   2020 2020-09-30 Botafogo    1x2   Bahia        
+#>  8     6894   2020 2020-09-30 Corinthians 0x0   Atlético GO  
+#>  9     6895   2020 2020-12-03 Goiás       0x3   São Paulo    
+#> 10     6896   2020 2021-01-26 Palmeiras   1x1   Vasco da Gama
+#> # … with 370 more rows
 ```
 
 ## Sources
 
-  - Data from 2003 to 2019: <http://www.chancedegol.com.br/>
+-   Data from 2003 to 2019: <http://www.chancedegol.com.br/>
 
-  - Data from 2020 and 2021:
+-   Data from 2020 to 2022:
     [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
-    
-The data is updated every day, using a GitHub Actions workflow. The workflow is disabled in months between seasons.
 
 ## Warranty
 
@@ -63,5 +62,5 @@ issue](https://github.com/williamorim/brasileirao/issues).
 
 ## Next steps
 
-  - Gather more data from Serie A
-  - Gather data from Serie B, C and D
+-   Update the data every Monday and Thursday at 11:59 pm using GitHub
+    Actions.
