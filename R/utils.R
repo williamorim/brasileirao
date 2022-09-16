@@ -13,6 +13,12 @@
 #'
 fix_names <- function(teams) {
   teams <- sub("-", " ", teams)
+  teams <- sub(" FC", "", teams)
+  teams <- sub(" EC", "", teams)
+  teams <- sub(" SC", "", teams)
+  teams <- sub("EC ", "", teams)
+  teams <- sub("RB ", "", teams)
+  teams <- sub(" DF", "", teams)
 
   new_names <- c()
   for(t in teams) {
@@ -20,6 +26,8 @@ fix_names <- function(teams) {
       t,
       "Atl\u00e9tico PR" = "Athletico PR",
       Prudente = "Barueri",
+      Vasco = "Vasco da Gama",
+      "Sport Recife" = "Sport",
       t
     )
     new_names <- c(new_names, aux)
