@@ -7917,14 +7917,14 @@ id_match,season,date,home,score,away
 7916,2022,2022-09-19,Atlético GO,1x2,Internacional
 7917,2022,2022-09-25,São Paulo,4x0,Avaí
 7918,2022,2022-09-27,Santos,2x0,Athletico PR
-7919,2022,2022-09-28,Fluminense,x,Juventude
-7920,2022,2022-09-28,Corinthians,x,Atlético GO
-7921,2022,2022-09-28,Fortaleza,x,Flamengo
-7922,2022,2022-09-28,Coritiba,x,Ceará
-7923,2022,2022-09-28,Cuiabá,x,América MG
-7924,2022,2022-09-28,Atlético MG,x,Palmeiras
-7925,2022,2022-09-28,Internacional,x,Bragantino
-7926,2022,2022-09-28,Goiás,x,Botafogo
+7919,2022,2022-09-28,Fluminense,4x0,Juventude
+7920,2022,2022-09-28,Corinthians,2x1,Atlético GO
+7921,2022,2022-09-28,Fortaleza,3x2,Flamengo
+7922,2022,2022-09-28,Coritiba,1x0,Ceará
+7923,2022,2022-09-28,Cuiabá,2x1,América MG
+7924,2022,2022-09-28,Atlético MG,0x1,Palmeiras
+7925,2022,2022-09-28,Internacional,0x0,Bragantino
+7926,2022,2022-09-28,Goiás,0x1,Botafogo
 7927,2022,2022-10-01,Atlético MG,x,Fluminense
 7928,2022,2022-10-01,Internacional,x,Santos
 7929,2022,2022-10-01,Ceará,x,América MG
@@ -7955,61 +7955,61 @@ id_match,season,date,home,score,away
 7954,2022,2022-10-09,Coritiba,x,Bragantino
 7955,2022,2022-10-10,Atlético GO,x,Palmeiras
 7956,2022,2022-10-10,Santos,x,Juventude
-7957,2022,2022-10-15,Palmeiras,x,São Paulo
+7957,2022,2022-10-16,Palmeiras,x,São Paulo
 7958,2022,2022-10-15,América MG,x,Fortaleza
 7959,2022,2022-10-15,Flamengo,x,Atlético MG
 7960,2022,2022-10-16,Ceará,x,Cuiabá
-7961,2022,2022-10-16,Goiás,x,Corinthians
+7961,2022,2022-10-15,Goiás,x,Corinthians
 7962,2022,2022-10-16,Botafogo,x,Internacional
 7963,2022,2022-10-16,Juventude,x,Atlético GO
 7964,2022,2022-10-16,Avaí,x,Fluminense
 7965,2022,2022-10-16,Athletico PR,x,Coritiba
 7966,2022,2022-10-17,Bragantino,x,Santos
-7967,2022,2022-10-23,América MG,x,Flamengo
+7967,2022,2022-10-22,América MG,x,Flamengo
 7968,2022,2022-10-23,Fluminense,x,Botafogo
-7969,2022,2022-10-23,Bragantino,x,Athletico PR
-7970,2022,2022-10-23,Palmeiras,x,Avaí
-7971,2022,2022-10-23,Santos,x,Corinthians
+7969,2022,2022-10-22,Bragantino,x,Athletico PR
+7970,2022,2022-10-22,Palmeiras,x,Avaí
+7971,2022,2022-10-22,Santos,x,Corinthians
 7972,2022,2022-10-23,Juventude,x,São Paulo
-7973,2022,2022-10-23,Fortaleza,x,Atlético MG
+7973,2022,2022-10-24,Fortaleza,x,Atlético MG
 7974,2022,2022-10-23,Atlético GO,x,Ceará
 7975,2022,2022-10-23,Cuiabá,x,Goiás
 7976,2022,2022-10-23,Coritiba,x,Internacional
-7977,2022,2022-10-26,Atlético MG,x,Juventude
-7978,2022,2022-10-26,Flamengo,x,Santos
-7979,2022,2022-10-26,São Paulo,x,Atlético GO
+7977,2022,2022-10-27,Atlético MG,x,Juventude
+7978,2022,2022-10-25,Flamengo,x,Santos
+7979,2022,2022-10-27,São Paulo,x,Atlético GO
 7980,2022,2022-10-26,Corinthians,x,Fluminense
 7981,2022,2022-10-26,Botafogo,x,Bragantino
 7982,2022,2022-10-26,Internacional,x,Ceará
-7983,2022,2022-10-26,Fortaleza,x,Coritiba
+7983,2022,2022-10-27,Fortaleza,x,Coritiba
 7984,2022,2022-10-26,Goiás,x,América MG
-7985,2022,2022-10-26,Cuiabá,x,Avaí
-7986,2022,2022-10-26,Athletico PR,x,Palmeiras
-7987,2022,2022-10-29,América MG,x,Internacional
-7988,2022,2022-10-29,Flamengo,x,Corinthians
-7989,2022,2022-10-29,São Paulo,x,Atlético MG
-7990,2022,2022-10-29,Palmeiras,x,Fortaleza
-7991,2022,2022-10-29,Botafogo,x,Cuiabá
-7992,2022,2022-10-29,Juventude,x,Coritiba
-7993,2022,2022-10-29,Ceará,x,Fluminense
-7994,2022,2022-10-29,Atlético GO,x,Santos
-7995,2022,2022-10-29,Avaí,x,Bragantino
-7996,2022,2022-10-29,Athletico PR,x,Goiás
-7997,2022,2022-11-06,Atlético MG,x,Botafogo
-7998,2022,2022-11-06,Fluminense,x,São Paulo
-7999,2022,2022-11-06,Bragantino,x,América MG
-8000,2022,2022-11-06,Corinthians,x,Ceará
-8001,2022,2022-11-06,Santos,x,Avaí
-8002,2022,2022-11-06,Internacional,x,Athletico PR
-8003,2022,2022-11-06,Fortaleza,x,Atlético GO
-8004,2022,2022-11-06,Goiás,x,Juventude
+7985,2022,2022-10-27,Cuiabá,x,Avaí
+7986,2022,2022-10-25,Athletico PR,x,Palmeiras
+7987,2022,2022-11-02,América MG,x,Internacional
+7988,2022,2022-11-02,Flamengo,x,Corinthians
+7989,2022,2022-11-01,São Paulo,x,Atlético MG
+7990,2022,2022-11-02,Palmeiras,x,Fortaleza
+7991,2022,2022-11-01,Botafogo,x,Cuiabá
+7992,2022,2022-11-02,Juventude,x,Coritiba
+7993,2022,2022-10-31,Ceará,x,Fluminense
+7994,2022,2022-11-02,Atlético GO,x,Santos
+7995,2022,2022-11-02,Avaí,x,Bragantino
+7996,2022,2022-11-02,Athletico PR,x,Goiás
+7997,2022,2022-11-07,Atlético MG,x,Botafogo
+7998,2022,2022-11-05,Fluminense,x,São Paulo
+7999,2022,2022-11-05,Bragantino,x,América MG
+8000,2022,2022-11-05,Corinthians,x,Ceará
+8001,2022,2022-11-05,Santos,x,Avaí
+8002,2022,2022-11-05,Internacional,x,Athletico PR
+8003,2022,2022-11-05,Fortaleza,x,Atlético GO
+8004,2022,2022-11-05,Goiás,x,Juventude
 8005,2022,2022-11-06,Cuiabá,x,Palmeiras
 8006,2022,2022-11-06,Coritiba,x,Flamengo
-8007,2022,2022-11-09,Atlético MG,x,Cuiabá
+8007,2022,2022-11-10,Atlético MG,x,Cuiabá
 8008,2022,2022-11-09,Fluminense,x,Goiás
-8009,2022,2022-11-09,São Paulo,x,Internacional
+8009,2022,2022-11-08,São Paulo,x,Internacional
 8010,2022,2022-11-09,Palmeiras,x,América MG
-8011,2022,2022-11-09,Botafogo,x,Santos
+8011,2022,2022-11-10,Botafogo,x,Santos
 8012,2022,2022-11-09,Juventude,x,Flamengo
 8013,2022,2022-11-09,Fortaleza,x,Bragantino
 8014,2022,2022-11-09,Atlético GO,x,Athletico PR
