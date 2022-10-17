@@ -7955,15 +7955,15 @@ id_match,season,date,home,score,away
 7954,2022,2022-10-09,Coritiba,2x1,Bragantino
 7955,2022,2022-10-10,Atlético GO,1x1,Palmeiras
 7956,2022,2022-10-10,Santos,4x1,Juventude
-7957,2022,2022-10-16,Palmeiras,x,São Paulo
+7957,2022,2022-10-16,Palmeiras,0x0,São Paulo
 7958,2022,2022-10-15,América MG,1x2,Fortaleza
 7959,2022,2022-10-15,Flamengo,1x0,Atlético MG
-7960,2022,2022-10-16,Ceará,x,Cuiabá
+7960,2022,2022-10-16,Ceará,1x1,Cuiabá
 7961,2022,2022-10-15,Goiás,x,Corinthians
-7962,2022,2022-10-16,Botafogo,x,Internacional
-7963,2022,2022-10-16,Juventude,x,Atlético GO
-7964,2022,2022-10-16,Avaí,x,Fluminense
-7965,2022,2022-10-16,Athletico PR,x,Coritiba
+7962,2022,2022-10-16,Botafogo,0x1,Internacional
+7963,2022,2022-10-16,Juventude,1x1,Atlético GO
+7964,2022,2022-10-16,Avaí,0x3,Fluminense
+7965,2022,2022-10-16,Athletico PR,1x0,Coritiba
 7966,2022,2022-10-17,Bragantino,x,Santos
 7967,2022,2022-10-22,América MG,x,Flamengo
 7968,2022,2022-10-23,Fluminense,x,Botafogo
