@@ -7965,11 +7965,11 @@ id_match,season,date,home,score,away
 7964,2022,2022-10-16,Avaí,0x3,Fluminense
 7965,2022,2022-10-16,Athletico PR,1x0,Coritiba
 7966,2022,2022-10-17,Bragantino,0x2,Santos
-7967,2022,2022-10-22,América MG,x,Flamengo
+7967,2022,2022-10-22,América MG,1x2,Flamengo
 7968,2022,2022-10-23,Fluminense,x,Botafogo
-7969,2022,2022-10-22,Bragantino,x,Athletico PR
-7970,2022,2022-10-22,Palmeiras,x,Avaí
-7971,2022,2022-10-22,Santos,x,Corinthians
+7969,2022,2022-10-22,Bragantino,4x2,Athletico PR
+7970,2022,2022-10-22,Palmeiras,3x0,Avaí
+7971,2022,2022-10-22,Santos,0x1,Corinthians
 7972,2022,2022-10-23,Juventude,x,São Paulo
 7973,2022,2022-10-24,Fortaleza,x,Atlético MG
 7974,2022,2022-10-23,Atlético GO,x,Ceará
