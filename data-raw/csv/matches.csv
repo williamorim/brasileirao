@@ -7978,11 +7978,11 @@ id_match,season,date,home,score,away
 7977,2022,2022-10-27,Atlético MG,x,Juventude
 7978,2022,2022-10-25,Flamengo,3x2,Santos
 7979,2022,2022-10-27,São Paulo,x,Atlético GO
-7980,2022,2022-10-26,Corinthians,x,Fluminense
-7981,2022,2022-10-26,Botafogo,x,Bragantino
-7982,2022,2022-10-26,Internacional,x,Ceará
+7980,2022,2022-10-26,Corinthians,0x2,Fluminense
+7981,2022,2022-10-26,Botafogo,2x1,Bragantino
+7982,2022,2022-10-26,Internacional,2x1,Ceará
 7983,2022,2022-10-27,Fortaleza,x,Coritiba
-7984,2022,2022-10-26,Goiás,x,América MG
+7984,2022,2022-10-26,Goiás,2x2,América MG
 7985,2022,2022-10-27,Cuiabá,x,Avaí
 7986,2022,2022-10-25,Athletico PR,1x3,Palmeiras
 7987,2022,2022-11-02,América MG,x,Internacional
