@@ -7991,7 +7991,7 @@ id_match,season,date,home,score,away
 7990,2022,2022-11-02,Palmeiras,x,Fortaleza
 7991,2022,2022-11-01,Botafogo,x,Cuiabá
 7992,2022,2022-11-02,Juventude,x,Coritiba
-7993,2022,2022-10-31,Ceará,x,Fluminense
+7993,2022,2022-10-31,Ceará,0x1,Fluminense
 7994,2022,2022-11-02,Atlético GO,x,Santos
 7995,2022,2022-11-02,Avaí,x,Bragantino
 7996,2022,2022-11-02,Athletico PR,x,Goiás
@@ -8001,7 +8001,7 @@ id_match,season,date,home,score,away
 8000,2022,2022-11-05,Corinthians,x,Ceará
 8001,2022,2022-11-05,Santos,x,Avaí
 8002,2022,2022-11-05,Internacional,x,Athletico PR
-8003,2022,2022-11-05,Fortaleza,x,Atlético GO
+8003,2022,2022-11-06,Fortaleza,x,Atlético GO
 8004,2022,2022-11-05,Goiás,x,Juventude
 8005,2022,2022-11-06,Cuiabá,x,Palmeiras
 8006,2022,2022-11-06,Coritiba,x,Flamengo
