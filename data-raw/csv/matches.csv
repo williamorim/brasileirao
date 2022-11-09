@@ -8007,7 +8007,7 @@ id_match,season,date,home,score,away
 8006,2022,2022-11-06,Coritiba,1x0,Flamengo
 8007,2022,2022-11-10,Atlético MG,x,Cuiabá
 8008,2022,2022-11-09,Fluminense,x,Goiás
-8009,2022,2022-11-08,São Paulo,x,Internacional
+8009,2022,2022-11-08,São Paulo,0x1,Internacional
 8010,2022,2022-11-09,Palmeiras,x,América MG
 8011,2022,2022-11-10,Botafogo,x,Santos
 8012,2022,2022-11-09,Juventude,x,Flamengo
@@ -8016,7 +8016,7 @@ id_match,season,date,home,score,away
 8015,2022,2022-11-09,Avaí,x,Ceará
 8016,2022,2022-11-09,Coritiba,x,Corinthians
 8017,2022,2022-11-13,América MG,x,Atlético GO
-8018,2022,2022-11-13,Flamengo,x,Avaí
+8018,2022,2022-11-12,Flamengo,x,Avaí
 8019,2022,2022-11-13,Bragantino,x,Fluminense
 8020,2022,2022-11-13,Corinthians,x,Atlético MG
 8021,2022,2022-11-13,Santos,x,Fortaleza
