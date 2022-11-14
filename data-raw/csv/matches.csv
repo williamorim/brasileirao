@@ -8015,13 +8015,13 @@ id_match,season,date,home,score,away
 8014,2022,2022-11-09,Atlético GO,1x1,Athletico PR
 8015,2022,2022-11-09,Avaí,2x0,Ceará
 8016,2022,2022-11-09,Coritiba,2x2,Corinthians
-8017,2022,2022-11-13,América MG,x,Atlético GO
+8017,2022,2022-11-13,América MG,1x1,Atlético GO
 8018,2022,2022-11-12,Flamengo,1x2,Avaí
-8019,2022,2022-11-13,Bragantino,x,Fluminense
-8020,2022,2022-11-13,Corinthians,x,Atlético MG
-8021,2022,2022-11-13,Santos,x,Fortaleza
-8022,2022,2022-11-13,Internacional,x,Palmeiras
-8023,2022,2022-11-13,Ceará,x,Juventude
-8024,2022,2022-11-13,Goiás,x,São Paulo
-8025,2022,2022-11-13,Cuiabá,x,Coritiba
-8026,2022,2022-11-13,Athletico PR,x,Botafogo
+8019,2022,2022-11-13,Bragantino,0x1,Fluminense
+8020,2022,2022-11-13,Corinthians,0x1,Atlético MG
+8021,2022,2022-11-13,Santos,0x2,Fortaleza
+8022,2022,2022-11-13,Internacional,3x0,Palmeiras
+8023,2022,2022-11-13,Ceará,4x1,Juventude
+8024,2022,2022-11-13,Goiás,0x4,São Paulo
+8025,2022,2022-11-13,Cuiabá,2x1,Coritiba
+8026,2022,2022-11-13,Athletico PR,3x0,Botafogo
