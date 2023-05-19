@@ -76,17 +76,17 @@ scraper_change_gol <- function(year) {
   stopifnot(year %in% 2003:2019)
   edition <- stringi::stri_sub(year, 3, 4)
   url <- glue::glue("http://www.chancedegol.com.br/br{edition}.htm")
-  url %>%
-    httr::GET() %>%
-    httr::content(encoding = "latin1") %>%
-    xml2::xml_find_first(".//table") %>%
-    xml_table( header = TRUE) %>%
-    janitor::clean_names() %>%
-    tibble::as_tibble() %>%
+  url |>
+    httr::GET() |>
+    httr::content(encoding = "latin1") |>
+    xml2::xml_find_first(".//table") |>
+    xml_table( header = TRUE) |>
+    janitor::clean_names() |>
+    tibble::as_tibble() |>
     dplyr::mutate(
       season = year,
       data = as.Date(paste(data, year, sep = "/"), format = "%d/%m/%Y")
-    ) %>%
+    ) |>
     dplyr::select(
       season,
       date = data,
@@ -103,12 +103,12 @@ scraper_ge_2020 <- function(round) {
   )
   Sys.sleep(1)
   res <- httr::GET(url)
-  tab <- res %>%
-    httr::content(type = "text/json", encoding = "latin1") %>%
-    jsonlite::fromJSON() %>%
-    janitor::clean_names() %>%
+  tab <- res |>
+    httr::content(type = "text/json", encoding = "latin1") |>
+    jsonlite::fromJSON() |>
+    janitor::clean_names() |>
     tibble::as_tibble()
-  tab %>%
+  tab |>
     dplyr::mutate(
       dplyr::across(
         dplyr::starts_with("placar_oficial"),
@@ -123,7 +123,7 @@ scraper_ge_2020 <- function(round) {
         sep = "x"
       ),
       away = equipes$visitante$nome_popular,
-    ) %>%
+    ) |>
     dplyr::select(
       season,
       date,
@@ -140,12 +140,12 @@ scraper_ge_2021 <- function(round) {
   )
   Sys.sleep(1)
   res <- httr::GET(url)
-  tab <- res %>%
-    httr::content(type = "text/json", encoding = "latin1") %>%
-    jsonlite::fromJSON() %>%
-    janitor::clean_names() %>%
+  tab <- res |>
+    httr::content(type = "text/json", encoding = "latin1") |>
+    jsonlite::fromJSON() |>
+    janitor::clean_names() |>
     tibble::as_tibble()
-  tab %>%
+  tab |>
     dplyr::mutate(
       dplyr::across(
         dplyr::starts_with("placar_oficial"),
@@ -160,7 +160,7 @@ scraper_ge_2021 <- function(round) {
         sep = "x"
       ),
       away = equipes$visitante$nome_popular,
-    ) %>%
+    ) |>
     dplyr::select(
       season,
       date,
@@ -177,16 +177,16 @@ scraper_ge_2022 <- function(round) {
   )
   Sys.sleep(1)
   res <- httr::GET(url)
-  tab <- res %>%
-    httr::content(type = "text/json", encoding = "latin1") %>%
-    jsonlite::fromJSON() %>%
-    janitor::clean_names() %>%
+  tab <- res |>
+    httr::content(type = "text/json", encoding = "latin1") |>
+    jsonlite::fromJSON() |>
+    janitor::clean_names() |>
     tibble::as_tibble()
-  tab %>%
+  tab |>
     dplyr::mutate(
       dplyr::across(
         dplyr::starts_with("placar_oficial"),
-        ~ .x %>% as.character() %>% tidyr::replace_na("")
+        ~ .x |> as.character() |> tidyr::replace_na("")
       ),
       season = 2022,
       date = as.Date(data_realizacao),
@@ -197,7 +197,44 @@ scraper_ge_2022 <- function(round) {
         sep = "x"
       ),
       away = equipes$visitante$nome_popular,
-    ) %>%
+    ) |>
+    dplyr::select(
+      season,
+      date,
+      home,
+      score,
+      away
+    )
+}
+
+scraper_ge_2023 <- function(round) {
+  round <- stringr::str_pad(round, 2, "left", "0")
+  url <- glue::glue(
+    "https://api.globoesporte.globo.com/tabela/d1a37fa4-e948-43a6-ba53-ab24ab3a45b1/fase/fase-unica-campeonato-brasileiro-2023/rodada/{round}/jogos/"
+  )
+  Sys.sleep(1)
+  res <- httr::GET(url)
+  tab <- res |>
+    httr::content(type = "text/json", encoding = "latin1") |>
+    jsonlite::fromJSON() |>
+    janitor::clean_names() |>
+    tibble::as_tibble()
+  tab |>
+    dplyr::mutate(
+      dplyr::across(
+        dplyr::starts_with("placar_oficial"),
+        ~ .x |> as.character() |> tidyr::replace_na("")
+      ),
+      season = 2023,
+      date = as.Date(data_realizacao),
+      home = equipes$mandante$nome_popular,
+      score = paste(
+        placar_oficial_mandante,
+        placar_oficial_visitante,
+        sep = "x"
+      ),
+      away = equipes$visitante$nome_popular,
+    ) |>
     dplyr::select(
       season,
       date,
