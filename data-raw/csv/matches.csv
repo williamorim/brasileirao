@@ -8126,54 +8126,54 @@ id_match,season,date,home,score,away
 8125,2023,2023-06-11,São Paulo,x,Palmeiras
 8126,2023,2023-06-10,Corinthians,x,Cuiabá
 8127,2023,2023-06-21,Fluminense,x,Atlético MG
-8128,2023,2023-06-21,Vasco da Gama,x,Goiás
+8128,2023,2023-06-22,Vasco da Gama,x,Goiás
 8129,2023,2023-06-21,São Paulo,x,Athletico PR
 8130,2023,2023-06-21,Santos,x,Corinthians
-8131,2023,2023-06-21,Bragantino,x,Flamengo
+8131,2023,2023-06-22,Bragantino,x,Flamengo
 8132,2023,2023-06-21,Cruzeiro,x,Fortaleza
-8133,2023,2023-06-21,Grêmio,x,América MG
-8134,2023,2023-06-21,Coritiba,x,Internacional
+8133,2023,2023-06-22,Grêmio,x,América MG
+8134,2023,2023-06-22,Coritiba,x,Internacional
 8135,2023,2023-06-21,Bahia,x,Palmeiras
-8136,2023,2023-06-21,Cuiabá,x,Botafogo
-8137,2023,2023-06-25,Fluminense,x,Bahia
-8138,2023,2023-06-25,Vasco da Gama,x,Cuiabá
+8136,2023,2023-06-22,Cuiabá,x,Botafogo
+8137,2023,2023-06-24,Fluminense,x,Bahia
+8138,2023,2023-06-26,Vasco da Gama,x,Cuiabá
 8139,2023,2023-06-25,Palmeiras,x,Botafogo
 8140,2023,2023-06-25,Santos,x,Flamengo
 8141,2023,2023-06-25,Bragantino,x,Goiás
-8142,2023,2023-06-25,Cruzeiro,x,São Paulo
+8142,2023,2023-06-24,Cruzeiro,x,São Paulo
 8143,2023,2023-06-25,Grêmio,x,Coritiba
-8144,2023,2023-06-25,Athletico PR,x,Corinthians
-8145,2023,2023-06-25,Fortaleza,x,Atlético MG
+8144,2023,2023-06-24,Athletico PR,x,Corinthians
+8145,2023,2023-06-24,Fortaleza,x,Atlético MG
 8146,2023,2023-06-25,América MG,x,Internacional
-8147,2023,2023-07-02,Flamengo,x,Fortaleza
+8147,2023,2023-07-01,Flamengo,x,Fortaleza
 8148,2023,2023-07-02,Botafogo,x,Vasco da Gama
-8149,2023,2023-07-02,São Paulo,x,Fluminense
+8149,2023,2023-07-01,São Paulo,x,Fluminense
 8150,2023,2023-07-02,Corinthians,x,Bragantino
-8151,2023,2023-07-02,Goiás,x,Coritiba
+8151,2023,2023-07-03,Goiás,x,Coritiba
 8152,2023,2023-07-02,Atlético MG,x,América MG
-8153,2023,2023-07-02,Internacional,x,Cruzeiro
+8153,2023,2023-07-01,Internacional,x,Cruzeiro
 8154,2023,2023-07-02,Athletico PR,x,Palmeiras
-8155,2023,2023-07-02,Bahia,x,Grêmio
+8155,2023,2023-07-01,Bahia,x,Grêmio
 8156,2023,2023-07-02,Cuiabá,x,Santos
 8157,2023,2023-07-09,Fluminense,x,Internacional
-8158,2023,2023-07-09,Vasco da Gama,x,Cruzeiro
-8159,2023,2023-07-09,Palmeiras,x,Flamengo
+8158,2023,2023-07-08,Vasco da Gama,x,Cruzeiro
+8159,2023,2023-07-08,Palmeiras,x,Flamengo
 8160,2023,2023-07-09,Santos,x,Goiás
 8161,2023,2023-07-09,Bragantino,x,São Paulo
 8162,2023,2023-07-09,Atlético MG,x,Corinthians
 8163,2023,2023-07-09,Grêmio,x,Botafogo
-8164,2023,2023-07-09,Coritiba,x,América MG
+8164,2023,2023-07-08,Coritiba,x,América MG
 8165,2023,2023-07-09,Fortaleza,x,Athletico PR
-8166,2023,2023-07-09,Cuiabá,x,Bahia
+8166,2023,2023-07-10,Cuiabá,x,Bahia
 8167,2023,2023-07-16,Fluminense,x,Flamengo
-8168,2023,2023-07-16,Botafogo,x,Bragantino
+8168,2023,2023-07-15,Botafogo,x,Bragantino
 8169,2023,2023-07-16,São Paulo,x,Santos
-8170,2023,2023-07-16,Corinthians,x,Grêmio
+8170,2023,2023-07-15,Corinthians,x,Grêmio
 8171,2023,2023-07-16,Goiás,x,Atlético MG
 8172,2023,2023-07-16,Internacional,x,Palmeiras
 8173,2023,2023-07-16,Athletico PR,x,Bahia
 8174,2023,2023-07-16,Fortaleza,x,Cuiabá
-8175,2023,2023-07-16,América MG,x,Vasco da Gama
+8175,2023,2023-07-15,América MG,x,Vasco da Gama
 8176,2023,2023-07-16,Cruzeiro,x,Coritiba
 8177,2023,2023-07-23,Flamengo,x,América MG
 8178,2023,2023-07-23,Vasco da Gama,x,Athletico PR
