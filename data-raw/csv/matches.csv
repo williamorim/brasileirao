@@ -8095,11 +8095,11 @@ id_match,season,date,home,score,away
 8094,2023,2023-05-21,Flamengo,1x0,Corinthians
 8095,2023,2023-05-21,Grêmio,3x1,Internacional
 8096,2023,2023-05-22,Cruzeiro,0x1,Cuiabá
-8097,2023,2023-05-27,Athletico PR,x,Grêmio
-8098,2023,2023-05-27,Fortaleza,x,Vasco da Gama
-8099,2023,2023-05-27,Flamengo,x,Cruzeiro
-8100,2023,2023-05-27,Cuiabá,x,Coritiba
-8101,2023,2023-05-27,São Paulo,x,Goiás
+8097,2023,2023-05-27,Athletico PR,1x2,Grêmio
+8098,2023,2023-05-27,Fortaleza,2x0,Vasco da Gama
+8099,2023,2023-05-27,Flamengo,1x1,Cruzeiro
+8100,2023,2023-05-27,Cuiabá,1x1,Coritiba
+8101,2023,2023-05-27,São Paulo,2x1,Goiás
 8102,2023,2023-05-28,Corinthians,x,Fluminense
 8103,2023,2023-05-28,Internacional,x,Bahia
 8104,2023,2023-05-28,Bragantino,x,Santos
