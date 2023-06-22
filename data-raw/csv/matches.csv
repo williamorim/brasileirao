@@ -8125,15 +8125,15 @@ id_match,season,date,home,score,away
 8124,2023,2023-06-11,Goiás,2x2,Fluminense
 8125,2023,2023-06-11,São Paulo,0x2,Palmeiras
 8126,2023,2023-06-10,Corinthians,1x1,Cuiabá
-8127,2023,2023-06-21,Fluminense,x,Atlético MG
+8127,2023,2023-06-21,Fluminense,1x1,Atlético MG
 8128,2023,2023-06-22,Vasco da Gama,x,Goiás
-8129,2023,2023-06-21,São Paulo,x,Athletico PR
-8130,2023,2023-06-21,Santos,x,Corinthians
+8129,2023,2023-06-21,São Paulo,2x1,Athletico PR
+8130,2023,2023-06-21,Santos,0x2,Corinthians
 8131,2023,2023-06-22,Bragantino,x,Flamengo
-8132,2023,2023-06-21,Cruzeiro,x,Fortaleza
+8132,2023,2023-06-21,Cruzeiro,0x1,Fortaleza
 8133,2023,2023-06-22,Grêmio,x,América MG
 8134,2023,2023-06-22,Coritiba,x,Internacional
-8135,2023,2023-06-21,Bahia,x,Palmeiras
+8135,2023,2023-06-21,Bahia,0x0,Palmeiras
 8136,2023,2023-06-22,Cuiabá,x,Botafogo
 8137,2023,2023-06-24,Fluminense,x,Bahia
 8138,2023,2023-06-26,Vasco da Gama,x,Cuiabá
