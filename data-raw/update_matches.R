@@ -37,7 +37,21 @@ matches <- matches |>
     ),
     score = ifelse(!is.na(score_new), score_new, score)
   ) |>
-  dplyr::select(-dplyr::ends_with("new"))
+  dplyr::select(-dplyr::ends_with("new")) |>
+  mutate(home_score = as.numeric(stringr::str_extract(score, "[:digit:]{1,2}(?=x)")),
+         away_score = as.numeric(stringr::str_extract(score, "(?<=x)[:digit:]{1,2}")),
+         home_points = case_when(home_score >  away_score ~ 3,
+                                 home_score == away_score ~ 1,
+                                 home_score <  away_score ~ 0),
+         away_points = case_when(away_score >  home_score ~ 3,
+                                 away_score == home_score ~ 1,
+                                 away_score <  home_score ~ 0)) |>
+  dplyr::left_join(teams_abbreviation, by = c("home" = "team") ) |>
+  dplyr::left_join(teams_abbreviation, by = c("away" = "team")) |>
+  dplyr::rename(
+    "home_abbr" = "abbr.x",
+    "away_abbr" = "abbr.y"
+  )
 
 readr::write_csv(matches, "data-raw/csv/matches.csv")
 
