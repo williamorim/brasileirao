@@ -8156,15 +8156,15 @@ id_match,season,date,home,score,away
 8155,2023,2023-07-01,Bahia,1x2,Grêmio
 8156,2023,2023-07-02,Cuiabá,3x0,Santos
 8157,2023,2023-07-09,Fluminense,x,Internacional
-8158,2023,2023-07-08,Vasco da Gama,x,Cruzeiro
-8159,2023,2023-07-08,Palmeiras,x,Flamengo
+8158,2023,2023-07-08,Vasco da Gama,0x1,Cruzeiro
+8159,2023,2023-07-08,Palmeiras,1x1,Flamengo
 8160,2023,2023-07-09,Santos,x,Goiás
 8161,2023,2023-07-09,Bragantino,x,São Paulo
-8162,2023,2023-07-08,Atlético MG,x,Corinthians
+8162,2023,2023-07-08,Atlético MG,0x1,Corinthians
 8163,2023,2023-07-09,Grêmio,x,Botafogo
-8164,2023,2023-07-08,Coritiba,x,América MG
+8164,2023,2023-07-08,Coritiba,3x1,América MG
 8165,2023,2023-07-09,Fortaleza,x,Athletico PR
-8166,2023,2023-07-08,Cuiabá,x,Bahia
+8166,2023,2023-07-08,Cuiabá,1x1,Bahia
 8167,2023,2023-07-16,Fluminense,x,Flamengo
 8168,2023,2023-07-15,Botafogo,x,Bragantino
 8169,2023,2023-07-16,São Paulo,x,Santos
@@ -8175,66 +8175,66 @@ id_match,season,date,home,score,away
 8174,2023,2023-07-16,Fortaleza,x,Cuiabá
 8175,2023,2023-07-15,América MG,x,Vasco da Gama
 8176,2023,2023-07-16,Cruzeiro,x,Coritiba
-8177,2023,2023-07-23,Flamengo,x,América MG
+8177,2023,2023-07-22,Flamengo,x,América MG
 8178,2023,2023-07-23,Vasco da Gama,x,Athletico PR
-8179,2023,2023-07-23,Palmeiras,x,Fortaleza
+8179,2023,2023-07-22,Palmeiras,x,Fortaleza
 8180,2023,2023-07-23,Santos,x,Botafogo
 8181,2023,2023-07-23,Bragantino,x,Internacional
 8182,2023,2023-07-23,Cruzeiro,x,Goiás
-8183,2023,2023-07-23,Grêmio,x,Atlético MG
-8184,2023,2023-07-23,Coritiba,x,Fluminense
-8185,2023,2023-07-23,Bahia,x,Corinthians
-8186,2023,2023-07-23,Cuiabá,x,São Paulo
-8187,2023,2023-07-30,Fluminense,x,Santos
+8183,2023,2023-07-22,Grêmio,x,Atlético MG
+8184,2023,2023-07-24,Coritiba,x,Fluminense
+8185,2023,2023-07-22,Bahia,x,Corinthians
+8186,2023,2023-07-22,Cuiabá,x,São Paulo
+8187,2023,2023-07-29,Fluminense,x,Santos
 8188,2023,2023-07-30,Botafogo,x,Coritiba
 8189,2023,2023-07-30,São Paulo,x,Bahia
-8190,2023,2023-07-30,Corinthians,x,Vasco da Gama
-8191,2023,2023-07-30,Goiás,x,Grêmio
-8192,2023,2023-07-30,Atlético MG,x,Flamengo
-8193,2023,2023-07-30,Internacional,x,Cuiabá
-8194,2023,2023-07-30,Athletico PR,x,Cruzeiro
-8195,2023,2023-07-30,Fortaleza,x,Bragantino
+8190,2023,2023-07-29,Corinthians,x,Vasco da Gama
+8191,2023,2023-07-31,Goiás,x,Grêmio
+8192,2023,2023-07-29,Atlético MG,x,Flamengo
+8193,2023,2023-07-29,Internacional,x,Cuiabá
+8194,2023,2023-07-29,Athletico PR,x,Cruzeiro
+8195,2023,2023-07-29,Fortaleza,x,Bragantino
 8196,2023,2023-07-30,América MG,x,Palmeiras
-8197,2023,2023-08-02,Fluminense,x,Palmeiras
-8198,2023,2023-08-02,Vasco da Gama,x,Grêmio
-8199,2023,2023-08-02,São Paulo,x,Atlético MG
-8200,2023,2023-08-02,Santos,x,Athletico PR
-8201,2023,2023-08-02,Goiás,x,Fortaleza
-8202,2023,2023-08-02,Cruzeiro,x,Botafogo
-8203,2023,2023-08-02,Internacional,x,Corinthians
-8204,2023,2023-08-02,Coritiba,x,Bragantino
-8205,2023,2023-08-02,Bahia,x,América MG
-8206,2023,2023-08-02,Cuiabá,x,Flamengo
-8207,2023,2023-08-06,Flamengo,x,São Paulo
-8208,2023,2023-08-06,Botafogo,x,Internacional
-8209,2023,2023-08-06,Palmeiras,x,Cruzeiro
-8210,2023,2023-08-06,Corinthians,x,Coritiba
-8211,2023,2023-08-06,Bragantino,x,Vasco da Gama
-8212,2023,2023-08-06,Atlético MG,x,Bahia
-8213,2023,2023-08-06,Grêmio,x,Fluminense
-8214,2023,2023-08-06,Athletico PR,x,Cuiabá
-8215,2023,2023-08-06,Fortaleza,x,Santos
-8216,2023,2023-08-06,América MG,x,Goiás
-8217,2023,2023-08-13,Fluminense,x,América MG
-8218,2023,2023-08-13,Vasco da Gama,x,Atlético MG
-8219,2023,2023-08-13,São Paulo,x,Botafogo
-8220,2023,2023-08-13,Santos,x,Grêmio
-8221,2023,2023-08-13,Goiás,x,Athletico PR
-8222,2023,2023-08-13,Cruzeiro,x,Corinthians
-8223,2023,2023-08-13,Internacional,x,Fortaleza
-8224,2023,2023-08-13,Coritiba,x,Flamengo
-8225,2023,2023-08-13,Bahia,x,Bragantino
-8226,2023,2023-08-13,Cuiabá,x,Palmeiras
-8227,2023,2023-08-20,Flamengo,x,Internacional
-8228,2023,2023-08-20,Botafogo,x,Bahia
-8229,2023,2023-08-20,Palmeiras,x,Vasco da Gama
-8230,2023,2023-08-20,Corinthians,x,Goiás
-8231,2023,2023-08-20,Bragantino,x,Cuiabá
-8232,2023,2023-08-20,Atlético MG,x,Santos
-8233,2023,2023-08-20,Grêmio,x,Cruzeiro
-8234,2023,2023-08-20,Athletico PR,x,Fluminense
-8235,2023,2023-08-20,Fortaleza,x,Coritiba
-8236,2023,2023-08-20,América MG,x,São Paulo
+8197,2023,2023-08-05,Fluminense,x,Palmeiras
+8198,2023,2023-08-06,Vasco da Gama,x,Grêmio
+8199,2023,2023-08-06,São Paulo,x,Atlético MG
+8200,2023,2023-08-05,Santos,x,Athletico PR
+8201,2023,2023-08-06,Goiás,x,Fortaleza
+8202,2023,2023-08-06,Cruzeiro,x,Botafogo
+8203,2023,2023-08-05,Internacional,x,Corinthians
+8204,2023,2023-08-06,Coritiba,x,Bragantino
+8205,2023,2023-08-05,Bahia,x,América MG
+8206,2023,2023-08-06,Cuiabá,x,Flamengo
+8207,2023,2023-08-13,Flamengo,x,São Paulo
+8208,2023,2023-08-12,Botafogo,x,Internacional
+8209,2023,2023-08-12,Palmeiras,x,Cruzeiro
+8210,2023,2023-08-13,Corinthians,x,Coritiba
+8211,2023,2023-08-14,Bragantino,x,Vasco da Gama
+8212,2023,2023-08-13,Atlético MG,x,Bahia
+8213,2023,2023-08-13,Grêmio,x,Fluminense
+8214,2023,2023-08-13,Athletico PR,x,Cuiabá
+8215,2023,2023-08-13,Fortaleza,x,Santos
+8216,2023,2023-08-12,América MG,x,Goiás
+8217,2023,2023-08-19,Fluminense,x,América MG
+8218,2023,2023-08-20,Vasco da Gama,x,Atlético MG
+8219,2023,2023-08-19,São Paulo,x,Botafogo
+8220,2023,2023-08-20,Santos,x,Grêmio
+8221,2023,2023-08-20,Goiás,x,Athletico PR
+8222,2023,2023-08-19,Cruzeiro,x,Corinthians
+8223,2023,2023-08-21,Internacional,x,Fortaleza
+8224,2023,2023-08-20,Coritiba,x,Flamengo
+8225,2023,2023-08-20,Bahia,x,Bragantino
+8226,2023,2023-08-19,Cuiabá,x,Palmeiras
+8227,2023,2023-08-23,Flamengo,x,Internacional
+8228,2023,2023-08-23,Botafogo,x,Bahia
+8229,2023,2023-08-23,Palmeiras,x,Vasco da Gama
+8230,2023,2023-08-23,Corinthians,x,Goiás
+8231,2023,2023-08-23,Bragantino,x,Cuiabá
+8232,2023,2023-08-23,Atlético MG,x,Santos
+8233,2023,2023-08-23,Grêmio,x,Cruzeiro
+8234,2023,2023-08-23,Athletico PR,x,Fluminense
+8235,2023,2023-08-23,Fortaleza,x,Coritiba
+8236,2023,2023-08-23,América MG,x,São Paulo
 8237,2023,2023-08-27,Fluminense,x,Fortaleza
 8238,2023,2023-08-27,Botafogo,x,Flamengo
 8239,2023,2023-08-27,São Paulo,x,Coritiba
