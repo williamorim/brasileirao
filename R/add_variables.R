@@ -1,7 +1,7 @@
 add_variables <- function(matches_dataset) {
 
-  teams_abbr <- teams2 |>
-  dplyr::select(team, abbr)
+  teams_abbr <- brasileirao::teams |>
+    dplyr::select(team, abbr)
 
   matches2 <- matches_dataset |>
     dplyr::mutate(home_score = as.numeric(stringr::str_extract(score, "[:digit:]{1,2}(?=x)")),
