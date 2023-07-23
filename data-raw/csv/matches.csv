@@ -8175,21 +8175,21 @@ id_match,season,date,home,score,away
 8174,2023,2023-07-16,Fortaleza,0x1,Cuiabá
 8175,2023,2023-07-15,América MG,x,Vasco da Gama
 8176,2023,2023-07-16,Cruzeiro,0x0,Coritiba
-8177,2023,2023-07-22,Flamengo,x,América MG
+8177,2023,2023-07-22,Flamengo,1x1,América MG
 8178,2023,2023-07-23,Vasco da Gama,x,Athletico PR
-8179,2023,2023-07-22,Palmeiras,x,Fortaleza
+8179,2023,2023-07-22,Palmeiras,3x1,Fortaleza
 8180,2023,2023-07-23,Santos,x,Botafogo
 8181,2023,2023-07-23,Bragantino,x,Internacional
 8182,2023,2023-07-23,Cruzeiro,x,Goiás
-8183,2023,2023-07-22,Grêmio,x,Atlético MG
+8183,2023,2023-07-22,Grêmio,1x0,Atlético MG
 8184,2023,2023-07-24,Coritiba,x,Fluminense
-8185,2023,2023-07-22,Bahia,x,Corinthians
-8186,2023,2023-07-22,Cuiabá,x,São Paulo
+8185,2023,2023-07-22,Bahia,0x0,Corinthians
+8186,2023,2023-07-22,Cuiabá,2x1,São Paulo
 8187,2023,2023-07-29,Fluminense,x,Santos
 8188,2023,2023-07-30,Botafogo,x,Coritiba
 8189,2023,2023-07-30,São Paulo,x,Bahia
 8190,2023,2023-07-29,Corinthians,x,Vasco da Gama
-8191,2023,2023-07-31,Goiás,x,Grêmio
+8191,2023,2023-07-30,Goiás,x,Grêmio
 8192,2023,2023-07-29,Atlético MG,x,Flamengo
 8193,2023,2023-07-29,Internacional,x,Cuiabá
 8194,2023,2023-07-29,Athletico PR,x,Cruzeiro
@@ -8199,7 +8199,7 @@ id_match,season,date,home,score,away
 8198,2023,2023-08-06,Vasco da Gama,x,Grêmio
 8199,2023,2023-08-06,São Paulo,x,Atlético MG
 8200,2023,2023-08-05,Santos,x,Athletico PR
-8201,2023,2023-08-06,Goiás,x,Fortaleza
+8201,2023,2023-08-05,Goiás,x,Fortaleza
 8202,2023,2023-08-06,Cruzeiro,x,Botafogo
 8203,2023,2023-08-05,Internacional,x,Corinthians
 8204,2023,2023-08-06,Coritiba,x,Bragantino
@@ -8214,7 +8214,7 @@ id_match,season,date,home,score,away
 8213,2023,2023-08-13,Grêmio,x,Fluminense
 8214,2023,2023-08-13,Athletico PR,x,Cuiabá
 8215,2023,2023-08-13,Fortaleza,x,Santos
-8216,2023,2023-08-12,América MG,x,Goiás
+8216,2023,2023-08-13,América MG,x,Goiás
 8217,2023,2023-08-19,Fluminense,x,América MG
 8218,2023,2023-08-20,Vasco da Gama,x,Atlético MG
 8219,2023,2023-08-19,São Paulo,x,Botafogo
