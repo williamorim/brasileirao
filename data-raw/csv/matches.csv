@@ -8176,11 +8176,11 @@ id_match,season,date,home,score,away
 8175,2023,2023-07-15,América MG,x,Vasco da Gama
 8176,2023,2023-07-16,Cruzeiro,0x0,Coritiba
 8177,2023,2023-07-22,Flamengo,1x1,América MG
-8178,2023,2023-07-23,Vasco da Gama,x,Athletico PR
+8178,2023,2023-07-23,Vasco da Gama,0x2,Athletico PR
 8179,2023,2023-07-22,Palmeiras,3x1,Fortaleza
-8180,2023,2023-07-23,Santos,x,Botafogo
-8181,2023,2023-07-23,Bragantino,x,Internacional
-8182,2023,2023-07-23,Cruzeiro,x,Goiás
+8180,2023,2023-07-23,Santos,2x2,Botafogo
+8181,2023,2023-07-23,Bragantino,0x0,Internacional
+8182,2023,2023-07-23,Cruzeiro,0x1,Goiás
 8183,2023,2023-07-22,Grêmio,1x0,Atlético MG
 8184,2023,2023-07-24,Coritiba,x,Fluminense
 8185,2023,2023-07-22,Bahia,0x0,Corinthians
