@@ -8195,16 +8195,16 @@ id_match,season,date,home,score,away
 8194,2023,2023-07-29,Athletico PR,3x3,Cruzeiro
 8195,2023,2023-07-29,Fortaleza,0x3,Bragantino
 8196,2023,2023-07-30,América MG,1x4,Palmeiras
-8197,2023,2023-08-05,Fluminense,2x0,Palmeiras
-8198,2023,2023-08-06,Vasco da Gama,x,Grêmio
-8199,2023,2023-08-06,São Paulo,x,Atlético MG
+8197,2023,2023-08-05,Fluminense,2x1,Palmeiras
+8198,2023,2023-08-06,Vasco da Gama,1x0,Grêmio
+8199,2023,2023-08-06,São Paulo,0x2,Atlético MG
 8200,2023,2023-08-05,Santos,1x1,Athletico PR
 8201,2023,2023-08-05,Goiás,1x0,Fortaleza
-8202,2023,2023-08-06,Cruzeiro,x,Botafogo
+8202,2023,2023-08-06,Cruzeiro,0x0,Botafogo
 8203,2023,2023-08-05,Internacional,2x2,Corinthians
-8204,2023,2023-08-06,Coritiba,x,Bragantino
-8205,2023,2023-08-06,Bahia,x,América MG
-8206,2023,2023-08-06,Cuiabá,x,Flamengo
+8204,2023,2023-08-06,Coritiba,0x1,Bragantino
+8205,2023,2023-08-06,Bahia,3x1,América MG
+8206,2023,2023-08-06,Cuiabá,3x0,Flamengo
 8207,2023,2023-08-13,Flamengo,x,São Paulo
 8208,2023,2023-08-12,Botafogo,x,Internacional
 8209,2023,2023-08-14,Palmeiras,x,Cruzeiro
