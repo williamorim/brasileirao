@@ -8231,130 +8231,130 @@ id_match,season,date,home,score,away
 8230,2023,2023-08-26,Corinthians,x,Goiás
 8231,2023,2023-08-27,Bragantino,x,Cuiabá
 8232,2023,2023-08-27,Atlético MG,x,Santos
-8233,2023,2023-08-23,Grêmio,x,Cruzeiro
-8234,2023,2023-08-23,Athletico PR,x,Fluminense
-8235,2023,2023-08-23,Fortaleza,x,Coritiba
+8233,2023,2023-08-27,Grêmio,x,Cruzeiro
+8234,2023,2023-08-26,Athletico PR,x,Fluminense
+8235,2023,2023-08-27,Fortaleza,x,Coritiba
 8236,2023,2023-08-27,América MG,x,São Paulo
-8237,2023,2023-08-27,Fluminense,x,Fortaleza
-8238,2023,2023-08-27,Botafogo,x,Flamengo
-8239,2023,2023-08-27,São Paulo,x,Coritiba
-8240,2023,2023-08-27,Corinthians,x,Palmeiras
-8241,2023,2023-08-27,Goiás,x,Internacional
-8242,2023,2023-08-27,Cruzeiro,x,Bragantino
-8243,2023,2023-08-27,Grêmio,x,Cuiabá
-8244,2023,2023-08-27,Athletico PR,x,Atlético MG
-8245,2023,2023-08-27,Bahia,x,Vasco da Gama
-8246,2023,2023-08-27,América MG,x,Santos
-8247,2023,2023-09-03,Flamengo,x,Athletico PR
-8248,2023,2023-09-03,Vasco da Gama,x,Fluminense
-8249,2023,2023-09-03,Palmeiras,x,Goiás
-8250,2023,2023-09-03,Santos,x,Cruzeiro
-8251,2023,2023-09-03,Bragantino,x,Grêmio
-8252,2023,2023-09-03,Atlético MG,x,Botafogo
-8253,2023,2023-09-03,Internacional,x,São Paulo
-8254,2023,2023-09-03,Coritiba,x,Bahia
-8255,2023,2023-09-03,Fortaleza,x,Corinthians
-8256,2023,2023-09-03,Cuiabá,x,América MG
-8257,2023,2023-09-13,Fluminense,x,Cruzeiro
-8258,2023,2023-09-13,Vasco da Gama,x,Coritiba
-8259,2023,2023-09-13,São Paulo,x,Fortaleza
-8260,2023,2023-09-13,Corinthians,x,Botafogo
-8261,2023,2023-09-13,Goiás,x,Flamengo
-8262,2023,2023-09-13,Atlético MG,x,Cuiabá
-8263,2023,2023-09-13,Grêmio,x,Palmeiras
-8264,2023,2023-09-13,Athletico PR,x,Internacional
-8265,2023,2023-09-13,Bahia,x,Santos
-8266,2023,2023-09-13,América MG,x,Bragantino
-8267,2023,2023-09-20,Flamengo,x,Bahia
-8268,2023,2023-09-20,Botafogo,x,Goiás
-8269,2023,2023-09-20,São Paulo,x,Corinthians
-8270,2023,2023-09-20,Santos,x,Vasco da Gama
-8271,2023,2023-09-20,Bragantino,x,Palmeiras
-8272,2023,2023-09-20,Cruzeiro,x,América MG
-8273,2023,2023-09-20,Internacional,x,Atlético MG
-8274,2023,2023-09-20,Coritiba,x,Athletico PR
-8275,2023,2023-09-20,Fortaleza,x,Grêmio
-8276,2023,2023-09-20,Cuiabá,x,Fluminense
-8277,2023,2023-10-01,Fluminense,x,Botafogo
-8278,2023,2023-10-01,Vasco da Gama,x,São Paulo
-8279,2023,2023-10-01,Palmeiras,x,Santos
-8280,2023,2023-10-01,Corinthians,x,Flamengo
-8281,2023,2023-10-01,Goiás,x,Bahia
-8282,2023,2023-10-01,Atlético MG,x,Coritiba
-8283,2023,2023-10-01,Internacional,x,Grêmio
-8284,2023,2023-10-01,Athletico PR,x,Bragantino
-8285,2023,2023-10-01,Fortaleza,x,América MG
-8286,2023,2023-10-01,Cuiabá,x,Cruzeiro
-8287,2023,2023-10-08,Fluminense,x,Corinthians
-8288,2023,2023-10-08,Vasco da Gama,x,Fortaleza
-8289,2023,2023-10-08,Palmeiras,x,Atlético MG
-8290,2023,2023-10-08,Santos,x,Bragantino
-8291,2023,2023-10-08,Goiás,x,São Paulo
-8292,2023,2023-10-08,Cruzeiro,x,Flamengo
-8293,2023,2023-10-08,Grêmio,x,Athletico PR
-8294,2023,2023-10-08,Coritiba,x,Cuiabá
-8295,2023,2023-10-08,Bahia,x,Internacional
-8296,2023,2023-10-08,América MG,x,Botafogo
-8297,2023,2023-10-18,Flamengo,x,Vasco da Gama
-8298,2023,2023-10-18,Botafogo,x,Athletico PR
-8299,2023,2023-10-18,São Paulo,x,Grêmio
-8300,2023,2023-10-18,Corinthians,x,América MG
-8301,2023,2023-10-18,Bragantino,x,Fluminense
-8302,2023,2023-10-18,Atlético MG,x,Cruzeiro
-8303,2023,2023-10-18,Internacional,x,Santos
-8304,2023,2023-10-18,Coritiba,x,Palmeiras
-8305,2023,2023-10-18,Bahia,x,Fortaleza
-8306,2023,2023-10-18,Cuiabá,x,Goiás
-8307,2023,2023-10-22,Fluminense,x,Goiás
-8308,2023,2023-10-22,Vasco da Gama,x,Internacional
-8309,2023,2023-10-22,Palmeiras,x,São Paulo
-8310,2023,2023-10-22,Santos,x,Coritiba
-8311,2023,2023-10-22,Bragantino,x,Atlético MG
-8312,2023,2023-10-22,Cruzeiro,x,Bahia
-8313,2023,2023-10-22,Grêmio,x,Flamengo
-8314,2023,2023-10-22,Athletico PR,x,América MG
-8315,2023,2023-10-22,Fortaleza,x,Botafogo
-8316,2023,2023-10-22,Cuiabá,x,Corinthians
-8317,2023,2023-10-25,Flamengo,x,Bragantino
-8318,2023,2023-10-25,Botafogo,x,Cuiabá
-8319,2023,2023-10-25,Palmeiras,x,Bahia
-8320,2023,2023-10-25,Corinthians,x,Santos
-8321,2023,2023-10-25,Goiás,x,Vasco da Gama
-8322,2023,2023-10-25,Atlético MG,x,Fluminense
-8323,2023,2023-10-25,Internacional,x,Coritiba
-8324,2023,2023-10-25,Athletico PR,x,São Paulo
-8325,2023,2023-10-25,Fortaleza,x,Cruzeiro
-8326,2023,2023-10-25,América MG,x,Grêmio
-8327,2023,2023-10-29,Flamengo,x,Santos
-8328,2023,2023-10-29,Botafogo,x,Palmeiras
-8329,2023,2023-10-29,São Paulo,x,Cruzeiro
-8330,2023,2023-10-29,Corinthians,x,Athletico PR
-8331,2023,2023-10-29,Goiás,x,Bragantino
-8332,2023,2023-10-29,Atlético MG,x,Fortaleza
-8333,2023,2023-10-29,Internacional,x,América MG
-8334,2023,2023-10-29,Coritiba,x,Grêmio
-8335,2023,2023-10-29,Bahia,x,Fluminense
-8336,2023,2023-10-29,Cuiabá,x,Vasco da Gama
-8337,2023,2023-11-01,Fluminense,x,São Paulo
-8338,2023,2023-11-01,Vasco da Gama,x,Botafogo
-8339,2023,2023-11-01,Palmeiras,x,Athletico PR
-8340,2023,2023-11-01,Santos,x,Cuiabá
-8341,2023,2023-11-01,Bragantino,x,Corinthians
-8342,2023,2023-11-01,Cruzeiro,x,Internacional
-8343,2023,2023-11-01,Grêmio,x,Bahia
-8344,2023,2023-11-01,Coritiba,x,Goiás
-8345,2023,2023-11-01,Fortaleza,x,Flamengo
-8346,2023,2023-11-01,América MG,x,Atlético MG
-8347,2023,2023-11-05,Flamengo,x,Palmeiras
-8348,2023,2023-11-05,Botafogo,x,Grêmio
-8349,2023,2023-11-05,São Paulo,x,Bragantino
-8350,2023,2023-11-05,Corinthians,x,Atlético MG
-8351,2023,2023-11-05,Goiás,x,Santos
-8352,2023,2023-11-05,Cruzeiro,x,Vasco da Gama
-8353,2023,2023-11-05,Internacional,x,Fluminense
-8354,2023,2023-11-05,Athletico PR,x,Fortaleza
-8355,2023,2023-11-05,Bahia,x,Cuiabá
-8356,2023,2023-11-05,América MG,x,Coritiba
+8237,2023,2023-09-03,Fluminense,x,Fortaleza
+8238,2023,2023-09-02,Botafogo,x,Flamengo
+8239,2023,2023-09-02,São Paulo,x,Coritiba
+8240,2023,2023-09-03,Corinthians,x,Palmeiras
+8241,2023,2023-09-02,Goiás,x,Internacional
+8242,2023,2023-09-03,Cruzeiro,x,Bragantino
+8243,2023,2023-09-03,Grêmio,x,Cuiabá
+8244,2023,2023-09-02,Athletico PR,x,Atlético MG
+8245,2023,2023-09-03,Bahia,x,Vasco da Gama
+8246,2023,2023-09-02,América MG,x,Santos
+8247,2023,2023-09-13,Flamengo,x,Athletico PR
+8248,2023,2023-09-16,Vasco da Gama,x,Fluminense
+8249,2023,2023-09-15,Palmeiras,x,Goiás
+8250,2023,2023-09-13,Santos,x,Cruzeiro
+8251,2023,2023-09-13,Bragantino,x,Grêmio
+8252,2023,2023-09-16,Atlético MG,x,Botafogo
+8253,2023,2023-09-13,Internacional,x,São Paulo
+8254,2023,2023-09-14,Coritiba,x,Bahia
+8255,2023,2023-09-13,Fortaleza,x,Corinthians
+8256,2023,2023-09-15,Cuiabá,x,América MG
+8257,2023,2023-09-23,Fluminense,x,Cruzeiro
+8258,2023,2023-09-19,Vasco da Gama,x,Coritiba
+8259,2023,2023-09-20,São Paulo,x,Fortaleza
+8260,2023,2023-09-20,Corinthians,x,Botafogo
+8261,2023,2023-09-20,Goiás,x,Flamengo
+8262,2023,2023-09-21,Atlético MG,x,Cuiabá
+8263,2023,2023-09-20,Grêmio,x,Palmeiras
+8264,2023,2023-09-21,Athletico PR,x,Internacional
+8265,2023,2023-09-18,Bahia,x,Santos
+8266,2023,2023-09-19,América MG,x,Bragantino
+8267,2023,2023-10-01,Flamengo,x,Bahia
+8268,2023,2023-10-01,Botafogo,x,Goiás
+8269,2023,2023-10-01,São Paulo,x,Corinthians
+8270,2023,2023-10-01,Santos,x,Vasco da Gama
+8271,2023,2023-10-01,Bragantino,x,Palmeiras
+8272,2023,2023-10-01,Cruzeiro,x,América MG
+8273,2023,2023-10-01,Internacional,x,Atlético MG
+8274,2023,2023-10-01,Coritiba,x,Athletico PR
+8275,2023,2023-10-01,Fortaleza,x,Grêmio
+8276,2023,2023-10-01,Cuiabá,x,Fluminense
+8277,2023,2023-10-08,Fluminense,x,Botafogo
+8278,2023,2023-10-08,Vasco da Gama,x,São Paulo
+8279,2023,2023-10-08,Palmeiras,x,Santos
+8280,2023,2023-10-08,Corinthians,x,Flamengo
+8281,2023,2023-10-08,Goiás,x,Bahia
+8282,2023,2023-10-08,Atlético MG,x,Coritiba
+8283,2023,2023-10-08,Internacional,x,Grêmio
+8284,2023,2023-10-08,Athletico PR,x,Bragantino
+8285,2023,2023-10-08,Fortaleza,x,América MG
+8286,2023,2023-10-08,Cuiabá,x,Cruzeiro
+8287,2023,2023-10-18,Fluminense,x,Corinthians
+8288,2023,2023-10-18,Vasco da Gama,x,Fortaleza
+8289,2023,2023-10-18,Palmeiras,x,Atlético MG
+8290,2023,2023-10-18,Santos,x,Bragantino
+8291,2023,2023-10-18,Goiás,x,São Paulo
+8292,2023,2023-10-18,Cruzeiro,x,Flamengo
+8293,2023,2023-10-18,Grêmio,x,Athletico PR
+8294,2023,2023-10-18,Coritiba,x,Cuiabá
+8295,2023,2023-10-18,Bahia,x,Internacional
+8296,2023,2023-10-18,América MG,x,Botafogo
+8297,2023,2023-10-22,Flamengo,x,Vasco da Gama
+8298,2023,2023-10-22,Botafogo,x,Athletico PR
+8299,2023,2023-10-22,São Paulo,x,Grêmio
+8300,2023,2023-10-22,Corinthians,x,América MG
+8301,2023,2023-10-22,Bragantino,x,Fluminense
+8302,2023,2023-10-22,Atlético MG,x,Cruzeiro
+8303,2023,2023-10-22,Internacional,x,Santos
+8304,2023,2023-10-22,Coritiba,x,Palmeiras
+8305,2023,2023-10-22,Bahia,x,Fortaleza
+8306,2023,2023-10-22,Cuiabá,x,Goiás
+8307,2023,2023-10-25,Fluminense,x,Goiás
+8308,2023,2023-10-25,Vasco da Gama,x,Internacional
+8309,2023,2023-10-25,Palmeiras,x,São Paulo
+8310,2023,2023-10-25,Santos,x,Coritiba
+8311,2023,2023-10-25,Bragantino,x,Atlético MG
+8312,2023,2023-10-25,Cruzeiro,x,Bahia
+8313,2023,2023-10-25,Grêmio,x,Flamengo
+8314,2023,2023-10-25,Athletico PR,x,América MG
+8315,2023,2023-10-25,Fortaleza,x,Botafogo
+8316,2023,2023-10-25,Cuiabá,x,Corinthians
+8317,2023,2023-10-29,Flamengo,x,Bragantino
+8318,2023,2023-10-29,Botafogo,x,Cuiabá
+8319,2023,2023-10-29,Palmeiras,x,Bahia
+8320,2023,2023-10-29,Corinthians,x,Santos
+8321,2023,2023-10-29,Goiás,x,Vasco da Gama
+8322,2023,2023-10-29,Atlético MG,x,Fluminense
+8323,2023,2023-10-29,Internacional,x,Coritiba
+8324,2023,2023-10-29,Athletico PR,x,São Paulo
+8325,2023,2023-10-29,Fortaleza,x,Cruzeiro
+8326,2023,2023-10-29,América MG,x,Grêmio
+8327,2023,2023-11-01,Flamengo,x,Santos
+8328,2023,2023-11-01,Botafogo,x,Palmeiras
+8329,2023,2023-11-01,São Paulo,x,Cruzeiro
+8330,2023,2023-11-01,Corinthians,x,Athletico PR
+8331,2023,2023-11-01,Goiás,x,Bragantino
+8332,2023,2023-11-01,Atlético MG,x,Fortaleza
+8333,2023,2023-11-01,Internacional,x,América MG
+8334,2023,2023-11-01,Coritiba,x,Grêmio
+8335,2023,2023-11-01,Bahia,x,Fluminense
+8336,2023,2023-11-01,Cuiabá,x,Vasco da Gama
+8337,2023,2023-11-05,Fluminense,x,São Paulo
+8338,2023,2023-11-05,Vasco da Gama,x,Botafogo
+8339,2023,2023-11-05,Palmeiras,x,Athletico PR
+8340,2023,2023-11-05,Santos,x,Cuiabá
+8341,2023,2023-11-05,Bragantino,x,Corinthians
+8342,2023,2023-11-05,Cruzeiro,x,Internacional
+8343,2023,2023-11-05,Grêmio,x,Bahia
+8344,2023,2023-11-05,Coritiba,x,Goiás
+8345,2023,2023-11-05,Fortaleza,x,Flamengo
+8346,2023,2023-11-05,América MG,x,Atlético MG
+8347,2023,2023-11-08,Flamengo,x,Palmeiras
+8348,2023,2023-11-08,Botafogo,x,Grêmio
+8349,2023,2023-11-08,São Paulo,x,Bragantino
+8350,2023,2023-11-08,Corinthians,x,Atlético MG
+8351,2023,2023-11-08,Goiás,x,Santos
+8352,2023,2023-11-08,Cruzeiro,x,Vasco da Gama
+8353,2023,2023-11-08,Internacional,x,Fluminense
+8354,2023,2023-11-08,Athletico PR,x,Fortaleza
+8355,2023,2023-11-08,Bahia,x,Cuiabá
+8356,2023,2023-11-08,América MG,x,Coritiba
 8357,2023,2023-11-12,Flamengo,x,Fluminense
 8358,2023,2023-11-12,Vasco da Gama,x,América MG
 8359,2023,2023-11-12,Palmeiras,x,Internacional
