@@ -52,12 +52,12 @@ fix_names <- function(teams) {
 #' get_badge("sao paulo")
 #' get_badge("sao-paulo")
 get_badge <- function(team) {
-  team <- team %>%
-    fix_names() %>%
-    tolower() %>%
+  team <- team |>
+    fix_names() |>
+    tolower() |>
     stringi::stri_trans_general("Latin-ASCII")
 
-  team <- sub(" ", "-", team)
+  team <- gsub(" ", "-", team)
 
   files <- list.files(
     system.file("badges", package = "brasileirao")
