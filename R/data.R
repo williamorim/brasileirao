@@ -5,6 +5,7 @@
 #'
 #' @format A data frame with 5 variables:
 #' \describe{
+#'   \item{id_match}{Match id.} 
 #'   \item{season}{The year of national league edition.}
 #'   \item{date}{The match date.}
 #'   \item{home}{The home match team.}
