@@ -1,39 +1,38 @@
 ## code to prepare `partidas` dataset goes here
 
-`%>%` <- magrittr::`%>%`
 source("data-raw/scraping_matches.R")
 
 matches_2003_2019 <- purrr::map_dfr(2003:2019, scraper_change_gol)
 
-matches_2003_2019 <- matches_2003_2019 %>%
+matches_2003_2019 <- matches_2003_2019 |>
   tibble::add_row(
     season = 2019,
     date = as.Date("2019-09-25"),
     home = "São Paulo",
     score = "0x1",
     away = "Goiás"
-  ) %>%
+  ) |>
   tibble::add_row(
     season = 2019,
     date = as.Date("2019-09-25"),
     home = "Ceará",
     score = "0x0",
     away = "Cruzeiro"
-  ) %>%
+  ) |>
   tibble::add_row(
     season = 2019,
     date = as.Date("2019-09-25"),
     home = "Bahia",
     score = "2x0",
     away = "Botafogo"
-  ) %>%
+  ) |>
   tibble::add_row(
     season = 2019,
     date = as.Date("2019-09-25"),
     home = "Flamengo",
     score = "3x1",
     away = "Internacional"
-  ) %>%
+  ) |>
   dplyr::filter(
     !(date == "2005-05-08" & home == "Vasco"),
     !(date == "2005-07-02" & home == "Ponte Preta"),
