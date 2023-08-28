@@ -8226,15 +8226,15 @@ id_match,season,date,home,score,away
 8225,2023,2023-08-20,Bahia,4x0,Bragantino
 8226,2023,2023-08-19,Cuiabá,0x2,Palmeiras
 8227,2023,2023-08-26,Flamengo,0x0,Internacional
-8228,2023,2023-08-27,Botafogo,x,Bahia
-8229,2023,2023-08-27,Palmeiras,x,Vasco da Gama
+8228,2023,2023-08-27,Botafogo,3x0,Bahia
+8229,2023,2023-08-27,Palmeiras,1x0,Vasco da Gama
 8230,2023,2023-08-26,Corinthians,1x1,Goiás
-8231,2023,2023-08-27,Bragantino,x,Cuiabá
-8232,2023,2023-08-27,Atlético MG,x,Santos
-8233,2023,2023-08-27,Grêmio,x,Cruzeiro
-8234,2023,2023-08-27,Athletico PR,x,Fluminense
-8235,2023,2023-08-27,Fortaleza,x,Coritiba
-8236,2023,2023-08-27,América MG,x,São Paulo
+8231,2023,2023-08-27,Bragantino,2x0,Cuiabá
+8232,2023,2023-08-27,Atlético MG,2x0,Santos
+8233,2023,2023-08-27,Grêmio,3x0,Cruzeiro
+8234,2023,2023-08-27,Athletico PR,2x2,Fluminense
+8235,2023,2023-08-27,Fortaleza,3x1,Coritiba
+8236,2023,2023-08-27,América MG,2x1,São Paulo
 8237,2023,2023-09-03,Fluminense,x,Fortaleza
 8238,2023,2023-09-02,Botafogo,x,Flamengo
 8239,2023,2023-09-03,São Paulo,x,Coritiba
