@@ -43,3 +43,25 @@
 #' }
 #' @source \url{https://github.com/williamorim/brasileirao}
 "teams"
+
+
+#' Winners of the Brazilian National Soccer League
+#'
+#' A dataset containing the final standings of the Brazilian National Soccer for
+#' each season from 2003.
+#'
+#' @format A data frame with 9 variables:
+#'   \describe{
+#'     \item{season}{Year of the season.}
+#'     \item{winner}{Winning team of the season.}
+#'     \item{runnerup}{Runner-up team of the season.}
+#'     \item{third_place}{Team in third place in the season.}
+#'     \item{fourth_place}{Team in fourth place in the season.}
+#'     \item{fifth_place}{Team in fifth place in the season.}
+#'     \item{sixth_place}{Team in sixth place in the season.}
+#'     \item{top_scorer}{Top scorer of the season.}
+#'     \item{n_goals}{Number of goals scored by the top scorer.}
+#'   }
+#'
+#' @source \url{https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_Campeonato_Brasileiro_de_Futebol}
+"winners"
