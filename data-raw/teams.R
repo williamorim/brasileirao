@@ -23,7 +23,7 @@ get_colors <- function(img_path, n = 8, cs = "RGB") {
 
 teams <- teams |>
   dplyr::mutate(
-    badge_path = purrr::map_chr(teams, get_badge),
+    badge_path = purrr::map_chr(team, get_badge),
     colors = purrr::map_chr(badge_path, get_colors)
   ) |>
   tidyr::separate(
