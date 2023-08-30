@@ -1,3 +1,5 @@
+# brasileirao 1.2.0
+
 # brasileirao 1.1.0
 
 * Added `teams` dataset with name abbreviation, state and badge colors. 
