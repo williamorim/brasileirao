@@ -24,6 +24,8 @@ fix_names <- function(teams) {
   for(t in teams) {
     aux <- switch(
       t,
+      "Atl\u00e9tico Mineiro" = "Atl\u00e9tico MG",
+      "Atl\u00e9tico Paranaense" = "Athletico PR",
       "Atl\u00e9tico PR" = "Athletico PR",
       Prudente = "Barueri",
       Vasco = "Vasco da Gama",
