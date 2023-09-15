@@ -8245,15 +8245,15 @@ id_match,season,date,home,score,away
 8244,2023,2023-09-02,Athletico PR,1x1,Atlético MG
 8245,2023,2023-09-03,Bahia,1x1,Vasco da Gama
 8246,2023,2023-09-03,América MG,2x0,Santos
-8247,2023,2023-09-13,Flamengo,0x1,Athletico PR
+8247,2023,2023-09-13,Flamengo,0x3,Athletico PR
 8248,2023,2023-09-16,Vasco da Gama,x,Fluminense
 8249,2023,2023-09-15,Palmeiras,x,Goiás
-8250,2023,2023-09-14,Santos,x,Cruzeiro
-8251,2023,2023-09-14,Bragantino,x,Grêmio
+8250,2023,2023-09-14,Santos,0x3,Cruzeiro
+8251,2023,2023-09-14,Bragantino,2x0,Grêmio
 8252,2023,2023-09-16,Atlético MG,x,Botafogo
-8253,2023,2023-09-13,Internacional,0x1,São Paulo
-8254,2023,2023-09-14,Coritiba,x,Bahia
-8255,2023,2023-09-14,Fortaleza,x,Corinthians
+8253,2023,2023-09-13,Internacional,2x1,São Paulo
+8254,2023,2023-09-14,Coritiba,2x4,Bahia
+8255,2023,2023-09-14,Fortaleza,2x1,Corinthians
 8256,2023,2023-09-15,Cuiabá,x,América MG
 8257,2023,2023-09-20,Fluminense,x,Cruzeiro
 8258,2023,2023-09-21,Vasco da Gama,x,Coritiba
