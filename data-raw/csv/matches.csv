@@ -8168,7 +8168,7 @@ id_match,season,date,home,score,away
 8167,2023,2023-07-16,Fluminense,0x0,Flamengo
 8168,2023,2023-07-15,Botafogo,2x0,Bragantino
 8169,2023,2023-07-16,São Paulo,4x1,Santos
-8170,2023,2023-09-18,Corinthians,x,Grêmio
+8170,2023,2023-09-18,Corinthians,4x4,Grêmio
 8171,2023,2023-07-17,Goiás,0x0,Atlético MG
 8172,2023,2023-07-16,Internacional,0x0,Palmeiras
 8173,2023,2023-07-16,Athletico PR,2x0,Bahia
@@ -8263,7 +8263,7 @@ id_match,season,date,home,score,away
 8262,2023,2023-09-23,Atlético MG,x,Cuiabá
 8263,2023,2023-09-21,Grêmio,x,Palmeiras
 8264,2023,2023-09-21,Athletico PR,x,Internacional
-8265,2023,2023-09-18,Bahia,x,Santos
+8265,2023,2023-09-18,Bahia,1x2,Santos
 8266,2023,2023-09-19,América MG,x,Bragantino
 8267,2023,2023-09-30,Flamengo,x,Bahia
 8268,2023,2023-10-02,Botafogo,x,Goiás
