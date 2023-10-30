@@ -8316,13 +8316,13 @@ id_match,season,date,home,score,away
 8315,2023,2023-11-23,Fortaleza,x,Botafogo
 8316,2023,2023-10-25,Cuiabá,0x1,Corinthians
 8317,2023,2023-11-23,Flamengo,x,Bragantino
-8318,2023,2023-10-29,Botafogo,x,Cuiabá
+8318,2023,2023-10-29,Botafogo,0x1,Cuiabá
 8319,2023,2023-10-28,Palmeiras,1x0,Bahia
-8320,2023,2023-10-29,Corinthians,x,Santos
-8321,2023,2023-10-29,Goiás,x,Vasco da Gama
+8320,2023,2023-10-29,Corinthians,1x1,Santos
+8321,2023,2023-10-29,Goiás,1x1,Vasco da Gama
 8322,2023,2023-10-28,Atlético MG,2x0,Fluminense
-8323,2023,2023-10-29,Internacional,x,Coritiba
-8324,2023,2023-10-29,Athletico PR,x,São Paulo
+8323,2023,2023-10-29,Internacional,1x2,Coritiba
+8324,2023,2023-10-29,Athletico PR,1x1,São Paulo
 8325,2023,2023-11-18,Fortaleza,x,Cruzeiro
 8326,2023,2023-10-28,América MG,3x4,Grêmio
 8327,2023,2023-11-01,Flamengo,x,Santos
