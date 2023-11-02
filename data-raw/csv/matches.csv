@@ -8325,14 +8325,14 @@ id_match,season,date,home,score,away
 8324,2023,2023-10-29,Athletico PR,1x1,São Paulo
 8325,2023,2023-11-18,Fortaleza,x,Cruzeiro
 8326,2023,2023-10-28,América MG,3x4,Grêmio
-8327,2023,2023-11-01,Flamengo,x,Santos
-8328,2023,2023-11-01,Botafogo,x,Palmeiras
+8327,2023,2023-11-01,Flamengo,1x2,Santos
+8328,2023,2023-11-01,Botafogo,3x1,Palmeiras
 8329,2023,2023-11-02,São Paulo,x,Cruzeiro
-8330,2023,2023-11-01,Corinthians,x,Athletico PR
+8330,2023,2023-11-01,Corinthians,1x0,Athletico PR
 8331,2023,2023-11-02,Goiás,x,Bragantino
-8332,2023,2023-11-01,Atlético MG,x,Fortaleza
-8333,2023,2023-11-01,Internacional,x,América MG
-8334,2023,2023-11-01,Coritiba,x,Grêmio
+8332,2023,2023-11-01,Atlético MG,3x1,Fortaleza
+8333,2023,2023-11-01,Internacional,1x1,América MG
+8334,2023,2023-11-01,Coritiba,1x2,Grêmio
 8335,2023,2023-10-31,Bahia,1x0,Fluminense
 8336,2023,2023-11-02,Cuiabá,x,Vasco da Gama
 8337,2023,2023-11-22,Fluminense,x,São Paulo
