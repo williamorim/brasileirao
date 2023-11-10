@@ -8345,15 +8345,15 @@ id_match,season,date,home,score,away
 8344,2023,2023-11-05,Coritiba,0x1,Goiás
 8345,2023,2023-11-05,Fortaleza,0x2,Flamengo
 8346,2023,2023-11-04,América MG,1x1,Atlético MG
-8347,2023,2023-11-08,Flamengo,2x0,Palmeiras
-8348,2023,2023-11-09,Botafogo,x,Grêmio
+8347,2023,2023-11-08,Flamengo,3x0,Palmeiras
+8348,2023,2023-11-09,Botafogo,3x4,Grêmio
 8349,2023,2023-11-08,São Paulo,1x0,Bragantino
-8350,2023,2023-11-09,Corinthians,x,Atlético MG
-8351,2023,2023-11-09,Goiás,x,Santos
+8350,2023,2023-11-09,Corinthians,1x1,Atlético MG
+8351,2023,2023-11-09,Goiás,0x1,Santos
 8352,2023,2023-11-22,Cruzeiro,x,Vasco da Gama
 8353,2023,2023-11-08,Internacional,0x0,Fluminense
 8354,2023,2023-11-08,Athletico PR,1x1,Fortaleza
-8355,2023,2023-11-09,Bahia,x,Cuiabá
+8355,2023,2023-11-09,Bahia,0x3,Cuiabá
 8356,2023,2023-11-08,América MG,0x3,Coritiba
 8357,2023,2023-11-11,Flamengo,x,Fluminense
 8358,2023,2023-11-12,Vasco da Gama,x,América MG
@@ -8365,23 +8365,23 @@ id_match,season,date,home,score,away
 8364,2023,2023-11-11,Coritiba,x,Cruzeiro
 8365,2023,2023-11-12,Bahia,x,Athletico PR
 8366,2023,2023-11-12,Cuiabá,x,Fortaleza
-8367,2023,2023-11-26,Fluminense,x,Coritiba
+8367,2023,2023-11-25,Fluminense,x,Coritiba
 8368,2023,2023-11-26,Botafogo,x,Santos
 8369,2023,2023-11-26,São Paulo,x,Cuiabá
-8370,2023,2023-11-26,Corinthians,x,Bahia
-8371,2023,2023-11-26,Goiás,x,Cruzeiro
+8370,2023,2023-11-25,Corinthians,x,Bahia
+8371,2023,2023-11-27,Goiás,x,Cruzeiro
 8372,2023,2023-11-26,Atlético MG,x,Grêmio
 8373,2023,2023-11-26,Internacional,x,Bragantino
-8374,2023,2023-11-26,Athletico PR,x,Vasco da Gama
+8374,2023,2023-11-25,Athletico PR,x,Vasco da Gama
 8375,2023,2023-11-26,Fortaleza,x,Palmeiras
 8376,2023,2023-11-26,América MG,x,Flamengo
 8377,2023,2023-11-29,Flamengo,x,Atlético MG
-8378,2023,2023-11-29,Vasco da Gama,x,Corinthians
+8378,2023,2023-11-28,Vasco da Gama,x,Corinthians
 8379,2023,2023-11-29,Palmeiras,x,América MG
 8380,2023,2023-11-29,Santos,x,Fluminense
-8381,2023,2023-11-29,Bragantino,x,Fortaleza
-8382,2023,2023-11-29,Cruzeiro,x,Athletico PR
-8383,2023,2023-11-29,Grêmio,x,Goiás
+8381,2023,2023-11-30,Bragantino,x,Fortaleza
+8382,2023,2023-11-30,Cruzeiro,x,Athletico PR
+8383,2023,2023-11-30,Grêmio,x,Goiás
 8384,2023,2023-11-29,Coritiba,x,Botafogo
 8385,2023,2023-11-29,Bahia,x,São Paulo
 8386,2023,2023-11-29,Cuiabá,x,Internacional
