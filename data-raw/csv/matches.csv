@@ -8356,15 +8356,15 @@ id_match,season,date,home,score,away
 8355,2023,2023-11-09,Bahia,0x3,Cuiabá
 8356,2023,2023-11-08,América MG,0x3,Coritiba
 8357,2023,2023-11-11,Flamengo,1x1,Fluminense
-8358,2023,2023-11-12,Vasco da Gama,x,América MG
-8359,2023,2023-11-11,Palmeiras,2x0,Internacional
-8360,2023,2023-11-12,Santos,x,São Paulo
-8361,2023,2023-11-12,Bragantino,x,Botafogo
-8362,2023,2023-11-12,Atlético MG,x,Goiás
-8363,2023,2023-11-12,Grêmio,x,Corinthians
+8358,2023,2023-11-12,Vasco da Gama,2x1,América MG
+8359,2023,2023-11-11,Palmeiras,3x0,Internacional
+8360,2023,2023-11-12,Santos,0x0,São Paulo
+8361,2023,2023-11-12,Bragantino,2x2,Botafogo
+8362,2023,2023-11-12,Atlético MG,2x1,Goiás
+8363,2023,2023-11-12,Grêmio,0x1,Corinthians
 8364,2023,2023-11-11,Coritiba,1x0,Cruzeiro
-8365,2023,2023-11-12,Bahia,x,Athletico PR
-8366,2023,2023-11-12,Cuiabá,x,Fortaleza
+8365,2023,2023-11-12,Bahia,1x1,Athletico PR
+8366,2023,2023-11-12,Cuiabá,2x1,Fortaleza
 8367,2023,2023-11-25,Fluminense,x,Coritiba
 8368,2023,2023-11-26,Botafogo,x,Santos
 8369,2023,2023-11-26,São Paulo,x,Cuiabá
