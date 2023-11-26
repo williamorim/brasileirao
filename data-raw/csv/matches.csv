@@ -8365,14 +8365,14 @@ id_match,season,date,home,score,away
 8364,2023,2023-11-11,Coritiba,1x0,Cruzeiro
 8365,2023,2023-11-12,Bahia,1x1,Athletico PR
 8366,2023,2023-11-12,Cuiabá,2x1,Fortaleza
-8367,2023,2023-11-25,Fluminense,x,Coritiba
+8367,2023,2023-11-25,Fluminense,2x0,Coritiba
 8368,2023,2023-11-26,Botafogo,x,Santos
 8369,2023,2023-11-26,São Paulo,x,Cuiabá
-8370,2023,2023-11-24,Corinthians,0x3,Bahia
+8370,2023,2023-11-24,Corinthians,1x5,Bahia
 8371,2023,2023-11-27,Goiás,x,Cruzeiro
 8372,2023,2023-11-26,Atlético MG,x,Grêmio
 8373,2023,2023-11-26,Internacional,x,Bragantino
-8374,2023,2023-11-25,Athletico PR,x,Vasco da Gama
+8374,2023,2023-11-25,Athletico PR,0x0,Vasco da Gama
 8375,2023,2023-11-26,Fortaleza,x,Palmeiras
 8376,2023,2023-11-26,América MG,x,Flamengo
 8377,2023,2023-11-29,Flamengo,x,Atlético MG
@@ -8388,9 +8388,9 @@ id_match,season,date,home,score,away
 8387,2023,2023-12-03,Flamengo,x,Cuiabá
 8388,2023,2023-12-03,Botafogo,x,Cruzeiro
 8389,2023,2023-12-03,Palmeiras,x,Fluminense
-8390,2023,2023-12-03,Corinthians,x,Internacional
+8390,2023,2023-12-02,Corinthians,x,Internacional
 8391,2023,2023-12-03,Bragantino,x,Coritiba
-8392,2023,2023-12-03,Atlético MG,x,São Paulo
+8392,2023,2023-12-02,Atlético MG,x,São Paulo
 8393,2023,2023-12-03,Grêmio,x,Vasco da Gama
 8394,2023,2023-12-03,Athletico PR,x,Santos
 8395,2023,2023-12-03,Fortaleza,x,Goiás
