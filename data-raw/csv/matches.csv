@@ -8385,16 +8385,16 @@ id_match,season,date,home,score,away
 8384,2023,2023-11-29,Coritiba,1x1,Botafogo
 8385,2023,2023-11-29,Bahia,0x1,São Paulo
 8386,2023,2023-11-29,Cuiabá,0x2,Internacional
-8387,2023,2023-12-03,Flamengo,x,Cuiabá
-8388,2023,2023-12-03,Botafogo,x,Cruzeiro
-8389,2023,2023-12-03,Palmeiras,x,Fluminense
+8387,2023,2023-12-03,Flamengo,2x1,Cuiabá
+8388,2023,2023-12-03,Botafogo,0x0,Cruzeiro
+8389,2023,2023-12-03,Palmeiras,1x0,Fluminense
 8390,2023,2023-12-02,Corinthians,1x2,Internacional
-8391,2023,2023-12-03,Bragantino,x,Coritiba
-8392,2023,2023-12-02,Atlético MG,0x0,São Paulo
-8393,2023,2023-12-03,Grêmio,x,Vasco da Gama
-8394,2023,2023-12-03,Athletico PR,x,Santos
-8395,2023,2023-12-03,Fortaleza,x,Goiás
-8396,2023,2023-12-03,América MG,x,Bahia
+8391,2023,2023-12-03,Bragantino,1x0,Coritiba
+8392,2023,2023-12-02,Atlético MG,2x1,São Paulo
+8393,2023,2023-12-03,Grêmio,1x0,Vasco da Gama
+8394,2023,2023-12-03,Athletico PR,3x0,Santos
+8395,2023,2023-12-03,Fortaleza,1x0,Goiás
+8396,2023,2023-12-03,América MG,3x2,Bahia
 8397,2023,2023-12-06,Fluminense,x,Grêmio
 8398,2023,2023-12-06,Vasco da Gama,x,Bragantino
 8399,2023,2023-12-06,São Paulo,x,Flamengo
