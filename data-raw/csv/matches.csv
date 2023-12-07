@@ -8395,13 +8395,13 @@ id_match,season,date,home,score,away
 8394,2023,2023-12-03,Athletico PR,3x0,Santos
 8395,2023,2023-12-03,Fortaleza,1x0,Goiás
 8396,2023,2023-12-03,América MG,3x2,Bahia
-8397,2023,2023-12-06,Fluminense,x,Grêmio
-8398,2023,2023-12-06,Vasco da Gama,x,Bragantino
-8399,2023,2023-12-06,São Paulo,x,Flamengo
-8400,2023,2023-12-06,Santos,x,Fortaleza
-8401,2023,2023-12-06,Goiás,x,América MG
-8402,2023,2023-12-06,Cruzeiro,x,Palmeiras
-8403,2023,2023-12-06,Internacional,x,Botafogo
-8404,2023,2023-12-06,Coritiba,x,Corinthians
-8405,2023,2023-12-06,Bahia,x,Atlético MG
-8406,2023,2023-12-06,Cuiabá,x,Athletico PR
+8397,2023,2023-12-06,Fluminense,1x2,Grêmio
+8398,2023,2023-12-06,Vasco da Gama,1x0,Bragantino
+8399,2023,2023-12-06,São Paulo,1x0,Flamengo
+8400,2023,2023-12-06,Santos,0x1,Fortaleza
+8401,2023,2023-12-06,Goiás,1x0,América MG
+8402,2023,2023-12-06,Cruzeiro,0x1,Palmeiras
+8403,2023,2023-12-06,Internacional,1x0,Botafogo
+8404,2023,2023-12-06,Coritiba,0x2,Corinthians
+8405,2023,2023-12-06,Bahia,2x1,Atlético MG
+8406,2023,2023-12-06,Cuiabá,2x0,Athletico PR
