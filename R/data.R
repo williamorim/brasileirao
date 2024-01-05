@@ -5,7 +5,7 @@
 #'
 #' @format A data frame with 5 variables:
 #' \describe{
-#'   \item{id_match}{Match id.} 
+#'   \item{id_match}{Match id.}
 #'   \item{season}{The year of national league edition.}
 #'   \item{date}{The match date.}
 #'   \item{home}{The home match team.}
@@ -38,8 +38,8 @@
 #'   \item{team}{Team name.}
 #'   \item{abbr}{Team name abbreviation.}
 #'   \item{state}{The state where the club is based.}
-#'   \item{color1}{The most frequent color in the team badge.}
-#'   \item{color2}{The second more frequent color in the team badge.}
+#'   \item{color1}{The primary color in the team badge.}
+#'   \item{color2}{The secondary color in the team badge.}
 #' }
 #' @source \url{https://github.com/williamorim/brasileirao}
 "teams"
