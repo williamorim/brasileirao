@@ -8438,10 +8438,10 @@ id_match,season,date,home,score,away
 8817,2024,2024-04-27,Vasco,x,Criciúma
 8818,2024,2024-04-27,Cuiabá,x,Atlético-MG
 8819,2024,2024-04-27,Bahia,1x0,Grêmio
-8820,2024,2024-04-28,Flamengo,x,Botafogo
-8821,2024,2024-04-28,Cruzeiro,x,Vitória
-8822,2024,2024-04-28,Corinthians,x,Fluminense
-8823,2024,2024-04-28,Fortaleza,x,Bragantino
+8820,2024,2024-04-28,Flamengo,0x2,Botafogo
+8821,2024,2024-04-28,Cruzeiro,3x1,Vitória
+8822,2024,2024-04-28,Corinthians,3x0,Fluminense
+8823,2024,2024-04-28,Fortaleza,1x1,Bragantino
 8824,2024,2024-04-28,Juventude,x,Athletico-PR
 8825,2024,2024-04-28,Internacional,x,Atlético-GO
 8826,2024,2024-04-29,São Paulo,x,Palmeiras
