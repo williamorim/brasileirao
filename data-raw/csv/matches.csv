@@ -8446,8 +8446,8 @@ id_match,season,date,home,score,away
 8825,2024,2024-04-28,Internacional,x,Atlético-GO
 8826,2024,2024-04-29,São Paulo,0x0,Palmeiras
 8827,2024,2024-05-04,Fluminense,x,Atlético-MG
-8828,2024,2024-05-04,Corinthians,x,Fortaleza
-8829,2024,2024-05-04,Bragantino,x,Flamengo
+8828,2024,2024-05-04,Corinthians,0x0,Fortaleza
+8829,2024,2024-05-04,Bragantino,1x1,Flamengo
 8830,2024,2024-05-04,Cruzeiro,x,Internacional
 8831,2024,2024-05-05,Grêmio,x,Criciúma
 8832,2024,2024-05-05,Vitória,x,São Paulo
