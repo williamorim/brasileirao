@@ -49,7 +49,7 @@ dplyr::filter(matches, season == 2020)
 
 -   Data from 2003 to 2019: <http://www.chancedegol.com.br/>
 
--   Data from 2020 to 2022:
+-   Data from 2020 to 2024:
     [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
 
 ## Warranty
