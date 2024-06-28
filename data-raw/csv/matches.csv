@@ -8518,11 +8518,11 @@ id_match,season,date,home,score,away
 8897,2024,2024-06-19,Internacional,x,Atlético-MG
 8898,2024,2024-06-19,Cruzeiro,x,Athletico-PR
 8899,2024,2024-06-19,Bahia,x,Vasco
-8900,2024,2024-06-27,Fluminense,x,Vitória
+8900,2024,2024-06-27,Fluminense,0x1,Vitória
 8901,2024,2024-06-26,Botafogo,2x1,Bragantino
 8902,2024,2024-06-26,Corinthians,1x1,Cuiabá
-8903,2024,2024-06-27,São Paulo,x,Criciúma
-8904,2024,2024-06-26,Fortaleza,1x0,Palmeiras
+8903,2024,2024-06-27,São Paulo,2x1,Criciúma
+8904,2024,2024-06-26,Fortaleza,3x0,Palmeiras
 8905,2024,2024-06-19,Atlético-GO,x,Grêmio
 8906,2024,2024-06-26,Juventude,2x1,Flamengo
 8907,2024,2024-06-30,Grêmio,x,Fluminense
@@ -8555,186 +8555,186 @@ id_match,season,date,home,score,away
 8934,2024,2024-07-07,Fortaleza,x,Fluminense
 8935,2024,2024-06-30,Atlético-GO,x,Athletico-PR
 8936,2024,2024-07-07,Juventude,x,Grêmio
-8937,2024,2024-07-03,Grêmio,x,Cruzeiro
+8937,2024,2024-07-10,Grêmio,x,Cruzeiro
 8938,2024,2024-07-03,Atlético-MG,x,São Paulo
-8939,2024,2024-07-03,Vitória,x,Botafogo
-8940,2024,2024-07-03,Flamengo,x,Fortaleza
+8939,2024,2024-07-10,Vitória,x,Botafogo
+8940,2024,2024-07-10,Flamengo,x,Fortaleza
 8941,2024,2024-07-03,Vasco,x,Corinthians
 8942,2024,2024-07-03,Palmeiras,x,Atlético-GO
-8943,2024,2024-07-03,Bragantino,x,Internacional
+8943,2024,2024-07-10,Bragantino,x,Internacional
 8944,2024,2024-07-03,Athletico-PR,x,Bahia
-8945,2024,2024-07-03,Cuiabá,x,Juventude
-8946,2024,2024-07-03,Criciúma,x,Fluminense
-8947,2024,2024-07-07,Internacional,x,Flamengo
-8948,2024,2024-07-07,Cruzeiro,x,Bragantino
-8949,2024,2024-07-07,Bahia,x,Cuiabá
+8945,2024,2024-07-10,Cuiabá,x,Juventude
+8946,2024,2024-07-10,Criciúma,x,Fluminense
+8947,2024,2024-07-17,Internacional,x,Flamengo
+8948,2024,2024-07-17,Cruzeiro,x,Bragantino
+8949,2024,2024-07-17,Bahia,x,Cuiabá
 8950,2024,2024-07-07,Fluminense,x,Athletico-PR
-8951,2024,2024-07-07,Botafogo,x,Palmeiras
-8952,2024,2024-07-07,Corinthians,x,Criciúma
-8953,2024,2024-07-07,São Paulo,x,Grêmio
-8954,2024,2024-07-07,Fortaleza,x,Vitória
+8951,2024,2024-07-17,Botafogo,x,Palmeiras
+8952,2024,2024-07-17,Corinthians,x,Criciúma
+8953,2024,2024-07-17,São Paulo,x,Grêmio
+8954,2024,2024-07-17,Fortaleza,x,Vitória
 8955,2024,2024-07-07,Atlético-GO,x,Vasco
 8956,2024,2024-07-07,Juventude,x,Atlético-MG
-8957,2024,2024-07-10,Grêmio,x,Vitória
+8957,2024,2024-07-21,Grêmio,x,Vitória
 8958,2024,2024-07-10,Atlético-MG,x,Vasco
-8959,2024,2024-07-10,Bahia,x,Corinthians
-8960,2024,2024-07-10,Flamengo,x,Criciúma
-8961,2024,2024-07-10,Botafogo,x,Internacional
-8962,2024,2024-07-10,Palmeiras,x,Cruzeiro
+8959,2024,2024-07-21,Bahia,x,Corinthians
+8960,2024,2024-07-21,Flamengo,x,Criciúma
+8961,2024,2024-07-21,Botafogo,x,Internacional
+8962,2024,2024-07-21,Palmeiras,x,Cruzeiro
 8963,2024,2024-07-10,Bragantino,x,Athletico-PR
 8964,2024,2024-07-10,Fortaleza,x,Atlético-GO
-8965,2024,2024-07-10,Cuiabá,x,Fluminense
-8966,2024,2024-07-10,Juventude,x,São Paulo
-8967,2024,2024-07-17,Internacional,x,Fortaleza
-8968,2024,2024-07-17,Cruzeiro,x,Juventude
-8969,2024,2024-07-17,Vitória,x,Flamengo
-8970,2024,2024-07-17,Fluminense,x,Palmeiras
+8965,2024,2024-07-21,Cuiabá,x,Fluminense
+8966,2024,2024-07-21,Juventude,x,São Paulo
+8967,2024,2024-07-24,Internacional,x,Fortaleza
+8968,2024,2024-07-24,Cruzeiro,x,Juventude
+8969,2024,2024-07-24,Vitória,x,Flamengo
+8970,2024,2024-07-24,Fluminense,x,Palmeiras
 8971,2024,2024-07-17,Vasco,x,Cuiabá
-8972,2024,2024-07-17,Corinthians,x,Grêmio
-8973,2024,2024-07-17,São Paulo,x,Botafogo
+8972,2024,2024-07-24,Corinthians,x,Grêmio
+8973,2024,2024-07-24,São Paulo,x,Botafogo
 8974,2024,2024-07-17,Athletico-PR,x,Atlético-MG
 8975,2024,2024-07-17,Atlético-GO,x,Bahia
-8976,2024,2024-07-17,Criciúma,x,Bragantino
+8976,2024,2024-07-24,Criciúma,x,Bragantino
 8977,2024,2024-07-21,Grêmio,x,Vasco
 8978,2024,2024-07-21,Atlético-MG,x,Corinthians
-8979,2024,2024-07-21,Bahia,x,Internacional
+8979,2024,2024-07-28,Bahia,x,Internacional
 8980,2024,2024-07-21,Flamengo,x,Atlético-GO
-8981,2024,2024-07-21,Botafogo,x,Cruzeiro
-8982,2024,2024-07-21,Palmeiras,x,Vitória
-8983,2024,2024-07-21,Bragantino,x,Fluminense
-8984,2024,2024-07-21,Fortaleza,x,São Paulo
+8981,2024,2024-07-28,Botafogo,x,Cruzeiro
+8982,2024,2024-07-28,Palmeiras,x,Vitória
+8983,2024,2024-07-28,Bragantino,x,Fluminense
+8984,2024,2024-07-28,Fortaleza,x,São Paulo
 8985,2024,2024-07-21,Cuiabá,x,Athletico-PR
-8986,2024,2024-07-21,Juventude,x,Criciúma
-8987,2024,2024-07-28,Internacional,x,Palmeiras
-8988,2024,2024-07-28,Cruzeiro,x,Fortaleza
-8989,2024,2024-07-28,Vitória,x,Cuiabá
-8990,2024,2024-07-28,Fluminense,x,Bahia
+8986,2024,2024-07-28,Juventude,x,Criciúma
+8987,2024,2024-08-04,Internacional,x,Palmeiras
+8988,2024,2024-08-04,Cruzeiro,x,Fortaleza
+8989,2024,2024-08-04,Vitória,x,Cuiabá
+8990,2024,2024-08-04,Fluminense,x,Bahia
 8991,2024,2024-07-28,Vasco,x,Bragantino
-8992,2024,2024-07-28,Corinthians,x,Juventude
-8993,2024,2024-07-28,São Paulo,x,Flamengo
+8992,2024,2024-08-04,Corinthians,x,Juventude
+8993,2024,2024-08-04,São Paulo,x,Flamengo
 8994,2024,2024-07-28,Athletico-PR,x,Grêmio
 8995,2024,2024-07-28,Atlético-GO,x,Botafogo
 8996,2024,2024-07-28,Criciúma,x,Atlético-MG
 8997,2024,2024-08-04,Internacional,x,Athletico-PR
 8998,2024,2024-08-04,Cruzeiro,x,Atlético-MG
-8999,2024,2024-08-04,Bahia,x,Vitória
-9000,2024,2024-08-04,Flamengo,x,Palmeiras
+8999,2024,2024-08-11,Bahia,x,Vitória
+9000,2024,2024-08-11,Flamengo,x,Palmeiras
 9001,2024,2024-08-04,Vasco,x,Fluminense
-9002,2024,2024-08-04,Corinthians,x,Bragantino
+9002,2024,2024-08-11,Corinthians,x,Bragantino
 9003,2024,2024-08-04,São Paulo,x,Atlético-GO
-9004,2024,2024-08-04,Fortaleza,x,Criciúma
-9005,2024,2024-08-04,Cuiabá,x,Grêmio
-9006,2024,2024-08-04,Juventude,x,Botafogo
-9007,2024,2024-08-11,Grêmio,x,Bahia
+9004,2024,2024-08-11,Fortaleza,x,Criciúma
+9005,2024,2024-08-11,Cuiabá,x,Grêmio
+9006,2024,2024-08-11,Juventude,x,Botafogo
+9007,2024,2024-08-18,Grêmio,x,Bahia
 9008,2024,2024-08-11,Atlético-MG,x,Cuiabá
-9009,2024,2024-08-11,Vitória,x,Cruzeiro
-9010,2024,2024-08-11,Fluminense,x,Corinthians
-9011,2024,2024-08-11,Botafogo,x,Flamengo
-9012,2024,2024-08-11,Palmeiras,x,São Paulo
-9013,2024,2024-08-11,Bragantino,x,Fortaleza
+9009,2024,2024-08-18,Vitória,x,Cruzeiro
+9010,2024,2024-08-18,Fluminense,x,Corinthians
+9011,2024,2024-08-18,Botafogo,x,Flamengo
+9012,2024,2024-08-18,Palmeiras,x,São Paulo
+9013,2024,2024-08-18,Bragantino,x,Fortaleza
 9014,2024,2024-08-11,Athletico-PR,x,Juventude
 9015,2024,2024-08-11,Atlético-GO,x,Internacional
 9016,2024,2024-08-11,Criciúma,x,Vasco
-9017,2024,2024-08-18,Internacional,x,Cruzeiro
+9017,2024,2024-08-25,Internacional,x,Cruzeiro
 9018,2024,2024-08-18,Atlético-MG,x,Fluminense
-9019,2024,2024-08-18,Bahia,x,Botafogo
-9020,2024,2024-08-18,Flamengo,x,Bragantino
+9019,2024,2024-08-25,Bahia,x,Botafogo
+9020,2024,2024-08-25,Flamengo,x,Bragantino
 9021,2024,2024-08-18,Vasco,x,Athletico-PR
-9022,2024,2024-08-18,Palmeiras,x,Cuiabá
-9023,2024,2024-08-18,São Paulo,x,Vitória
-9024,2024,2024-08-18,Fortaleza,x,Corinthians
+9022,2024,2024-08-25,Palmeiras,x,Cuiabá
+9023,2024,2024-08-25,São Paulo,x,Vitória
+9024,2024,2024-08-25,Fortaleza,x,Corinthians
 9025,2024,2024-08-18,Atlético-GO,x,Juventude
-9026,2024,2024-08-18,Criciúma,x,Grêmio
+9026,2024,2024-08-25,Criciúma,x,Grêmio
 9027,2024,2024-08-25,Grêmio,x,Atlético-MG
 9028,2024,2024-08-25,Cruzeiro,x,Atlético-GO
 9029,2024,2024-08-25,Vitória,x,Vasco
-9030,2024,2024-08-25,Fluminense,x,São Paulo
-9031,2024,2024-08-25,Botafogo,x,Fortaleza
-9032,2024,2024-08-25,Corinthians,x,Flamengo
-9033,2024,2024-08-25,Bragantino,x,Bahia
+9030,2024,2024-09-01,Fluminense,x,São Paulo
+9031,2024,2024-09-01,Botafogo,x,Fortaleza
+9032,2024,2024-09-01,Corinthians,x,Flamengo
+9033,2024,2024-09-01,Bragantino,x,Bahia
 9034,2024,2024-08-25,Athletico-PR,x,Palmeiras
-9035,2024,2024-08-25,Cuiabá,x,Criciúma
-9036,2024,2024-08-25,Juventude,x,Internacional
-9037,2024,2024-09-01,Internacional,x,Cuiabá
-9038,2024,2024-09-01,Cruzeiro,x,São Paulo
+9035,2024,2024-09-01,Cuiabá,x,Criciúma
+9036,2024,2024-09-01,Juventude,x,Internacional
+9037,2024,2024-09-15,Internacional,x,Cuiabá
+9038,2024,2024-09-15,Cruzeiro,x,São Paulo
 9039,2024,2024-09-01,Bahia,x,Atlético-MG
 9040,2024,2024-09-01,Flamengo,x,Vasco
-9041,2024,2024-09-01,Botafogo,x,Corinthians
-9042,2024,2024-09-01,Palmeiras,x,Criciúma
-9043,2024,2024-09-01,Bragantino,x,Grêmio
+9041,2024,2024-09-15,Botafogo,x,Corinthians
+9042,2024,2024-09-15,Palmeiras,x,Criciúma
+9043,2024,2024-09-15,Bragantino,x,Grêmio
 9044,2024,2024-09-01,Athletico-PR,x,Fortaleza
 9045,2024,2024-09-01,Atlético-GO,x,Vitória
-9046,2024,2024-09-01,Juventude,x,Fluminense
-9047,2024,2024-09-15,Grêmio,x,Flamengo
+9046,2024,2024-09-15,Juventude,x,Fluminense
+9047,2024,2024-09-22,Grêmio,x,Flamengo
 9048,2024,2024-09-15,Atlético-MG,x,Bragantino
-9049,2024,2024-09-15,Vitória,x,Juventude
-9050,2024,2024-09-15,Fluminense,x,Botafogo
+9049,2024,2024-09-22,Vitória,x,Juventude
+9050,2024,2024-09-22,Fluminense,x,Botafogo
 9051,2024,2024-09-15,Vasco,x,Palmeiras
 9052,2024,2024-09-15,Corinthians,x,Atlético-GO
-9053,2024,2024-09-15,São Paulo,x,Internacional
-9054,2024,2024-09-15,Fortaleza,x,Bahia
-9055,2024,2024-09-15,Cuiabá,x,Cruzeiro
+9053,2024,2024-09-22,São Paulo,x,Internacional
+9054,2024,2024-09-22,Fortaleza,x,Bahia
+9055,2024,2024-09-22,Cuiabá,x,Cruzeiro
 9056,2024,2024-09-15,Criciúma,x,Athletico-PR
-9057,2024,2024-09-22,Internacional,x,Vitória
+9057,2024,2024-09-29,Internacional,x,Vitória
 9058,2024,2024-09-22,Cruzeiro,x,Vasco
-9059,2024,2024-09-22,Bahia,x,Criciúma
+9059,2024,2024-09-29,Bahia,x,Criciúma
 9060,2024,2024-09-22,Flamengo,x,Athletico-PR
-9061,2024,2024-09-22,Botafogo,x,Grêmio
+9061,2024,2024-09-29,Botafogo,x,Grêmio
 9062,2024,2024-09-22,Palmeiras,x,Atlético-MG
-9063,2024,2024-09-22,São Paulo,x,Corinthians
-9064,2024,2024-09-22,Fortaleza,x,Cuiabá
+9063,2024,2024-09-29,São Paulo,x,Corinthians
+9064,2024,2024-09-29,Fortaleza,x,Cuiabá
 9065,2024,2024-09-22,Atlético-GO,x,Fluminense
-9066,2024,2024-09-22,Juventude,x,Bragantino
-9067,2024,2024-09-29,Grêmio,x,Fortaleza
+9066,2024,2024-09-29,Juventude,x,Bragantino
+9067,2024,2024-10-05,Grêmio,x,Fortaleza
 9068,2024,2024-09-29,Atlético-MG,x,Vitória
-9069,2024,2024-09-29,Bahia,x,Flamengo
-9070,2024,2024-09-29,Fluminense,x,Cruzeiro
+9069,2024,2024-10-05,Bahia,x,Flamengo
+9070,2024,2024-10-05,Fluminense,x,Cruzeiro
 9071,2024,2024-09-29,Vasco,x,Juventude
-9072,2024,2024-09-29,Corinthians,x,Internacional
-9073,2024,2024-09-29,Bragantino,x,Palmeiras
+9072,2024,2024-10-05,Corinthians,x,Internacional
+9073,2024,2024-10-05,Bragantino,x,Palmeiras
 9074,2024,2024-09-29,Athletico-PR,x,Botafogo
-9075,2024,2024-09-29,Cuiabá,x,São Paulo
+9075,2024,2024-10-05,Cuiabá,x,São Paulo
 9076,2024,2024-09-29,Criciúma,x,Atlético-GO
-9077,2024,2024-10-05,Internacional,x,Grêmio
-9078,2024,2024-10-05,Cruzeiro,x,Bahia
-9079,2024,2024-10-05,Vitória,x,Bragantino
-9080,2024,2024-10-05,Flamengo,x,Fluminense
-9081,2024,2024-10-05,Botafogo,x,Criciúma
+9077,2024,2024-10-20,Internacional,x,Grêmio
+9078,2024,2024-10-20,Cruzeiro,x,Bahia
+9079,2024,2024-10-20,Vitória,x,Bragantino
+9080,2024,2024-10-20,Flamengo,x,Fluminense
+9081,2024,2024-10-20,Botafogo,x,Criciúma
 9082,2024,2024-10-05,Corinthians,x,Athletico-PR
 9083,2024,2024-10-05,São Paulo,x,Vasco
 9084,2024,2024-10-05,Fortaleza,x,Atlético-MG
 9085,2024,2024-10-05,Atlético-GO,x,Cuiabá
-9086,2024,2024-10-05,Juventude,x,Palmeiras
+9086,2024,2024-10-20,Juventude,x,Palmeiras
 9087,2024,2024-10-20,Grêmio,x,Atlético-GO
 9088,2024,2024-10-20,Atlético-MG,x,Internacional
-9089,2024,2024-10-20,Vitória,x,Fluminense
-9090,2024,2024-10-20,Flamengo,x,Juventude
+9089,2024,2024-10-26,Vitória,x,Fluminense
+9090,2024,2024-10-26,Flamengo,x,Juventude
 9091,2024,2024-10-20,Vasco,x,Bahia
-9092,2024,2024-10-20,Palmeiras,x,Fortaleza
-9093,2024,2024-10-20,Bragantino,x,Botafogo
+9092,2024,2024-10-26,Palmeiras,x,Fortaleza
+9093,2024,2024-10-26,Bragantino,x,Botafogo
 9094,2024,2024-10-20,Athletico-PR,x,Cruzeiro
-9095,2024,2024-10-20,Cuiabá,x,Corinthians
-9096,2024,2024-10-20,Criciúma,x,São Paulo
-9097,2024,2024-10-26,Internacional,x,Criciúma
-9098,2024,2024-10-26,Cruzeiro,x,Flamengo
-9099,2024,2024-10-26,Bahia,x,São Paulo
-9100,2024,2024-10-26,Fluminense,x,Grêmio
+9095,2024,2024-10-26,Cuiabá,x,Corinthians
+9096,2024,2024-10-26,Criciúma,x,São Paulo
+9097,2024,2024-11-06,Internacional,x,Criciúma
+9098,2024,2024-11-06,Cruzeiro,x,Flamengo
+9099,2024,2024-11-06,Bahia,x,São Paulo
+9100,2024,2024-11-06,Fluminense,x,Grêmio
 9101,2024,2024-10-26,Botafogo,x,Vasco
-9102,2024,2024-10-26,Corinthians,x,Palmeiras
-9103,2024,2024-10-26,Bragantino,x,Cuiabá
+9102,2024,2024-11-06,Corinthians,x,Palmeiras
+9103,2024,2024-11-06,Bragantino,x,Cuiabá
 9104,2024,2024-10-26,Athletico-PR,x,Vitória
 9105,2024,2024-10-26,Atlético-GO,x,Atlético-MG
-9106,2024,2024-10-26,Juventude,x,Fortaleza
-9107,2024,2024-11-06,Internacional,x,Fluminense
-9108,2024,2024-11-06,Cruzeiro,x,Criciúma
-9109,2024,2024-11-06,Vitória,x,Corinthians
+9106,2024,2024-11-06,Juventude,x,Fortaleza
+9107,2024,2024-11-13,Internacional,x,Fluminense
+9108,2024,2024-11-13,Cruzeiro,x,Criciúma
+9109,2024,2024-11-13,Vitória,x,Corinthians
 9110,2024,2024-11-06,Flamengo,x,Atlético-MG
-9111,2024,2024-11-06,Botafogo,x,Cuiabá
-9112,2024,2024-11-06,Palmeiras,x,Grêmio
+9111,2024,2024-11-13,Botafogo,x,Cuiabá
+9112,2024,2024-11-13,Palmeiras,x,Grêmio
 9113,2024,2024-11-06,São Paulo,x,Athletico-PR
 9114,2024,2024-11-06,Fortaleza,x,Vasco
 9115,2024,2024-11-06,Atlético-GO,x,Bragantino
-9116,2024,2024-11-06,Juventude,x,Bahia
+9116,2024,2024-11-13,Juventude,x,Bahia
 9117,2024,2024-11-20,Grêmio,x,Juventude
 9118,2024,2024-11-20,Atlético-MG,x,Botafogo
 9119,2024,2024-11-20,Bahia,x,Palmeiras
