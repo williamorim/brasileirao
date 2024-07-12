@@ -8557,14 +8557,14 @@ id_match,season,date,home,score,away
 8936,2024,2024-07-07,Juventude,3x0,Grêmio
 8937,2024,2024-07-10,Grêmio,0x2,Cruzeiro
 8938,2024,2024-07-03,Atlético-MG,x,São Paulo
-8939,2024,2024-07-11,Vitória,x,Botafogo
-8940,2024,2024-07-11,Flamengo,x,Fortaleza
+8939,2024,2024-07-11,Vitória,0x0,Botafogo
+8940,2024,2024-07-11,Flamengo,1x2,Fortaleza
 8941,2024,2024-07-03,Vasco,x,Corinthians
 8942,2024,2024-07-03,Palmeiras,x,Atlético-GO
 8943,2024,2024-07-10,Bragantino,x,Internacional
 8944,2024,2024-07-03,Athletico-PR,x,Bahia
 8945,2024,2024-07-10,Cuiabá,x,Juventude
-8946,2024,2024-07-11,Criciúma,x,Fluminense
+8946,2024,2024-07-11,Criciúma,1x1,Fluminense
 8947,2024,2024-07-17,Internacional,x,Flamengo
 8948,2024,2024-07-13,Cruzeiro,x,Bragantino
 8949,2024,2024-07-13,Bahia,x,Cuiabá
