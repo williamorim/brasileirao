@@ -8569,10 +8569,10 @@ id_match,season,date,home,score,away
 8948,2024,2024-07-13,Cruzeiro,2x1,Bragantino
 8949,2024,2024-07-13,Bahia,1x2,Cuiabá
 8950,2024,2024-07-07,Fluminense,x,Athletico-PR
-8951,2024,2024-07-17,Botafogo,x,Palmeiras
+8951,2024,2024-07-17,Botafogo,0x0,Palmeiras
 8952,2024,2024-07-16,Corinthians,2x1,Criciúma
-8953,2024,2024-07-17,São Paulo,x,Grêmio
-8954,2024,2024-07-17,Fortaleza,x,Vitória
+8953,2024,2024-07-17,São Paulo,1x0,Grêmio
+8954,2024,2024-07-17,Fortaleza,2x0,Vitória
 8955,2024,2024-07-07,Atlético-GO,x,Vasco
 8956,2024,2024-07-07,Juventude,x,Atlético-MG
 8957,2024,2024-07-21,Grêmio,x,Vitória
@@ -8597,21 +8597,21 @@ id_match,season,date,home,score,away
 8976,2024,2024-07-24,Criciúma,x,Bragantino
 8977,2024,2024-07-21,Grêmio,x,Vasco
 8978,2024,2024-07-21,Atlético-MG,x,Corinthians
-8979,2024,2024-07-28,Bahia,x,Internacional
+8979,2024,2024-07-29,Bahia,x,Internacional
 8980,2024,2024-07-21,Flamengo,x,Atlético-GO
-8981,2024,2024-07-28,Botafogo,x,Cruzeiro
-8982,2024,2024-07-28,Palmeiras,x,Vitória
+8981,2024,2024-07-27,Botafogo,x,Cruzeiro
+8982,2024,2024-07-27,Palmeiras,x,Vitória
 8983,2024,2024-07-28,Bragantino,x,Fluminense
-8984,2024,2024-07-28,Fortaleza,x,São Paulo
+8984,2024,2024-07-27,Fortaleza,x,São Paulo
 8985,2024,2024-07-21,Cuiabá,x,Athletico-PR
-8986,2024,2024-07-28,Juventude,x,Criciúma
+8986,2024,2024-07-27,Juventude,x,Criciúma
 8987,2024,2024-08-04,Internacional,x,Palmeiras
-8988,2024,2024-08-04,Cruzeiro,x,Fortaleza
-8989,2024,2024-08-04,Vitória,x,Cuiabá
+8988,2024,2024-08-05,Cruzeiro,x,Fortaleza
+8989,2024,2024-08-03,Vitória,x,Cuiabá
 8990,2024,2024-08-04,Fluminense,x,Bahia
 8991,2024,2024-07-28,Vasco,x,Bragantino
 8992,2024,2024-08-04,Corinthians,x,Juventude
-8993,2024,2024-08-04,São Paulo,x,Flamengo
+8993,2024,2024-08-03,São Paulo,x,Flamengo
 8994,2024,2024-07-28,Athletico-PR,x,Grêmio
 8995,2024,2024-07-28,Atlético-GO,x,Botafogo
 8996,2024,2024-07-28,Criciúma,x,Atlético-MG
@@ -8620,18 +8620,18 @@ id_match,season,date,home,score,away
 8999,2024,2024-08-11,Bahia,x,Vitória
 9000,2024,2024-08-11,Flamengo,x,Palmeiras
 9001,2024,2024-08-04,Vasco,x,Fluminense
-9002,2024,2024-08-11,Corinthians,x,Bragantino
+9002,2024,2024-08-10,Corinthians,x,Bragantino
 9003,2024,2024-08-04,São Paulo,x,Atlético-GO
 9004,2024,2024-08-11,Fortaleza,x,Criciúma
-9005,2024,2024-08-11,Cuiabá,x,Grêmio
+9005,2024,2024-08-10,Cuiabá,x,Grêmio
 9006,2024,2024-08-11,Juventude,x,Botafogo
-9007,2024,2024-08-18,Grêmio,x,Bahia
+9007,2024,2024-08-17,Grêmio,x,Bahia
 9008,2024,2024-08-11,Atlético-MG,x,Cuiabá
-9009,2024,2024-08-18,Vitória,x,Cruzeiro
-9010,2024,2024-08-18,Fluminense,x,Corinthians
+9009,2024,2024-08-19,Vitória,x,Cruzeiro
+9010,2024,2024-08-17,Fluminense,x,Corinthians
 9011,2024,2024-08-18,Botafogo,x,Flamengo
 9012,2024,2024-08-18,Palmeiras,x,São Paulo
-9013,2024,2024-08-18,Bragantino,x,Fortaleza
+9013,2024,2024-08-17,Bragantino,x,Fortaleza
 9014,2024,2024-08-11,Athletico-PR,x,Juventude
 9015,2024,2024-08-11,Atlético-GO,x,Internacional
 9016,2024,2024-08-11,Criciúma,x,Vasco
@@ -8640,7 +8640,7 @@ id_match,season,date,home,score,away
 9019,2024,2024-08-25,Bahia,x,Botafogo
 9020,2024,2024-08-25,Flamengo,x,Bragantino
 9021,2024,2024-08-18,Vasco,x,Athletico-PR
-9022,2024,2024-08-25,Palmeiras,x,Cuiabá
+9022,2024,2024-08-24,Palmeiras,x,Cuiabá
 9023,2024,2024-08-25,São Paulo,x,Vitória
 9024,2024,2024-08-25,Fortaleza,x,Corinthians
 9025,2024,2024-08-18,Atlético-GO,x,Juventude
@@ -8649,11 +8649,11 @@ id_match,season,date,home,score,away
 9028,2024,2024-08-25,Cruzeiro,x,Atlético-GO
 9029,2024,2024-08-25,Vitória,x,Vasco
 9030,2024,2024-09-01,Fluminense,x,São Paulo
-9031,2024,2024-09-01,Botafogo,x,Fortaleza
+9031,2024,2024-08-31,Botafogo,x,Fortaleza
 9032,2024,2024-09-01,Corinthians,x,Flamengo
-9033,2024,2024-09-01,Bragantino,x,Bahia
+9033,2024,2024-08-31,Bragantino,x,Bahia
 9034,2024,2024-08-25,Athletico-PR,x,Palmeiras
-9035,2024,2024-09-01,Cuiabá,x,Criciúma
+9035,2024,2024-08-31,Cuiabá,x,Criciúma
 9036,2024,2024-09-01,Juventude,x,Internacional
 9037,2024,2024-09-15,Internacional,x,Cuiabá
 9038,2024,2024-09-15,Cruzeiro,x,São Paulo
