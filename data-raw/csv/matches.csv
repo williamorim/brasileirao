@@ -8620,10 +8620,10 @@ id_match,season,date,home,score,away
 8999,2024,2024-08-11,Bahia,x,Vitória
 9000,2024,2024-08-11,Flamengo,x,Palmeiras
 9001,2024,2024-08-04,Vasco,x,Fluminense
-9002,2024,2024-08-10,Corinthians,x,Bragantino
+9002,2024,2024-08-10,Corinthians,0x1,Bragantino
 9003,2024,2024-08-04,São Paulo,x,Atlético-GO
-9004,2024,2024-08-10,Fortaleza,x,Criciúma
-9005,2024,2024-08-10,Cuiabá,x,Grêmio
+9004,2024,2024-08-10,Fortaleza,1x0,Criciúma
+9005,2024,2024-08-10,Cuiabá,1x3,Grêmio
 9006,2024,2024-08-11,Juventude,x,Botafogo
 9007,2024,2024-08-17,Grêmio,x,Bahia
 9008,2024,2024-08-11,Atlético-MG,x,Cuiabá
