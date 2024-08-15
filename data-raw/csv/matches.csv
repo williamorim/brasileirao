@@ -8463,7 +8463,7 @@ id_match,season,date,home,score,away
 8842,2024,2024-05-12,Atlético-GO,x,Cruzeiro
 8843,2024,2024-05-12,Bahia,1x0,Bragantino
 8844,2024,2024-05-13,São Paulo,2x1,Fluminense
-8845,2024,2024-08-14,Internacional,x,Juventude
+8845,2024,2024-08-14,Internacional,2x1,Juventude
 8846,2024,2024-06-09,Criciúma,2x5,Cuiabá
 8847,2024,2024-05-18,Vitória,x,Atlético-GO
 8848,2024,2024-05-18,Fortaleza,x,Athletico-PR
@@ -8563,7 +8563,7 @@ id_match,season,date,home,score,away
 8942,2024,2024-07-03,Palmeiras,x,Atlético-GO
 8943,2024,2024-07-10,Bragantino,x,Internacional
 8944,2024,2024-07-03,Athletico-PR,x,Bahia
-8945,2024,2024-07-10,Cuiabá,x,Juventude
+8945,2024,2024-09-05,Cuiabá,x,Juventude
 8946,2024,2024-07-11,Criciúma,1x1,Fluminense
 8947,2024,2024-07-17,Internacional,x,Flamengo
 8948,2024,2024-07-13,Cruzeiro,2x1,Bragantino
@@ -8594,7 +8594,7 @@ id_match,season,date,home,score,away
 8973,2024,2024-07-24,São Paulo,2x2,Botafogo
 8974,2024,2024-07-17,Athletico-PR,x,Atlético-MG
 8975,2024,2024-07-17,Atlético-GO,x,Bahia
-8976,2024,2024-07-24,Criciúma,x,Bragantino
+8976,2024,2024-08-28,Criciúma,x,Bragantino
 8977,2024,2024-07-21,Grêmio,x,Vasco
 8978,2024,2024-07-21,Atlético-MG,x,Corinthians
 8979,2024,2024-07-27,Bahia,1x1,Internacional
@@ -8651,7 +8651,7 @@ id_match,season,date,home,score,away
 9030,2024,2024-09-01,Fluminense,x,São Paulo
 9031,2024,2024-08-31,Botafogo,x,Fortaleza
 9032,2024,2024-09-01,Corinthians,x,Flamengo
-9033,2024,2024-08-31,Bragantino,x,Bahia
+9033,2024,2024-09-01,Bragantino,x,Bahia
 9034,2024,2024-08-25,Athletico-PR,x,Palmeiras
 9035,2024,2024-08-31,Cuiabá,x,Criciúma
 9036,2024,2024-09-01,Juventude,x,Internacional
