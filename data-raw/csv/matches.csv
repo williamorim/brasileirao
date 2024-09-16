@@ -8656,15 +8656,15 @@ id_match,season,date,home,score,away
 9035,2024,2024-08-31,Cuiabá,2x1,Criciúma
 9036,2024,2024-09-01,Juventude,1x3,Internacional
 9037,2024,2024-09-16,Internacional,x,Cuiabá
-9038,2024,2024-09-15,Cruzeiro,x,São Paulo
+9038,2024,2024-09-15,Cruzeiro,0x1,São Paulo
 9039,2024,2024-09-01,Bahia,x,Atlético-MG
 9040,2024,2024-09-01,Flamengo,x,Vasco
 9041,2024,2024-09-14,Botafogo,2x1,Corinthians
-9042,2024,2024-09-15,Palmeiras,x,Criciúma
-9043,2024,2024-09-15,Bragantino,x,Grêmio
+9042,2024,2024-09-15,Palmeiras,5x0,Criciúma
+9043,2024,2024-09-15,Bragantino,2x2,Grêmio
 9044,2024,2024-09-01,Athletico-PR,x,Fortaleza
 9045,2024,2024-09-01,Atlético-GO,x,Vitória
-9046,2024,2024-09-15,Juventude,x,Fluminense
+9046,2024,2024-09-15,Juventude,2x1,Fluminense
 9047,2024,2024-09-22,Grêmio,x,Flamengo
 9048,2024,2024-09-15,Atlético-MG,x,Bragantino
 9049,2024,2024-09-21,Vitória,x,Juventude
