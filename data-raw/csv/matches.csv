@@ -8695,11 +8695,11 @@ id_match,season,date,home,score,away
 9074,2024,2024-09-29,Athletico-PR,x,Botafogo
 9075,2024,2024-10-05,Cuiabá,x,São Paulo
 9076,2024,2024-09-29,Criciúma,x,Atlético-GO
-9077,2024,2024-10-20,Internacional,x,Grêmio
-9078,2024,2024-10-20,Cruzeiro,x,Bahia
-9079,2024,2024-10-20,Vitória,x,Bragantino
+9077,2024,2024-10-19,Internacional,x,Grêmio
+9078,2024,2024-10-18,Cruzeiro,x,Bahia
+9079,2024,2024-10-19,Vitória,x,Bragantino
 9080,2024,2024-10-17,Flamengo,x,Fluminense
-9081,2024,2024-10-20,Botafogo,x,Criciúma
+9081,2024,2024-10-18,Botafogo,x,Criciúma
 9082,2024,2024-10-05,Corinthians,x,Athletico-PR
 9083,2024,2024-10-05,São Paulo,x,Vasco
 9084,2024,2024-10-05,Fortaleza,x,Atlético-MG
@@ -8713,7 +8713,7 @@ id_match,season,date,home,score,away
 9092,2024,2024-10-26,Palmeiras,x,Fortaleza
 9093,2024,2024-10-26,Bragantino,x,Botafogo
 9094,2024,2024-10-20,Athletico-PR,x,Cruzeiro
-9095,2024,2024-10-26,Cuiabá,x,Corinthians
+9095,2024,2024-10-28,Cuiabá,x,Corinthians
 9096,2024,2024-10-26,Criciúma,x,São Paulo
 9097,2024,2024-11-06,Internacional,x,Criciúma
 9098,2024,2024-11-06,Cruzeiro,x,Flamengo
