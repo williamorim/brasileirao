@@ -8765,16 +8765,16 @@ id_match,season,date,home,score,away
 9144,2024,2024-12-01,Athletico-PR,x,Fluminense
 9145,2024,2024-11-30,Cuiabá,1x2,Bahia
 9146,2024,2024-11-30,Criciúma,2x4,Corinthians
-9147,2024,2024-12-04,Internacional,x,Botafogo
-9148,2024,2024-12-04,Cruzeiro,x,Palmeiras
-9149,2024,2024-12-04,Vitória,x,Grêmio
+9147,2024,2024-12-04,Internacional,0x1,Botafogo
+9148,2024,2024-12-04,Cruzeiro,0x0,Palmeiras
+9149,2024,2024-12-04,Vitória,1x1,Grêmio
 9150,2024,2024-12-05,Fluminense,x,Cuiabá
 9151,2024,2024-12-04,Vasco,x,Atlético-MG
 9152,2024,2024-12-03,Corinthians,3x0,Bahia
-9153,2024,2024-12-04,São Paulo,x,Juventude
+9153,2024,2024-12-04,São Paulo,1x2,Juventude
 9154,2024,2024-12-04,Athletico-PR,x,Bragantino
 9155,2024,2024-12-04,Atlético-GO,x,Fortaleza
-9156,2024,2024-12-04,Criciúma,x,Flamengo
+9156,2024,2024-12-04,Criciúma,0x3,Flamengo
 9157,2024,2024-12-08,Grêmio,x,Corinthians
 9158,2024,2024-12-08,Atlético-MG,x,Athletico-PR
 9159,2024,2024-12-08,Bahia,x,Atlético-GO
