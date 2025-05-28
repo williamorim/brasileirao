@@ -13,4 +13,5 @@ matches_2025 <- matches_2025 |>
 matches <- matches |>
   dplyr::bind_rows(matches_2025)
 
+readr::write_csv(matches, "data-raw/csv/matches.csv")
 usethis::use_data(matches, overwrite = TRUE)
