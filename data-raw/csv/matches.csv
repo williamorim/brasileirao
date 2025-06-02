@@ -8887,14 +8887,14 @@ id_match,season,date,home,score,away
 9266,2025,2025-06-04,Botafogo,x,Ceará
 9267,2025,2025-05-31,Bahia,2x1,São Paulo
 9268,2025,2025-05-31,Vasco,x,Bragantino
-9269,2025,2025-06-01,Mirassol,x,Sport
-9270,2025,2025-06-01,Santos,x,Botafogo
-9271,2025,2025-06-01,Juventude,x,Grêmio
-9272,2025,2025-06-01,Flamengo,x,Fortaleza
-9273,2025,2025-06-01,Corinthians,x,Vitória
+9269,2025,2025-06-01,Mirassol,1x0,Sport
+9270,2025,2025-06-01,Santos,0x1,Botafogo
+9271,2025,2025-06-01,Juventude,0x2,Grêmio
+9272,2025,2025-06-01,Flamengo,5x0,Fortaleza
+9273,2025,2025-06-01,Corinthians,0x0,Vitória
 9274,2025,2025-06-01,Ceará,x,Atlético-MG
-9275,2025,2025-06-01,Cruzeiro,x,Palmeiras
-9276,2025,2025-06-01,Internacional,x,Fluminense
+9275,2025,2025-06-01,Cruzeiro,2x1,Palmeiras
+9276,2025,2025-06-01,Internacional,0x2,Fluminense
 9277,2025,2025-06-12,Bragantino,x,Bahia
 9278,2025,2025-06-12,Vitória,x,Cruzeiro
 9279,2025,2025-06-12,Fortaleza,x,Santos
