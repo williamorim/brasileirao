@@ -42,15 +42,30 @@ dplyr::filter(matches, season == 2020)
 #>  8     6894   2020 2020-09-30 Corinthians 0x0   Atlético GO  
 #>  9     6895   2020 2020-12-03 Goiás       0x3   São Paulo    
 #> 10     6896   2020 2021-01-26 Palmeiras   1x1   Vasco da Gama
-#> # … with 370 more rows
+#> # ℹ 370 more rows
 ```
 
 ## Sources
 
--   Data from 2003 to 2019: <http://www.chancedegol.com.br/>
+- Data from 2003 to 2019: <http://www.chancedegol.com.br/>
 
--   Data from 2020 to 2024:
-    [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
+- Data from 2020 to 2025:
+  [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
+
+## To update the scraper to new year
+
+1.  Create a new function in `data-raw/scraping_matches.R` to scrape the
+    matches for the given year.
+
+2.  Update and run the script `data-raw/matches.R` to create a new
+    `matches` data frame, containing all the matches of the given year
+    with a unique id for each match.
+
+3.  Update the script `data-raw/update_matches.R` to use the new scraper
+    function.
+
+4.  Activate the GitHub Actions workflow to run the `update_matches.R`
+    script.
 
 ## Warranty
 
@@ -62,5 +77,5 @@ issue](https://github.com/williamorim/brasileirao/issues).
 
 ## Next steps
 
--   Update the data every Monday and Thursday at 11:59 pm using GitHub
-    Actions.
+- Update the data every Monday and Thursday at 11:59 pm using GitHub
+  Actions.

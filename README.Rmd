@@ -44,7 +44,17 @@ dplyr::filter(matches, season == 2020)
 
 - Data from 2003 to 2019: [http://www.chancedegol.com.br/](http://www.chancedegol.com.br/)
 
-- Data from 2020 to 2022: [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
+- Data from 2020 to 2025: [globoesporte.globo.com](https://globoesporte.globo.com/futebol/brasileirao-serie-a/)
+
+## To update the scraper to new year
+
+1. Create a new function in `data-raw/scraping_matches.R` to scrape the matches for the given year.
+
+2. Update and run the script `data-raw/matches.R` to create a new `matches` data frame, containing all the matches of the given year with a unique id for each match.
+
+3. Update the script `data-raw/update_matches.R` to use the new scraper function.
+
+4. Activate the GitHub Actions workflow to run the `update_matches.R` script.
 
 ## Warranty
 
