@@ -8902,7 +8902,7 @@ id_match,season,date,home,score,away
 9661,2025,2025-06-12,São Paulo,1x3,Vasco da Gama
 9662,2025,2025-06-12,Atlético MG,2x0,Internacional
 9663,2025,NA,Fluminense,x,Ceará
-9664,2025,NA,Botafogo,x,Mirassol
+9664,2025,2025-09-17,Botafogo,x,Mirassol
 9665,2025,NA,Palmeiras,x,Juventude
 9666,2025,NA,Sport,x,Flamengo
 9667,2025,2025-07-12,Flamengo,2x0,São Paulo
@@ -8936,12 +8936,12 @@ id_match,season,date,home,score,away
 9695,2025,2025-07-19,Fortaleza,1x1,Bahia
 9696,2025,2025-07-20,Sport,0x1,Botafogo
 9697,2025,2025-07-23,Fluminense,1x2,Palmeiras
-9698,2025,2025-07-23,Vasco da Gama,x,Bahia
+9698,2025,2025-09-24,Vasco da Gama,x,Bahia
 9699,2025,2025-07-23,Corinthians,0x0,Cruzeiro
 9700,2025,2025-07-23,Santos,1x2,Internacional
 9701,2025,2025-07-23,Bragantino,1x2,Flamengo
 9702,2025,2025-07-23,Atlético MG,x,Fortaleza
-9703,2025,2025-07-23,Grêmio,x,Botafogo
+9703,2025,2025-09-24,Grêmio,x,Botafogo
 9704,2025,2025-07-23,Vitória,2x2,Sport
 9705,2025,2025-07-23,Ceará,0x2,Mirassol
 9706,2025,2025-07-24,Juventude,0x1,São Paulo
@@ -8985,9 +8985,9 @@ id_match,season,date,home,score,away
 9744,2025,2025-08-16,Vitória,2x2,Juventude
 9745,2025,2025-08-16,Ceará,1x0,Bragantino
 9746,2025,2025-08-16,Sport,2x2,São Paulo
-9747,2025,2025-08-25,Flamengo,x,Vitória
+9747,2025,2025-08-25,Flamengo,7x0,Vitória
 9748,2025,2025-08-24,Vasco da Gama,2x3,Corinthians
-9749,2025,2025-08-25,Palmeiras,x,Sport
+9749,2025,2025-08-25,Palmeiras,3x0,Sport
 9750,2025,2025-08-24,São Paulo,2x0,Atlético MG
 9751,2025,2025-08-23,Bragantino,4x2,Fluminense
 9752,2025,2025-08-23,Cruzeiro,2x1,Internacional
@@ -9045,123 +9045,123 @@ id_match,season,date,home,score,away
 9804,2025,2025-10-01,Vitória,x,Ceará
 9805,2025,2025-10-01,Fortaleza,x,São Paulo
 9806,2025,2025-10-01,Sport,x,Fluminense
-9807,2025,2025-10-16,Fluminense,x,Atlético MG
-9808,2025,2025-10-16,Vasco da Gama,x,Vitória
-9809,2025,2025-10-16,Corinthians,x,Mirassol
-9810,2025,2025-10-16,São Paulo,x,Palmeiras
-9811,2025,2025-10-16,Bragantino,x,Grêmio
-9812,2025,2025-10-16,Cruzeiro,x,Sport
-9813,2025,2025-10-16,Internacional,x,Botafogo
-9814,2025,2025-10-16,Bahia,x,Flamengo
-9815,2025,2025-10-16,Ceará,x,Santos
-9816,2025,2025-10-16,Juventude,x,Fortaleza
-9817,2025,2025-10-26,Fluminense,x,Juventude
-9818,2025,2025-10-26,Botafogo,x,Flamengo
-9819,2025,2025-10-26,Palmeiras,x,Bragantino
-9820,2025,2025-10-26,Santos,x,Corinthians
-9821,2025,2025-10-26,Mirassol,x,Internacional
-9822,2025,2025-10-26,Atlético MG,x,Cruzeiro
-9823,2025,2025-10-26,Grêmio,x,São Paulo
-9824,2025,2025-10-26,Vitória,x,Bahia
-9825,2025,2025-10-26,Fortaleza,x,Vasco da Gama
-9826,2025,2025-10-26,Sport,x,Ceará
-9827,2025,2025-11-05,Flamengo,x,Palmeiras
-9828,2025,2025-11-05,Vasco da Gama,x,Fluminense
-9829,2025,2025-11-05,Corinthians,x,Atlético MG
-9830,2025,2025-11-05,Santos,x,Vitória
-9831,2025,2025-11-05,Mirassol,x,São Paulo
-9832,2025,2025-11-05,Cruzeiro,x,Fortaleza
-9833,2025,2025-11-05,Internacional,x,Sport
-9834,2025,2025-11-05,Bahia,x,Grêmio
-9835,2025,2025-11-05,Ceará,x,Botafogo
-9836,2025,2025-11-05,Juventude,x,Bragantino
-9837,2025,2025-11-19,Fluminense,x,Internacional
-9838,2025,2025-11-19,Botafogo,x,Santos
-9839,2025,2025-11-19,Palmeiras,x,Cruzeiro
-9840,2025,2025-11-19,São Paulo,x,Bahia
-9841,2025,2025-11-19,Bragantino,x,Vasco da Gama
-9842,2025,2025-11-19,Atlético MG,x,Ceará
-9843,2025,2025-11-19,Grêmio,x,Juventude
-9844,2025,2025-11-19,Vitória,x,Corinthians
-9845,2025,2025-11-19,Fortaleza,x,Flamengo
-9846,2025,2025-11-19,Sport,x,Mirassol
-9847,2025,2025-11-23,Flamengo,x,Sport
-9848,2025,2025-11-23,Vasco da Gama,x,São Paulo
-9849,2025,2025-11-23,Corinthians,x,Grêmio
-9850,2025,2025-11-23,Santos,x,Fortaleza
-9851,2025,2025-11-23,Mirassol,x,Botafogo
-9852,2025,2025-11-23,Cruzeiro,x,Vitória
-9853,2025,2025-11-23,Internacional,x,Atlético MG
-9854,2025,2025-11-23,Bahia,x,Bragantino
-9855,2025,2025-11-23,Ceará,x,Fluminense
-9856,2025,2025-11-23,Juventude,x,Palmeiras
-9857,2025,2025-11-30,Fluminense,x,Mirassol
-9858,2025,2025-11-30,Botafogo,x,Vasco da Gama
-9859,2025,2025-11-30,Palmeiras,x,Santos
-9860,2025,2025-11-30,São Paulo,x,Flamengo
-9861,2025,2025-11-30,Bragantino,x,Corinthians
-9862,2025,2025-11-30,Atlético MG,x,Bahia
-9863,2025,2025-11-30,Grêmio,x,Cruzeiro
-9864,2025,2025-11-30,Vitória,x,Internacional
-9865,2025,2025-11-30,Ceará,x,Fortaleza
-9866,2025,2025-11-30,Sport,x,Juventude
-9867,2025,2025-12-03,Flamengo,x,Santos
-9868,2025,2025-12-03,Vasco da Gama,x,Juventude
-9869,2025,2025-12-03,Corinthians,x,Ceará
-9870,2025,2025-12-03,São Paulo,x,Bragantino
-9871,2025,2025-12-03,Mirassol,x,Palmeiras
-9872,2025,2025-12-03,Cruzeiro,x,Fluminense
-9873,2025,2025-12-03,Internacional,x,Bahia
-9874,2025,2025-12-03,Vitória,x,Botafogo
-9875,2025,2025-12-03,Fortaleza,x,Grêmio
-9876,2025,2025-12-03,Sport,x,Atlético MG
-9877,2025,2025-12-07,Fluminense,x,Flamengo
-9878,2025,2025-12-07,Botafogo,x,Sport
-9879,2025,2025-12-07,Corinthians,x,São Paulo
-9880,2025,2025-12-07,Santos,x,Mirassol
-9881,2025,2025-12-07,Bragantino,x,Vitória
-9882,2025,2025-12-07,Atlético MG,x,Palmeiras
-9883,2025,2025-12-07,Grêmio,x,Vasco da Gama
-9884,2025,2025-12-07,Bahia,x,Fortaleza
-9885,2025,2025-12-07,Ceará,x,Internacional
-9886,2025,2025-12-07,Juventude,x,Cruzeiro
-9887,2025,2025-12-10,Flamengo,x,Bragantino
-9888,2025,2025-12-10,Botafogo,x,Grêmio
-9889,2025,2025-12-10,Palmeiras,x,Fluminense
-9890,2025,2025-12-10,São Paulo,x,Juventude
-9891,2025,2025-12-10,Mirassol,x,Ceará
-9892,2025,2025-12-10,Cruzeiro,x,Corinthians
-9893,2025,2025-12-10,Internacional,x,Santos
-9894,2025,2025-12-10,Bahia,x,Vasco da Gama
-9895,2025,2025-12-10,Fortaleza,x,Atlético MG
-9896,2025,2025-12-10,Sport,x,Vitória
-9897,2025,2025-12-14,Fluminense,x,São Paulo
-9898,2025,2025-12-14,Vasco da Gama,x,Internacional
-9899,2025,2025-12-14,Corinthians,x,Botafogo
-9900,2025,2025-12-14,Santos,x,Sport
-9901,2025,2025-12-14,Bragantino,x,Fortaleza
-9902,2025,2025-12-14,Atlético MG,x,Flamengo
-9903,2025,2025-12-14,Grêmio,x,Palmeiras
-9904,2025,2025-12-14,Vitória,x,Mirassol
-9905,2025,2025-12-14,Ceará,x,Cruzeiro
-9906,2025,2025-12-14,Juventude,x,Bahia
-9907,2025,2025-12-17,Flamengo,x,Ceará
-9908,2025,2025-12-17,Vasco da Gama,x,Mirassol
-9909,2025,2025-12-17,Palmeiras,x,Vitória
-9910,2025,2025-12-17,São Paulo,x,Internacional
-9911,2025,2025-12-17,Bragantino,x,Atlético MG
-9912,2025,2025-12-17,Cruzeiro,x,Botafogo
-9913,2025,2025-12-17,Grêmio,x,Fluminense
-9914,2025,2025-12-17,Bahia,x,Sport
-9915,2025,2025-12-17,Fortaleza,x,Corinthians
-9916,2025,2025-12-17,Juventude,x,Santos
-9917,2025,2025-12-21,Fluminense,x,Bahia
-9918,2025,2025-12-21,Botafogo,x,Fortaleza
-9919,2025,2025-12-21,Corinthians,x,Juventude
-9920,2025,2025-12-21,Santos,x,Cruzeiro
-9921,2025,2025-12-21,Mirassol,x,Flamengo
-9922,2025,2025-12-21,Atlético MG,x,Vasco da Gama
-9923,2025,2025-12-21,Internacional,x,Bragantino
-9924,2025,2025-12-21,Vitória,x,São Paulo
-9925,2025,2025-12-21,Ceará,x,Palmeiras
-9926,2025,2025-12-21,Sport,x,Grêmio
+9807,2025,2025-10-05,Fluminense,x,Atlético MG
+9808,2025,2025-10-05,Vasco da Gama,x,Vitória
+9809,2025,2025-10-05,Corinthians,x,Mirassol
+9810,2025,2025-10-05,São Paulo,x,Palmeiras
+9811,2025,2025-10-05,Bragantino,x,Grêmio
+9812,2025,2025-10-05,Cruzeiro,x,Sport
+9813,2025,2025-10-05,Internacional,x,Botafogo
+9814,2025,2025-10-05,Bahia,x,Flamengo
+9815,2025,2025-10-05,Ceará,x,Santos
+9816,2025,2025-10-05,Juventude,x,Fortaleza
+9817,2025,2025-10-15,Fluminense,x,Juventude
+9818,2025,2025-10-15,Botafogo,x,Flamengo
+9819,2025,2025-10-15,Palmeiras,x,Bragantino
+9820,2025,2025-10-15,Santos,x,Corinthians
+9821,2025,2025-10-15,Mirassol,x,Internacional
+9822,2025,2025-10-15,Atlético MG,x,Cruzeiro
+9823,2025,2025-10-15,Grêmio,x,São Paulo
+9824,2025,2025-10-15,Vitória,x,Bahia
+9825,2025,2025-10-15,Fortaleza,x,Vasco da Gama
+9826,2025,2025-10-15,Sport,x,Ceará
+9827,2025,2025-10-19,Flamengo,x,Palmeiras
+9828,2025,2025-10-19,Vasco da Gama,x,Fluminense
+9829,2025,2025-10-19,Corinthians,x,Atlético MG
+9830,2025,2025-10-19,Santos,x,Vitória
+9831,2025,2025-10-19,Mirassol,x,São Paulo
+9832,2025,2025-10-19,Cruzeiro,x,Fortaleza
+9833,2025,2025-10-19,Internacional,x,Sport
+9834,2025,2025-10-19,Bahia,x,Grêmio
+9835,2025,2025-10-19,Ceará,x,Botafogo
+9836,2025,2025-10-19,Juventude,x,Bragantino
+9837,2025,2025-10-26,Fluminense,x,Internacional
+9838,2025,2025-10-26,Botafogo,x,Santos
+9839,2025,2025-10-26,Palmeiras,x,Cruzeiro
+9840,2025,2025-10-26,São Paulo,x,Bahia
+9841,2025,2025-10-26,Bragantino,x,Vasco da Gama
+9842,2025,2025-10-26,Atlético MG,x,Ceará
+9843,2025,2025-10-26,Grêmio,x,Juventude
+9844,2025,2025-10-26,Vitória,x,Corinthians
+9845,2025,2025-10-26,Fortaleza,x,Flamengo
+9846,2025,2025-10-26,Sport,x,Mirassol
+9847,2025,2025-11-02,Flamengo,x,Sport
+9848,2025,2025-11-02,Vasco da Gama,x,São Paulo
+9849,2025,2025-11-02,Corinthians,x,Grêmio
+9850,2025,2025-11-02,Santos,x,Fortaleza
+9851,2025,2025-11-02,Mirassol,x,Botafogo
+9852,2025,2025-11-02,Cruzeiro,x,Vitória
+9853,2025,2025-11-02,Internacional,x,Atlético MG
+9854,2025,2025-11-02,Bahia,x,Bragantino
+9855,2025,2025-11-02,Ceará,x,Fluminense
+9856,2025,2025-11-02,Juventude,x,Palmeiras
+9857,2025,2025-11-05,Fluminense,x,Mirassol
+9858,2025,2025-11-05,Botafogo,x,Vasco da Gama
+9859,2025,2025-11-05,Palmeiras,x,Santos
+9860,2025,2025-11-05,São Paulo,x,Flamengo
+9861,2025,2025-11-05,Bragantino,x,Corinthians
+9862,2025,2025-11-05,Atlético MG,x,Bahia
+9863,2025,2025-11-05,Grêmio,x,Cruzeiro
+9864,2025,2025-11-05,Vitória,x,Internacional
+9865,2025,2025-11-05,Ceará,x,Fortaleza
+9866,2025,2025-11-05,Sport,x,Juventude
+9867,2025,2025-11-09,Flamengo,x,Santos
+9868,2025,2025-11-09,Vasco da Gama,x,Juventude
+9869,2025,2025-11-09,Corinthians,x,Ceará
+9870,2025,2025-11-09,São Paulo,x,Bragantino
+9871,2025,2025-11-09,Mirassol,x,Palmeiras
+9872,2025,2025-11-09,Cruzeiro,x,Fluminense
+9873,2025,2025-11-09,Internacional,x,Bahia
+9874,2025,2025-11-09,Vitória,x,Botafogo
+9875,2025,2025-11-09,Fortaleza,x,Grêmio
+9876,2025,2025-11-09,Sport,x,Atlético MG
+9877,2025,2025-11-19,Fluminense,x,Flamengo
+9878,2025,2025-11-19,Botafogo,x,Sport
+9879,2025,2025-11-19,Corinthians,x,São Paulo
+9880,2025,2025-11-19,Santos,x,Mirassol
+9881,2025,2025-11-19,Bragantino,x,Vitória
+9882,2025,2025-11-19,Atlético MG,x,Palmeiras
+9883,2025,2025-11-19,Grêmio,x,Vasco da Gama
+9884,2025,2025-11-19,Bahia,x,Fortaleza
+9885,2025,2025-11-19,Ceará,x,Internacional
+9886,2025,2025-11-19,Juventude,x,Cruzeiro
+9887,2025,2025-11-23,Flamengo,x,Bragantino
+9888,2025,2025-11-23,Botafogo,x,Grêmio
+9889,2025,2025-11-23,Palmeiras,x,Fluminense
+9890,2025,2025-11-23,São Paulo,x,Juventude
+9891,2025,2025-11-23,Mirassol,x,Ceará
+9892,2025,2025-11-23,Cruzeiro,x,Corinthians
+9893,2025,2025-11-23,Internacional,x,Santos
+9894,2025,2025-11-23,Bahia,x,Vasco da Gama
+9895,2025,2025-11-23,Fortaleza,x,Atlético MG
+9896,2025,2025-11-23,Sport,x,Vitória
+9897,2025,2025-11-30,Fluminense,x,São Paulo
+9898,2025,2025-11-30,Vasco da Gama,x,Internacional
+9899,2025,2025-11-30,Corinthians,x,Botafogo
+9900,2025,2025-11-30,Santos,x,Sport
+9901,2025,2025-11-30,Bragantino,x,Fortaleza
+9902,2025,2025-11-30,Atlético MG,x,Flamengo
+9903,2025,2025-11-30,Grêmio,x,Palmeiras
+9904,2025,2025-11-30,Vitória,x,Mirassol
+9905,2025,2025-11-30,Ceará,x,Cruzeiro
+9906,2025,2025-11-30,Juventude,x,Bahia
+9907,2025,2025-12-03,Flamengo,x,Ceará
+9908,2025,2025-12-03,Vasco da Gama,x,Mirassol
+9909,2025,2025-12-03,Palmeiras,x,Vitória
+9910,2025,2025-12-03,São Paulo,x,Internacional
+9911,2025,2025-12-03,Bragantino,x,Atlético MG
+9912,2025,2025-12-03,Cruzeiro,x,Botafogo
+9913,2025,2025-12-03,Grêmio,x,Fluminense
+9914,2025,2025-12-03,Bahia,x,Sport
+9915,2025,2025-12-03,Fortaleza,x,Corinthians
+9916,2025,2025-12-03,Juventude,x,Santos
+9917,2025,2025-12-07,Fluminense,x,Bahia
+9918,2025,2025-12-07,Botafogo,x,Fortaleza
+9919,2025,2025-12-07,Corinthians,x,Juventude
+9920,2025,2025-12-07,Santos,x,Cruzeiro
+9921,2025,2025-12-07,Mirassol,x,Flamengo
+9922,2025,2025-12-07,Atlético MG,x,Vasco da Gama
+9923,2025,2025-12-07,Internacional,x,Bragantino
+9924,2025,2025-12-07,Vitória,x,São Paulo
+9925,2025,2025-12-07,Ceará,x,Palmeiras
+9926,2025,2025-12-07,Sport,x,Grêmio
