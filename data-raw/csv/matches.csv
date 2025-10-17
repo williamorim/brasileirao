@@ -8904,7 +8904,7 @@ id_match,season,date,home,score,away
 9663,2025,2025-10-29,Fluminense,x,Ceará
 9664,2025,2025-09-17,Botafogo,3x3,Mirassol
 9665,2025,2025-10-11,Palmeiras,4x1,Juventude
-9666,2025,2025-11-13,Sport,x,Flamengo
+9666,2025,2025-11-15,Sport,x,Flamengo
 9667,2025,2025-07-12,Flamengo,2x0,São Paulo
 9668,2025,2025-07-12,Vasco da Gama,0x2,Botafogo
 9669,2025,2025-07-13,Corinthians,1x2,Bragantino
@@ -9055,15 +9055,15 @@ id_match,season,date,home,score,away
 9814,2025,2025-10-05,Bahia,1x0,Flamengo
 9815,2025,2025-10-05,Ceará,3x0,Santos
 9816,2025,2025-10-05,Juventude,1x2,Fortaleza
-9817,2025,2025-10-16,Fluminense,x,Juventude
+9817,2025,2025-10-16,Fluminense,0x0,Juventude
 9818,2025,2025-10-15,Botafogo,0x3,Flamengo
 9819,2025,2025-10-15,Palmeiras,5x1,Bragantino
-9820,2025,2025-10-15,Santos,2x0,Corinthians
+9820,2025,2025-10-15,Santos,3x1,Corinthians
 9821,2025,2025-10-15,Mirassol,3x1,Internacional
-9822,2025,2025-10-15,Atlético MG,0x0,Cruzeiro
-9823,2025,2025-10-16,Grêmio,x,São Paulo
-9824,2025,2025-10-16,Vitória,x,Bahia
-9825,2025,2025-10-15,Fortaleza,0x1,Vasco da Gama
+9822,2025,2025-10-15,Atlético MG,1x1,Cruzeiro
+9823,2025,2025-10-16,Grêmio,2x0,São Paulo
+9824,2025,2025-10-16,Vitória,1x1,Bahia
+9825,2025,2025-10-15,Fortaleza,0x2,Vasco da Gama
 9826,2025,2025-10-15,Sport,1x1,Ceará
 9827,2025,2025-10-19,Flamengo,x,Palmeiras
 9828,2025,2025-10-20,Vasco da Gama,x,Fluminense
