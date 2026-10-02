@@ -54,18 +54,22 @@ fix_names <- function(teams) {
 #' get_badge("sao paulo")
 #' get_badge("sao-paulo")
 get_badge <- function(team) {
-  team <- team |>
+  team_clean <- team |>
     fix_names() |>
     tolower() |>
     stringi::stri_trans_general("Latin-ASCII")
 
-  team <- gsub(" ", "-", team)
+  team_clean <- gsub(" ", "-", team_clean)
 
-  files <- list.files(
-    system.file("badges", package = "brasileirao")
+  file <- list.files(
+    system.file("badges", package = "brasileirao"),
+    pattern = paste0("^", team_clean, "\\."),
+    full.names = TRUE
   )
 
-  badge <- files[sub("[.].*", "", files) == team]
-
-  system.file(paste0("badges/", badge), package = "brasileirao")
+  if (length(file) == 0) {
+    stop("Badge not found for team: ", team)
+  }
+  
+  return(file)
 }
