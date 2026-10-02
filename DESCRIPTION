@@ -17,4 +17,4 @@ BugReports: https://github.com/williamorim/brasileirao/issues
 Imports: 
     stringi
 Depends: 
-    R (>= 3.5)
+    R (>= 4.1.0)
