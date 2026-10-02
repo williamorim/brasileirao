@@ -17,16 +17,16 @@ install.packages(
 devtools::load_all()
 source("data-raw/scraping_matches.R")
 
-matches_2025 <- purrr::map_dfr(1:38, scraper_ge_2025)
+matches_2026 <- purrr::map_dfr(1:38, scraper_ge_2026)
 
-matches_2025 <- matches_2025 |>
+matches_2026 <- matches_2026 |>
   dplyr::mutate(
     dplyr::across(c(home, away), fix_names)
   )
 
 matches <- matches |>
   dplyr::left_join(
-    matches_2025,
+    matches_2026,
     by = c("season", "home", "away"),
     suffix = c("", "_new")
   ) |>

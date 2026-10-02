@@ -9165,3 +9165,383 @@ id_match,season,date,home,score,away
 9924,2025,2025-12-07,Vitória,1x0,São Paulo
 9925,2025,2025-12-07,Ceará,1x3,Palmeiras
 9926,2025,2025-12-07,Sport,0x4,Grêmio
+9927,2026,2026-01-28,Atlético MG,2x2,Palmeiras
+9928,2026,2026-01-28,Internacional,0x1,Athletico PR
+9929,2026,2026-01-28,Coritiba,0x1,Bragantino
+9930,2026,2026-01-28,Vitória,2x0,Remo
+9931,2026,2026-01-28,Fluminense,2x1,Grêmio
+9932,2026,2026-01-28,Corinthians,1x2,Bahia
+9933,2026,2026-01-28,Chapecoense,4x2,Santos
+9934,2026,2026-01-28,São Paulo,2x1,Flamengo
+9935,2026,2026-01-29,Mirassol,2x1,Vasco da Gama
+9936,2026,2026-01-29,Botafogo,4x0,Cruzeiro
+9937,2026,2026-02-04,Flamengo,1x1,Internacional
+9938,2026,2026-02-04,Bragantino,1x0,Atlético MG
+9939,2026,2026-02-04,Santos,1x1,São Paulo
+9940,2026,2026-02-04,Remo,2x2,Mirassol
+9941,2026,2026-02-04,Palmeiras,5x1,Vitória
+9942,2026,2026-02-04,Grêmio,5x3,Botafogo
+9943,2026,2026-02-05,Bahia,1x1,Fluminense
+9944,2026,2026-02-05,Vasco da Gama,1x1,Chapecoense
+9945,2026,2026-02-05,Cruzeiro,1x2,Coritiba
+9946,2026,2026-02-19,Athletico PR,0x1,Corinthians
+9947,2026,2026-02-10,Vitória,1x2,Flamengo
+9948,2026,2026-02-11,Mirassol,2x2,Cruzeiro
+9949,2026,2026-02-11,Chapecoense,3x3,Coritiba
+9950,2026,2026-02-11,Atlético MG,3x3,Remo
+9951,2026,2026-02-11,Vasco da Gama,0x1,Bahia
+9952,2026,2026-02-11,São Paulo,2x0,Grêmio
+9953,2026,2026-02-12,Athletico PR,2x1,Santos
+9954,2026,2026-02-12,Fluminense,1x0,Botafogo
+9955,2026,2026-02-12,Corinthians,2x0,Bragantino
+9956,2026,2026-02-12,Internacional,1x3,Palmeiras
+9957,2026,2026-02-25,Bragantino,1x1,Athletico PR
+9958,2026,2026-02-25,Remo,1x1,Internacional
+9959,2026,2026-02-25,Coritiba,0x1,São Paulo
+9960,2026,2026-02-25,Cruzeiro,1x1,Corinthians
+9961,2026,2026-02-25,Palmeiras,2x1,Fluminense
+9962,2026,2026-02-25,Grêmio,2x1,Atlético MG
+9963,2026,2026-02-26,Santos,2x1,Vasco da Gama
+9964,2026,2026-07-17,Bahia,2x0,Chapecoense
+9965,2026,2026-07-23,Botafogo,0x0,Vitória
+9966,2026,2026-09-02,Flamengo,2x0,Mirassol
+9967,2026,2026-03-10,Mirassol,2x2,Santos
+9968,2026,2026-03-11,Atlético MG,1x0,Internacional
+9969,2026,2026-03-11,Bahia,1x1,Vitória
+9970,2026,2026-03-11,Flamengo,2x0,Cruzeiro
+9971,2026,2026-03-11,Corinthians,0x2,Coritiba
+9972,2026,2026-03-12,Remo,0x2,Fluminense
+9973,2026,2026-03-12,Vasco da Gama,2x1,Palmeiras
+9974,2026,2026-03-12,São Paulo,2x0,Chapecoense
+9975,2026,2026-03-12,Grêmio,1x1,Bragantino
+9976,2026,2026-03-29,Athletico PR,4x1,Botafogo
+9977,2026,2026-03-14,Vitória,2x0,Atlético MG
+9978,2026,2026-03-14,Botafogo,0x3,Flamengo
+9979,2026,2026-03-15,Fluminense,3x2,Athletico PR
+9980,2026,2026-03-15,Santos,1x1,Corinthians
+9981,2026,2026-03-15,Internacional,0x1,Bahia
+9982,2026,2026-03-15,Palmeiras,1x0,Mirassol
+9983,2026,2026-03-15,Coritiba,1x0,Remo
+9984,2026,2026-03-15,Bragantino,1x2,São Paulo
+9985,2026,2026-03-15,Cruzeiro,3x3,Vasco da Gama
+9986,2026,2026-03-16,Chapecoense,1x1,Grêmio
+9987,2026,2026-03-18,Palmeiras,2x1,Botafogo
+9988,2026,2026-03-18,Bahia,2x0,Bragantino
+9989,2026,2026-03-18,Athletico PR,2x1,Cruzeiro
+9990,2026,2026-03-18,Mirassol,0x1,Coritiba
+9991,2026,2026-03-18,Atlético MG,1x0,São Paulo
+9992,2026,2026-03-18,Vasco da Gama,3x2,Fluminense
+9993,2026,2026-03-18,Santos,1x2,Internacional
+9994,2026,2026-03-19,Grêmio,2x0,Vitória
+9995,2026,2026-03-19,Flamengo,3x0,Remo
+9996,2026,2026-03-19,Chapecoense,0x0,Corinthians
+9997,2026,2026-03-21,Bragantino,1x2,Botafogo
+9998,2026,2026-03-21,Fluminense,1x0,Atlético MG
+9999,2026,2026-03-21,São Paulo,0x1,Palmeiras
+10000,2026,2026-03-22,Vasco da Gama,2x1,Grêmio
+10001,2026,2026-03-22,Cruzeiro,0x0,Santos
+10002,2026,2026-03-22,Athletico PR,2x0,Coritiba
+10003,2026,2026-03-22,Remo,4x1,Bahia
+10004,2026,2026-03-22,Internacional,2x0,Chapecoense
+10005,2026,2026-03-22,Vitória,1x0,Mirassol
+10006,2026,2026-03-22,Corinthians,1x1,Flamengo
+10007,2026,2026-04-01,Botafogo,3x2,Mirassol
+10008,2026,2026-04-01,Internacional,1x1,São Paulo
+10009,2026,2026-04-01,Cruzeiro,3x0,Vitória
+10010,2026,2026-04-01,Bahia,3x0,Athletico PR
+10011,2026,2026-04-01,Coritiba,1x1,Vasco da Gama
+10012,2026,2026-04-01,Fluminense,3x1,Corinthians
+10013,2026,2026-04-02,Santos,2x0,Remo
+10014,2026,2026-04-02,Chapecoense,0x4,Atlético MG
+10015,2026,2026-04-02,Palmeiras,2x1,Grêmio
+10016,2026,2026-04-02,Bragantino,3x0,Flamengo
+10017,2026,2026-04-04,São Paulo,4x1,Cruzeiro
+10018,2026,2026-04-04,Coritiba,1x1,Fluminense
+10019,2026,2026-04-04,Vasco da Gama,1x2,Botafogo
+10020,2026,2026-04-05,Chapecoense,1x1,Vitória
+10021,2026,2026-04-05,Flamengo,3x1,Santos
+10022,2026,2026-04-05,Atlético MG,2x1,Athletico PR
+10023,2026,2026-04-05,Corinthians,0x1,Internacional
+10024,2026,2026-04-05,Bahia,1x2,Palmeiras
+10025,2026,2026-04-05,Mirassol,0x1,Bragantino
+10026,2026,2026-04-05,Grêmio,0x0,Remo
+10027,2026,2026-04-11,Vitória,2x0,São Paulo
+10028,2026,2026-04-11,Remo,1x1,Vasco da Gama
+10029,2026,2026-04-11,Mirassol,1x2,Bahia
+10030,2026,2026-04-11,Santos,1x0,Atlético MG
+10031,2026,2026-04-11,Internacional,0x0,Grêmio
+10032,2026,2026-04-12,Athletico PR,2x0,Chapecoense
+10033,2026,2026-04-12,Botafogo,2x2,Coritiba
+10034,2026,2026-04-12,Fluminense,1x2,Flamengo
+10035,2026,2026-04-12,Corinthians,0x0,Palmeiras
+10036,2026,2026-04-12,Cruzeiro,2x1,Bragantino
+10037,2026,2026-04-18,Vasco da Gama,2x1,São Paulo
+10038,2026,2026-04-18,Chapecoense,1x4,Botafogo
+10039,2026,2026-04-18,Vitória,0x0,Corinthians
+10040,2026,2026-04-18,Cruzeiro,2x0,Grêmio
+10041,2026,2026-04-19,Internacional,1x2,Mirassol
+10042,2026,2026-04-19,Santos,2x3,Fluminense
+10043,2026,2026-04-19,Coritiba,2x0,Atlético MG
+10044,2026,2026-04-19,Palmeiras,1x0,Athletico PR
+10045,2026,2026-04-19,Bragantino,4x2,Remo
+10046,2026,2026-04-19,Flamengo,2x0,Bahia
+10047,2026,2026-04-25,Botafogo,2x2,Internacional
+10048,2026,2026-04-25,Bahia,2x2,Santos
+10049,2026,2026-04-25,Remo,0x1,Cruzeiro
+10050,2026,2026-04-25,São Paulo,1x0,Mirassol
+10051,2026,2026-04-26,Corinthians,1x0,Vasco da Gama
+10052,2026,2026-04-26,Grêmio,1x0,Coritiba
+10053,2026,2026-04-26,Bragantino,0x1,Palmeiras
+10054,2026,2026-04-26,Athletico PR,3x1,Vitória
+10055,2026,2026-04-26,Fluminense,2x1,Chapecoense
+10056,2026,2026-04-26,Atlético MG,0x4,Flamengo
+10057,2026,2026-05-02,Botafogo,1x2,Remo
+10058,2026,2026-05-02,Palmeiras,1x1,Santos
+10059,2026,2026-05-02,Vitória,4x1,Coritiba
+10060,2026,2026-05-02,Athletico PR,0x0,Grêmio
+10061,2026,2026-05-02,Cruzeiro,1x3,Atlético MG
+10062,2026,2026-05-03,Flamengo,2x2,Vasco da Gama
+10063,2026,2026-05-03,São Paulo,2x2,Bahia
+10064,2026,2026-05-03,Internacional,2x0,Fluminense
+10065,2026,2026-05-03,Chapecoense,1x2,Bragantino
+10066,2026,2026-05-03,Mirassol,2x1,Corinthians
+10067,2026,2026-05-09,Coritiba,2x2,Internacional
+10068,2026,2026-05-09,Fluminense,2x2,Vitória
+10069,2026,2026-05-09,Bahia,1x2,Cruzeiro
+10070,2026,2026-05-10,Atlético MG,1x1,Botafogo
+10071,2026,2026-05-10,Remo,1x1,Palmeiras
+10072,2026,2026-05-10,Santos,2x0,Bragantino
+10073,2026,2026-05-10,Corinthians,3x2,São Paulo
+10074,2026,2026-05-10,Mirassol,1x1,Chapecoense
+10075,2026,2026-05-10,Grêmio,0x1,Flamengo
+10076,2026,2026-05-10,Vasco da Gama,1x0,Athletico PR
+10077,2026,2026-05-16,Atlético MG,3x1,Mirassol
+10078,2026,2026-05-16,Internacional,4x1,Vasco da Gama
+10079,2026,2026-05-16,Fluminense,2x1,São Paulo
+10080,2026,2026-05-16,Palmeiras,1x1,Cruzeiro
+10081,2026,2026-05-17,Santos,0x3,Coritiba
+10082,2026,2026-05-17,Botafogo,3x1,Corinthians
+10083,2026,2026-05-17,Bahia,1x1,Grêmio
+10084,2026,2026-05-17,Bragantino,2x0,Vitória
+10085,2026,2026-05-17,Chapecoense,2x3,Remo
+10086,2026,2026-05-17,Athletico PR,1x1,Flamengo
+10087,2026,2026-05-23,São Paulo,1x1,Botafogo
+10088,2026,2026-05-23,Vitória,2x0,Internacional
+10089,2026,2026-05-23,Mirassol,1x0,Fluminense
+10090,2026,2026-05-23,Grêmio,3x2,Santos
+10091,2026,2026-05-23,Flamengo,0x3,Palmeiras
+10092,2026,2026-05-24,Cruzeiro,2x1,Chapecoense
+10093,2026,2026-05-24,Remo,1x2,Athletico PR
+10094,2026,2026-05-24,Corinthians,1x0,Atlético MG
+10095,2026,2026-05-24,Vasco da Gama,0x3,Bragantino
+10096,2026,2026-05-25,Coritiba,3x2,Bahia
+10097,2026,2026-05-30,Flamengo,3x0,Coritiba
+10098,2026,2026-05-30,Athletico PR,1x0,Mirassol
+10099,2026,2026-05-30,Grêmio,1x3,Corinthians
+10100,2026,2026-05-30,Bahia,2x1,Botafogo
+10101,2026,2026-05-30,Santos,3x1,Vitória
+10102,2026,2026-05-31,Bragantino,3x1,Internacional
+10103,2026,2026-05-31,Vasco da Gama,0x1,Atlético MG
+10104,2026,2026-05-31,Palmeiras,1x0,Chapecoense
+10105,2026,2026-05-31,Cruzeiro,1x1,Fluminense
+10106,2026,2026-05-31,Remo,1x0,São Paulo
+10107,2026,2026-07-16,Botafogo,2x1,Santos
+10108,2026,2026-07-16,Vitória,1x0,Vasco da Gama
+10109,2026,2026-07-17,Fluminense,1x1,Bragantino
+10110,2026,2026-07-17,Mirassol,2x1,Grêmio
+10111,2026,2026-07-21,Atlético MG,1x1,Bahia
+10112,2026,2026-07-22,Coritiba,1x3,Palmeiras
+10113,2026,2026-07-22,São Paulo,1x2,Athletico PR
+10114,2026,2026-07-22,Internacional,1x2,Cruzeiro
+10115,2026,2026-07-22,Chapecoense,0x4,Flamengo
+10116,2026,2026-07-23,Corinthians,3x0,Remo
+10117,2026,2026-07-25,Athletico PR,2x0,Internacional
+10118,2026,2026-07-25,Santos,2x2,Chapecoense
+10119,2026,2026-07-25,Vasco da Gama,1x1,Mirassol
+10120,2026,2026-07-26,Cruzeiro,0x1,Botafogo
+10121,2026,2026-07-26,Bahia,1x1,Corinthians
+10122,2026,2026-07-26,Bragantino,0x0,Coritiba
+10123,2026,2026-07-26,Grêmio,1x1,Fluminense
+10124,2026,2026-07-26,Flamengo,1x1,São Paulo
+10125,2026,2026-07-26,Remo,2x0,Vitória
+10126,2026,2026-07-26,Palmeiras,1x2,Atlético MG
+10127,2026,2026-07-29,Mirassol,2x1,Remo
+10128,2026,2026-07-29,Internacional,1x1,Flamengo
+10129,2026,2026-07-29,Fluminense,0x0,Bahia
+10130,2026,2026-07-29,Vitória,0x4,Palmeiras
+10131,2026,2026-07-30,Corinthians,0x0,Athletico PR
+10132,2026,2026-07-30,Coritiba,0x1,Cruzeiro
+10133,2026,2026-09-16,Botafogo,3x2,Grêmio
+10134,2026,2026-10-02,São Paulo,x,Santos
+10135,2026,2026-10-03,Atlético MG,x,Bragantino
+10136,2026,NA,Chapecoense,x,Vasco da Gama
+10137,2026,2026-08-08,Grêmio,2x1,São Paulo
+10138,2026,2026-08-08,Remo,2x2,Atlético MG
+10139,2026,2026-08-08,Coritiba,2x1,Chapecoense
+10140,2026,2026-08-08,Botafogo,1x1,Fluminense
+10141,2026,2026-08-09,Cruzeiro,3x1,Mirassol
+10142,2026,2026-08-09,Palmeiras,0x0,Internacional
+10143,2026,2026-08-09,Bahia,0x0,Vasco da Gama
+10144,2026,2026-08-09,Santos,0x2,Athletico PR
+10145,2026,2026-08-09,Bragantino,0x2,Corinthians
+10146,2026,2026-08-09,Flamengo,2x0,Vitória
+10147,2026,2026-08-15,Fluminense,3x2,Palmeiras
+10148,2026,2026-08-15,Athletico PR,1x1,Bragantino
+10149,2026,2026-08-15,São Paulo,1x1,Coritiba
+10150,2026,2026-08-16,Chapecoense,3x3,Bahia
+10151,2026,2026-08-16,Vasco da Gama,0x3,Santos
+10152,2026,2026-08-16,Atlético MG,3x0,Grêmio
+10153,2026,2026-08-16,Mirassol,1x5,Flamengo
+10154,2026,2026-08-16,Vitória,1x0,Botafogo
+10155,2026,2026-08-16,Corinthians,1x2,Cruzeiro
+10156,2026,2026-08-17,Internacional,1x1,Remo
+10157,2026,2026-08-22,Fluminense,2x1,Remo
+10158,2026,2026-08-22,Internacional,0x0,Atlético MG
+10159,2026,2026-08-22,Cruzeiro,2x1,Flamengo
+10160,2026,2026-08-23,Palmeiras,4x1,Vasco da Gama
+10161,2026,2026-08-23,Bragantino,1x0,Grêmio
+10162,2026,2026-08-23,Vitória,0x2,Bahia
+10163,2026,2026-08-23,Santos,1x1,Mirassol
+10164,2026,2026-08-23,Chapecoense,1x0,São Paulo
+10165,2026,2026-08-23,Coritiba,2x1,Corinthians
+10166,2026,2026-08-24,Botafogo,2x3,Athletico PR
+10167,2026,2026-08-29,Atlético MG,2x1,Vitória
+10168,2026,2026-08-29,São Paulo,2x1,Bragantino
+10169,2026,2026-08-29,Vasco da Gama,3x1,Cruzeiro
+10170,2026,2026-08-30,Athletico PR,3x3,Fluminense
+10171,2026,2026-08-30,Flamengo,3x0,Botafogo
+10172,2026,2026-08-30,Corinthians,0x1,Santos
+10173,2026,2026-08-30,Mirassol,1x1,Palmeiras
+10174,2026,2026-08-30,Grêmio,3x1,Chapecoense
+10175,2026,2026-08-30,Bahia,3x2,Internacional
+10176,2026,2026-08-31,Remo,2x3,Coritiba
+10177,2026,2026-09-05,Bragantino,2x3,Bahia
+10178,2026,2026-09-05,São Paulo,2x0,Atlético MG
+10179,2026,2026-09-05,Fluminense,1x0,Vasco da Gama
+10180,2026,2026-09-06,Coritiba,1x2,Mirassol
+10181,2026,2026-09-06,Cruzeiro,3x1,Athletico PR
+10182,2026,2026-09-06,Internacional,2x3,Santos
+10183,2026,2026-09-06,Remo,0x1,Flamengo
+10184,2026,2026-09-06,Botafogo,0x0,Palmeiras
+10185,2026,2026-09-06,Corinthians,1x2,Chapecoense
+10186,2026,2026-09-07,Vitória,1x0,Grêmio
+10187,2026,2026-09-11,Coritiba,3x3,Athletico PR
+10188,2026,2026-09-12,Atlético MG,3x1,Fluminense
+10189,2026,2026-09-12,Grêmio,1x2,Vasco da Gama
+10190,2026,2026-09-12,Chapecoense,1x2,Internacional
+10191,2026,2026-09-12,Palmeiras,2x0,São Paulo
+10192,2026,2026-09-12,Botafogo,1x1,Bragantino
+10193,2026,2026-09-12,Santos,2x1,Cruzeiro
+10194,2026,2026-09-13,Mirassol,2x2,Vitória
+10195,2026,2026-09-13,Flamengo,2x1,Corinthians
+10196,2026,2026-09-14,Bahia,2x1,Remo
+10197,2026,2026-09-19,Atlético MG,1x1,Chapecoense
+10198,2026,2026-09-19,Mirassol,2x0,Botafogo
+10199,2026,2026-09-19,Remo,1x2,Santos
+10200,2026,2026-09-19,Vasco da Gama,5x0,Coritiba
+10201,2026,2026-09-19,São Paulo,1x0,Internacional
+10202,2026,2026-09-20,Grêmio,0x0,Palmeiras
+10203,2026,2026-09-20,Corinthians,1x3,Fluminense
+10204,2026,2026-09-20,Vitória,1x3,Cruzeiro
+10205,2026,2026-09-20,Flamengo,2x1,Bragantino
+10206,2026,2026-09-20,Athletico PR,2x1,Bahia
+10207,2026,2026-10-07,Bragantino,x,Mirassol
+10208,2026,2026-10-07,Internacional,x,Corinthians
+10209,2026,2026-10-07,Remo,x,Grêmio
+10210,2026,2026-10-07,Vitória,x,Chapecoense
+10211,2026,2026-10-07,Botafogo,x,Vasco da Gama
+10212,2026,2026-10-07,Cruzeiro,x,São Paulo
+10213,2026,2026-10-08,Santos,x,Flamengo
+10214,2026,2026-10-08,Athletico PR,x,Atlético MG
+10215,2026,2026-10-08,Fluminense,x,Coritiba
+10216,2026,2026-10-08,Palmeiras,x,Bahia
+10217,2026,2026-10-10,Vasco da Gama,x,Remo
+10218,2026,2026-10-10,São Paulo,x,Vitória
+10219,2026,2026-10-11,Atlético MG,x,Santos
+10220,2026,2026-10-11,Flamengo,x,Fluminense
+10221,2026,2026-10-11,Palmeiras,x,Corinthians
+10222,2026,2026-10-11,Grêmio,x,Internacional
+10223,2026,2026-10-11,Bahia,x,Mirassol
+10224,2026,2026-10-12,Coritiba,x,Botafogo
+10225,2026,2026-10-12,Chapecoense,x,Athletico PR
+10226,2026,2026-10-12,Bragantino,x,Cruzeiro
+10227,2026,2026-10-16,Mirassol,x,Internacional
+10228,2026,2026-10-17,Botafogo,x,Chapecoense
+10229,2026,2026-10-17,Atlético MG,x,Coritiba
+10230,2026,2026-10-17,Athletico PR,x,Palmeiras
+10231,2026,2026-10-17,São Paulo,x,Vasco da Gama
+10232,2026,2026-10-18,Fluminense,x,Santos
+10233,2026,2026-10-18,Grêmio,x,Cruzeiro
+10234,2026,2026-10-18,Bahia,x,Flamengo
+10235,2026,2026-10-18,Remo,x,Bragantino
+10236,2026,2026-10-19,Corinthians,x,Vitória
+10237,2026,2026-10-23,Cruzeiro,x,Remo
+10238,2026,2026-10-24,Mirassol,x,São Paulo
+10239,2026,2026-10-24,Internacional,x,Botafogo
+10240,2026,2026-10-24,Vitória,x,Athletico PR
+10241,2026,2026-10-24,Vasco da Gama,x,Corinthians
+10242,2026,2026-10-24,Palmeiras,x,Bragantino
+10243,2026,2026-10-24,Chapecoense,x,Fluminense
+10244,2026,2026-10-24,Santos,x,Bahia
+10245,2026,2026-10-26,Coritiba,x,Grêmio
+10246,2026,2026-10-26,Flamengo,x,Atlético MG
+10247,2026,2026-10-28,Fluminense,x,Internacional
+10248,2026,2026-10-28,Santos,x,Palmeiras
+10249,2026,2026-10-28,Bragantino,x,Chapecoense
+10250,2026,2026-10-28,Bahia,x,São Paulo
+10251,2026,2026-10-28,Remo,x,Botafogo
+10252,2026,2026-10-29,Atlético MG,x,Cruzeiro
+10253,2026,2026-10-29,Coritiba,x,Vitória
+10254,2026,2026-10-29,Vasco da Gama,x,Flamengo
+10255,2026,2026-10-29,Grêmio,x,Athletico PR
+10256,2026,2026-10-30,Corinthians,x,Mirassol
+10257,2026,2026-11-02,Bragantino,x,Santos
+10258,2026,2026-11-03,Chapecoense,x,Mirassol
+10259,2026,2026-11-03,Internacional,x,Coritiba
+10260,2026,2026-11-04,Flamengo,x,Grêmio
+10261,2026,2026-11-04,Athletico PR,x,Vasco da Gama
+10262,2026,2026-11-04,Botafogo,x,Atlético MG
+10263,2026,2026-11-04,São Paulo,x,Corinthians
+10264,2026,2026-11-05,Palmeiras,x,Remo
+10265,2026,2026-11-05,Cruzeiro,x,Bahia
+10266,2026,2026-11-06,Vitória,x,Fluminense
+10267,2026,2026-11-18,Flamengo,x,Athletico PR
+10268,2026,2026-11-18,Vasco da Gama,x,Internacional
+10269,2026,2026-11-18,São Paulo,x,Fluminense
+10270,2026,2026-11-18,Corinthians,x,Botafogo
+10271,2026,2026-11-18,Mirassol,x,Atlético MG
+10272,2026,2026-11-18,Cruzeiro,x,Palmeiras
+10273,2026,2026-11-18,Grêmio,x,Bahia
+10274,2026,2026-11-18,Coritiba,x,Santos
+10275,2026,2026-11-18,Vitória,x,Bragantino
+10276,2026,2026-11-18,Remo,x,Chapecoense
+10277,2026,2026-11-22,Fluminense,x,Mirassol
+10278,2026,2026-11-22,Botafogo,x,São Paulo
+10279,2026,2026-11-22,Santos,x,Grêmio
+10280,2026,2026-11-22,Palmeiras,x,Flamengo
+10281,2026,2026-11-22,Bragantino,x,Vasco da Gama
+10282,2026,2026-11-22,Atlético MG,x,Corinthians
+10283,2026,2026-11-22,Internacional,x,Vitória
+10284,2026,2026-11-22,Athletico PR,x,Remo
+10285,2026,2026-11-22,Bahia,x,Coritiba
+10286,2026,2026-11-22,Chapecoense,x,Cruzeiro
+10287,2026,2026-11-29,Fluminense,x,Cruzeiro
+10288,2026,2026-11-29,Botafogo,x,Bahia
+10289,2026,2026-11-29,São Paulo,x,Remo
+10290,2026,2026-11-29,Corinthians,x,Grêmio
+10291,2026,2026-11-29,Mirassol,x,Athletico PR
+10292,2026,2026-11-29,Atlético MG,x,Vasco da Gama
+10293,2026,2026-11-29,Internacional,x,Bragantino
+10294,2026,2026-11-29,Coritiba,x,Flamengo
+10295,2026,2026-11-29,Vitória,x,Santos
+10296,2026,2026-11-29,Chapecoense,x,Palmeiras
+10297,2026,2026-12-02,Flamengo,x,Chapecoense
+10298,2026,2026-12-02,Vasco da Gama,x,Vitória
+10299,2026,2026-12-02,Santos,x,Botafogo
+10300,2026,2026-12-02,Palmeiras,x,Coritiba
+10301,2026,2026-12-02,Bragantino,x,Fluminense
+10302,2026,2026-12-02,Cruzeiro,x,Internacional
+10303,2026,2026-12-02,Grêmio,x,Mirassol
+10304,2026,2026-12-02,Athletico PR,x,São Paulo
+10305,2026,2026-12-02,Bahia,x,Atlético MG
+10306,2026,2026-12-02,Remo,x,Corinthians
