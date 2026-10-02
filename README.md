@@ -75,7 +75,3 @@ warranty.
 If you find any bug or wrong information, please [open a
 issue](https://github.com/williamorim/brasileirao/issues).
 
-## Next steps
-
-- Update the data every Monday and Thursday at 11:59 pm using GitHub
-  Actions.
