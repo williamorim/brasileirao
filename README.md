@@ -4,7 +4,7 @@
 # brasileirao
 
 R Package with the Brazilian National Soccer League (Brasileirão)
-matches from 2003 to 2022.
+matches from 2003 to 2026.
 
 <a href="https://raw.githubusercontent.com/williamorim/brasileirao/master/data-raw/csv/matches.csv" download="matches.csv">Click
 here</a> to download the matches table in CSV.
