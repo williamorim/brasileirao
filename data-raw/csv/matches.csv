@@ -9466,10 +9466,10 @@ id_match,season,date,home,score,away
 10225,2026,2026-10-12,Chapecoense,1x4,Athletico PR
 10226,2026,2026-10-12,Bragantino,4x2,Cruzeiro
 10227,2026,2026-10-16,Mirassol,2x0,Internacional
-10228,2026,2026-10-17,Botafogo,x,Chapecoense
-10229,2026,2026-10-17,Atlético MG,x,Coritiba
-10230,2026,2026-10-17,Athletico PR,x,Palmeiras
-10231,2026,2026-10-17,São Paulo,x,Vasco da Gama
+10228,2026,2026-10-17,Botafogo,1x0,Chapecoense
+10229,2026,2026-10-17,Atlético MG,1x0,Coritiba
+10230,2026,2026-10-17,Athletico PR,0x2,Palmeiras
+10231,2026,2026-10-17,São Paulo,1x0,Vasco da Gama
 10232,2026,2026-10-18,Fluminense,x,Santos
 10233,2026,2026-10-18,Grêmio,x,Cruzeiro
 10234,2026,2026-10-18,Bahia,x,Flamengo
