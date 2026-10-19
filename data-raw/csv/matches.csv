@@ -9470,10 +9470,10 @@ id_match,season,date,home,score,away
 10229,2026,2026-10-17,Atlético MG,1x0,Coritiba
 10230,2026,2026-10-17,Athletico PR,0x2,Palmeiras
 10231,2026,2026-10-17,São Paulo,1x0,Vasco da Gama
-10232,2026,2026-10-18,Fluminense,x,Santos
-10233,2026,2026-10-18,Grêmio,x,Cruzeiro
-10234,2026,2026-10-18,Bahia,x,Flamengo
-10235,2026,2026-10-18,Remo,x,Bragantino
+10232,2026,2026-10-18,Fluminense,1x2,Santos
+10233,2026,2026-10-18,Grêmio,2x4,Cruzeiro
+10234,2026,2026-10-18,Bahia,0x3,Flamengo
+10235,2026,2026-10-18,Remo,1x1,Bragantino
 10236,2026,2026-10-19,Corinthians,x,Vitória
 10237,2026,2026-10-23,Cruzeiro,x,Remo
 10238,2026,2026-10-24,Mirassol,x,São Paulo
