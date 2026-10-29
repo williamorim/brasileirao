@@ -9485,11 +9485,11 @@ id_match,season,date,home,score,away
 10244,2026,2026-10-24,Santos,1x1,Bahia
 10245,2026,2026-10-26,Coritiba,0x1,Grêmio
 10246,2026,2026-10-26,Flamengo,3x2,Atlético MG
-10247,2026,2026-10-28,Fluminense,x,Internacional
-10248,2026,2026-10-28,Santos,x,Palmeiras
-10249,2026,2026-10-28,Bragantino,x,Chapecoense
-10250,2026,2026-10-28,Bahia,x,São Paulo
-10251,2026,2026-10-28,Remo,x,Botafogo
+10247,2026,2026-10-28,Fluminense,2x1,Internacional
+10248,2026,2026-10-28,Santos,0x0,Palmeiras
+10249,2026,2026-10-28,Bragantino,3x0,Chapecoense
+10250,2026,2026-10-28,Bahia,3x2,São Paulo
+10251,2026,2026-10-28,Remo,2x1,Botafogo
 10252,2026,2026-10-29,Atlético MG,x,Cruzeiro
 10253,2026,2026-10-31,Coritiba,x,Vitória
 10254,2026,2026-10-29,Vasco da Gama,x,Flamengo
