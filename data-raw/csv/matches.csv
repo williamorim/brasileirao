@@ -9374,7 +9374,7 @@ id_match,season,date,home,score,away
 10133,2026,2026-09-16,Botafogo,3x2,Grêmio
 10134,2026,2026-10-02,São Paulo,1x2,Santos
 10135,2026,2026-10-03,Atlético MG,1x0,Bragantino
-10136,2026,NA,Chapecoense,x,Vasco da Gama
+10136,2026,2026-11-14,Chapecoense,x,Vasco da Gama
 10137,2026,2026-08-08,Grêmio,2x1,São Paulo
 10138,2026,2026-08-08,Remo,2x2,Atlético MG
 10139,2026,2026-08-08,Coritiba,2x1,Chapecoense
@@ -9494,7 +9494,7 @@ id_match,season,date,home,score,away
 10253,2026,2026-10-31,Coritiba,x,Vitória
 10254,2026,2026-10-29,Vasco da Gama,1x4,Flamengo
 10255,2026,2026-10-29,Grêmio,2x0,Athletico PR
-10256,2026,2026-10-30,Corinthians,x,Mirassol
+10256,2026,2026-10-30,Corinthians,2x0,Mirassol
 10257,2026,2026-11-02,Bragantino,x,Santos
 10258,2026,2026-11-03,Chapecoense,x,Mirassol
 10259,2026,2026-11-03,Internacional,x,Coritiba
@@ -9506,25 +9506,25 @@ id_match,season,date,home,score,away
 10265,2026,2026-11-05,Cruzeiro,x,Bahia
 10266,2026,2026-11-06,Vitória,x,Fluminense
 10267,2026,2026-11-18,Flamengo,x,Athletico PR
-10268,2026,2026-11-18,Vasco da Gama,x,Internacional
-10269,2026,2026-11-18,São Paulo,x,Fluminense
+10268,2026,2026-11-19,Vasco da Gama,x,Internacional
+10269,2026,2026-11-19,São Paulo,x,Fluminense
 10270,2026,2026-11-18,Corinthians,x,Botafogo
-10271,2026,2026-11-18,Mirassol,x,Atlético MG
+10271,2026,2026-11-14,Mirassol,x,Atlético MG
 10272,2026,2026-11-18,Cruzeiro,x,Palmeiras
 10273,2026,2026-11-18,Grêmio,x,Bahia
 10274,2026,2026-11-18,Coritiba,x,Santos
-10275,2026,2026-11-18,Vitória,x,Bragantino
+10275,2026,2026-11-19,Vitória,x,Bragantino
 10276,2026,2026-11-18,Remo,x,Chapecoense
 10277,2026,2026-11-22,Fluminense,x,Mirassol
-10278,2026,2026-11-22,Botafogo,x,São Paulo
-10279,2026,2026-11-22,Santos,x,Grêmio
-10280,2026,2026-11-22,Palmeiras,x,Flamengo
+10278,2026,2026-11-23,Botafogo,x,São Paulo
+10279,2026,2026-11-23,Santos,x,Grêmio
+10280,2026,2026-11-21,Palmeiras,x,Flamengo
 10281,2026,2026-11-22,Bragantino,x,Vasco da Gama
-10282,2026,2026-11-22,Atlético MG,x,Corinthians
-10283,2026,2026-11-22,Internacional,x,Vitória
+10282,2026,2026-11-25,Atlético MG,x,Corinthians
+10283,2026,2026-11-23,Internacional,x,Vitória
 10284,2026,2026-11-22,Athletico PR,x,Remo
-10285,2026,2026-11-22,Bahia,x,Coritiba
-10286,2026,2026-11-22,Chapecoense,x,Cruzeiro
+10285,2026,2026-11-21,Bahia,x,Coritiba
+10286,2026,2026-11-21,Chapecoense,x,Cruzeiro
 10287,2026,2026-11-29,Fluminense,x,Cruzeiro
 10288,2026,2026-11-29,Botafogo,x,Bahia
 10289,2026,2026-11-29,São Paulo,x,Remo
