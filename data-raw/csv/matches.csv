@@ -9504,7 +9504,7 @@ id_match,season,date,home,score,away
 10263,2026,2026-11-04,São Paulo,0x0,Corinthians
 10264,2026,2026-11-05,Palmeiras,6x1,Remo
 10265,2026,2026-11-05,Cruzeiro,3x2,Bahia
-10266,2026,2026-11-06,Vitória,x,Fluminense
+10266,2026,2026-11-06,Vitória,0x3,Fluminense
 10267,2026,2026-11-18,Flamengo,x,Athletico PR
 10268,2026,2026-11-19,Vasco da Gama,x,Internacional
 10269,2026,2026-11-19,São Paulo,x,Fluminense
@@ -9525,16 +9525,16 @@ id_match,season,date,home,score,away
 10284,2026,2026-11-22,Athletico PR,x,Remo
 10285,2026,2026-11-21,Bahia,x,Coritiba
 10286,2026,2026-11-21,Chapecoense,x,Cruzeiro
-10287,2026,2026-11-29,Fluminense,x,Cruzeiro
-10288,2026,2026-11-29,Botafogo,x,Bahia
-10289,2026,2026-11-29,São Paulo,x,Remo
+10287,2026,2026-11-27,Fluminense,x,Cruzeiro
+10288,2026,2026-11-28,Botafogo,x,Bahia
+10289,2026,2026-11-26,São Paulo,x,Remo
 10290,2026,2026-11-29,Corinthians,x,Grêmio
 10291,2026,2026-11-29,Mirassol,x,Athletico PR
 10292,2026,2026-11-29,Atlético MG,x,Vasco da Gama
 10293,2026,2026-11-29,Internacional,x,Bragantino
 10294,2026,2026-11-29,Coritiba,x,Flamengo
 10295,2026,2026-11-29,Vitória,x,Santos
-10296,2026,2026-11-29,Chapecoense,x,Palmeiras
+10296,2026,2026-11-24,Chapecoense,x,Palmeiras
 10297,2026,2026-12-02,Flamengo,x,Chapecoense
 10298,2026,2026-12-02,Vasco da Gama,x,Vitória
 10299,2026,2026-12-02,Santos,x,Botafogo
